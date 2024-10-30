@@ -2342,5 +2342,93 @@
     "userNumber": "51989480822",
     "userName": "Katheryn Morales Urmeneta",
     "botResponse": "¡Eso suena genial, Katheryn! Las tarifas competitivas en importaciones son fundamentales para el éxito en la logística. Si necesitas algún tipo de material o producto específico de nuestros catálogos, como tuberías, válvulas o accesorios automotrices para tus operaciones, no dudes en decírmelo. Estoy aquí para ayudarte a encontrar lo que necesites."
+  },
+  {
+    "id": "4c405594-1a91-477d-9ae5-842183b37851",
+    "timestamp": "2024-10-30T21:05:55.493Z",
+    "userMessage": "user: hola",
+    "userNumber": "51996602002",
+    "userName": "Analista Comercial",
+    "botResponse": "¡Hola! Es un placer saludarte. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "c586b502-f2bc-499c-a78c-0b8959e51144",
+    "timestamp": "2024-10-30T21:06:19.566Z",
+    "userMessage": "user: hola\nassistant: ¡Hola! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nuser: tienen una pagina venta en linea?",
+    "userNumber": "51996602002",
+    "userName": "Analista Comercial",
+    "botResponse": "¡Sí! Tenemos una tienda en línea donde puedes explorar todos nuestros productos. Puedes visitarla en https://tienda.ememsa.com. Si necesitas ayuda para encontrar algo específico, no dudes en decírmelo."
+  },
+  {
+    "id": "1a5a35ee-fb23-450a-8bf6-910f8c2ab1fd",
+    "timestamp": "2024-10-30T21:06:26.171Z",
+    "userMessage": "user: hola\nassistant: ¡Hola! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nuser: tienen una pagina venta en linea?\nassistant: ¡Sí! Tenemos una tienda en línea donde puedes explorar todos nuestros productos. Puedes visitarla en https://tienda.ememsa.com. Si necesitas ayuda para encontrar algo específico, no dudes en decírmelo.\nuser: ok gracias",
+    "userNumber": "51996602002",
+    "userName": "Analista Comercial",
+    "botResponse": "¡De nada! Si tienes alguna otra pregunta o necesitas más información, aquí estoy para ayudarte. ¡Que tengas un excelente día!"
+  },
+  {
+    "id": "fcbd0077-3b61-4f11-85a3-28c3c451ae88",
+    "timestamp": "2024-10-30T21:15:58.580Z",
+    "userMessage": "user: Buenas tardes, estamos organizando un taller por motivo de aniversario del Instituto Tecnológico Superior José Carlos Mariátegui. ¿Cuáles son los pasos y requisitos que debemos cumplir para coordinar y realizar los cursos taller con su empresa?",
+    "userNumber": "51921730360",
+    "userName": ".",
+    "botResponse": "¡Hola! Buenas tardes, gracias por contactarnos. Para coordinar y realizar cursos o talleres con nuestra empresa Ememsa, te recomendaría que te pongas en contacto directamente con nuestro equipo de Recursos Humanos. Ellos podrán brindarte toda la información necesaria sobre los pasos y requisitos específicos.\n\nPuedes contactar a Recursos Humanos al número 963127831 para obtener más detalles.\n\nSi necesitas información sobre nuestros productos o servicios, no dudes en preguntar. ¡Estoy aquí para ayudarte!"
+  },
+  {
+    "id": "92d9caa5-2ad6-413f-831a-2220cc2cfe56",
+    "timestamp": "2024-10-30T21:21:13.639Z",
+    "userMessage": "user: Hola",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "¡Hola Rolando! 😊 ¿Cómo puedo ayudarte hoy?"
+  },
+  {
+    "id": "eadb35cd-42bd-4b14-9494-780d39027f91",
+    "timestamp": "2024-10-30T21:21:38.030Z",
+    "userMessage": "user: Hola\nassistant: ¡Hola Rolando! 😊 ¿Cómo puedo ayudarte hoy?\nuser: Cotízame 20 und de abrazaderas",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "Claro, Rolando. Contamos con abrazaderas en varias medidas. ¿Podrías indicarme qué tipo o medida específica de abrazaderas necesitas para poder darte una cotización más precisa?"
+  },
+  {
+    "id": "60fbbc77-7c6f-4133-9b90-c28c26413303",
+    "timestamp": "2024-10-30T21:21:56.852Z",
+    "userMessage": "user: Hola\nassistant: ¡Hola Rolando! 😊 ¿Cómo puedo ayudarte hoy?\nuser: Cotízame 20 und de abrazaderas\nassistant: Claro, Rolando. Contamos con abrazaderas en varias medidas. ¿Podrías indicarme qué tipo o medida específica de abrazaderas necesitas para poder darte una cotización más precisa?\nuser: 45-50",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "Perfecto, Rolando. Te puedo ayudar con abrazaderas de 45-50 mm. Te recomiendo visitar nuestro catálogo en línea para ver las opciones disponibles y sus precios: [tienda.ememsa.com](https://tienda.ememsa.com).\n\nSi necesitas más detalles o una cotización específica, no dudes en contactarnos con un técnico especializado. Aquí tienes el enlace para hacerlo: [Asesoría Técnica](https://wa.me/+51949688368?text=Buen%20dia%20requiero%20info).\n\n¿Hay algo más en lo que pueda ayudarte?"
+  },
+  {
+    "id": "2a74d9f1-892e-4755-b175-6bd7fb22ce72",
+    "timestamp": "2024-10-30T21:22:18.268Z",
+    "userMessage": "user: Hola\nassistant: ¡Hola Rolando! 😊 ¿Cómo puedo ayudarte hoy?\nuser: Cotízame 20 und de abrazaderas\nassistant: Claro, Rolando. Contamos con abrazaderas en varias medidas. ¿Podrías indicarme qué tipo o medida específica de abrazaderas necesitas para poder darte una cotización más precisa?\nuser: 45-50\nassistant: Perfecto, Rolando. Te puedo ayudar con abrazaderas de 45-50 mm. Te recomiendo visitar nuestro catálogo en línea para ver las opciones disponibles y sus precios: [tienda.ememsa.com](https://tienda.ememsa.com).\n\nSi necesitas más detalles o una cotización específica, no dudes en contactarnos con un técnico especializado. Aquí tienes el enlace para hacerlo: [Asesoría Técnica](https://wa.me/+51949688368?text=Buen%20dia%20requiero%20info).\n\n¿Hay algo más en lo que pueda ayudarte?\nuser: Ok",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "¡Genial! Si necesitas más información o tienes alguna otra consulta, no dudes en decírmelo. Estoy aquí para ayudarte. 😊 Gracias por tu interés en Ememsa y que tengas un excelente día, Rolando."
+  },
+  {
+    "id": "0809ac42-5fea-4a9e-b4fd-b4e51c260d22",
+    "timestamp": "2024-10-30T21:25:36.411Z",
+    "userMessage": "user: Buenas tardes, cree que podría ayudarme con el correo  de Emensa?  quisiera realizar practicas  administrativas",
+    "userNumber": "51960667189",
+    "userName": "YG",
+    "botResponse": "¡Hola YG! Buenas tardes, claro que sí, puedo ayudarte con eso. Para consultas sobre recursos humanos, como empleo o prácticas, te recomiendo contactar al número 963127831. Ellos podrán darte la información que necesitas para realizar tus prácticas administrativas.\n\nSi hay algo más en lo que pueda asistirte, no dudes en decírmelo. ¡Gracias por tu interés en Ememsa!"
+  },
+  {
+    "id": "3bf63934-6088-4e65-8b0e-a2bc993a92b6",
+    "timestamp": "2024-10-30T21:26:02.475Z",
+    "userMessage": "user: Buenas tardes, cree que podría ayudarme con el correo  de Emensa?  quisiera realizar practicas  administrativas\nassistant: ¡Hola YG! Buenas tardes, claro que sí, puedo ayudarte con eso. Para consultas sobre recursos humanos, como empleo o prácticas, te recomiendo contactar al número 963127831. Ellos podrán darte la información que necesitas para realizar tus prácticas administrativas.\n\nSi hay algo más en lo que pueda asistirte, no dudes en decírmelo. ¡Gracias por tu interés en Ememsa!\nuser: Muchas gracias! :)",
+    "userNumber": "51960667189",
+    "userName": "YG",
+    "botResponse": "¡De nada! 😊 Si necesitas más ayuda o información en el futuro, no dudes en volver. ¡Te deseo mucho éxito en tu búsqueda de prácticas! ¡Que tengas un excelente día!"
+  },
+  {
+    "id": "60840ce3-2cc0-4ed1-83a1-a4506dcc844a",
+    "timestamp": "2024-10-30T21:26:11.264Z",
+    "userMessage": "user: Buenas tardes, cree que podría ayudarme con el correo  de Emensa?  quisiera realizar practicas  administrativas\nassistant: ¡Hola YG! Buenas tardes, claro que sí, puedo ayudarte con eso. Para consultas sobre recursos humanos, como empleo o prácticas, te recomiendo contactar al número 963127831. Ellos podrán darte la información que necesitas para realizar tus prácticas administrativas.\n\nSi hay algo más en lo que pueda asistirte, no dudes en decírmelo. ¡Gracias por tu interés en Ememsa!\nuser: Muchas gracias! :)\nassistant: ¡De nada! 😊 Si necesitas más ayuda o información en el futuro, no dudes en volver. ¡Te deseo mucho éxito en tu búsqueda de prácticas! ¡Que tengas un excelente día!\nuser: ",
+    "userNumber": "51960667189",
+    "userName": "YG",
+    "botResponse": "Si tienes alguna otra pregunta o necesitas más información, aquí estoy para ayudarte. ¡No dudes en preguntar! 😊"
   }
 ]

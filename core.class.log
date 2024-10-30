@@ -1,525 +1,104 @@
 [handleMsg]:  {
-  messageStubParameters: [],
-  labels: [],
-  userReceipt: [],
-  reactions: [],
-  pollUpdates: [],
-  eventResponses: [],
-  key: MessageKey {
-    remoteJid: '51946297709@s.whatsapp.net',
-    fromMe: false,
-    id: '86AEE0F9C26CFC1C70C31C684260229F'
-  },
-  message: Message {
-    conversation: 'Buenas tardes, por favor tendrá lo siguiente'
-  },
-  messageTimestamp: Long { low: 1730242705, high: 0, unsigned: true },
-  reportingTokenInfo: ReportingTokenInfo {
-    reportingTag: Uint8Array(16) [
-        1, 143,  37, 217,  36,
-      218, 225, 112,  99, 248,
-       54, 135, 244, 119,  33,
-      204
-    ]
-  },
-  body: 'Buenas tardes, por favor tendrá lo siguiente',
-  name: '',
-  from: '51946297709'
-}
-[handleMsg]:  {
-  messageStubParameters: [],
-  labels: [],
-  userReceipt: [],
-  reactions: [],
-  pollUpdates: [],
-  eventResponses: [],
-  key: MessageKey {
-    remoteJid: '51963523653@s.whatsapp.net',
-    fromMe: false,
-    id: '7936D5C73AC360471C5E53C4A6DBA734'
-  },
-  message: Message { conversation: 'Buenas noches' },
-  messageTimestamp: Long { low: 1730256768, high: 0, unsigned: true },
-  reportingTokenInfo: ReportingTokenInfo {
-    reportingTag: Uint8Array(16) [
-        1, 143, 108, 104, 255,
-      230, 107,  95,  29, 227,
-       69, 182,  90, 247,  48,
-      151
-    ]
-  },
-  body: 'Buenas noches',
-  name: '',
-  from: '51963523653'
-}
-[handleMsg]:  {
   key: {
-    remoteJid: '51963523653@s.whatsapp.net',
+    remoteJid: '51956326678@s.whatsapp.net',
     fromMe: false,
-    id: 'FCE12719D73FA5324741A0A3C99E62DF',
+    id: '3AD99C882072CE57CE83',
     participant: undefined
   },
-  messageTimestamp: 1730296258,
-  pushName: 'christian💙',
+  messageTimestamp: 1730323272,
+  pushName: 'Rolando Martinez',
   broadcast: false,
   message: Message {
-    conversation: 'Buenos dias necesigo este modelo de valvula cromada',
+    conversation: 'Hola',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2,
       messageSecret: [Uint8Array]
     }
   },
-  body: 'Buenos dias necesigo este modelo de valvula cromada',
-  name: 'christian💙',
-  from: '51963523653'
+  body: 'Hola',
+  name: 'Rolando Martinez',
+  from: '51956326678'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '51963523653@s.whatsapp.net',
+    remoteJid: '51956326678@s.whatsapp.net',
     fromMe: false,
-    id: '8AF4A66B2A6D05C549F09666703B2B92',
+    id: '3AACBCFB48E5EBB5D65F',
     participant: undefined
   },
-  messageTimestamp: 1730296267,
-  pushName: 'christian💙',
+  messageTimestamp: 1730323297,
+  pushName: 'Rolando Martinez',
   broadcast: false,
   message: Message {
-    imageMessage: ImageMessage {
-      interactiveAnnotations: [],
-      scanLengths: [Array],
-      annotations: [],
-      url: 'https://mmg.whatsapp.net/v/t62.7118-24/30437191_1906379123193290_6353283138097433480_n.enc?ccb=11-4&oh=01_Q5AaIPiaKRj9tt4zI0XQC4a-ZrvzNbpf3u9ouYgdVo-Ai6EO&oe=67499633&_nc_sid=5e03e0&mms3=true',
-      mimetype: 'image/jpeg',
-      fileSha256: [Uint8Array],
-      fileLength: [Long],
-      height: 1600,
-      width: 721,
-      mediaKey: [Uint8Array],
-      fileEncSha256: [Uint8Array],
-      directPath: '/v/t62.7118-24/30437191_1906379123193290_6353283138097433480_n.enc?ccb=11-4&oh=01_Q5AaIPiaKRj9tt4zI0XQC4a-ZrvzNbpf3u9ouYgdVo-Ai6EO&oe=67499633&_nc_sid=5e03e0',
-      mediaKeyTimestamp: [Long],
-      jpegThumbnail: [Uint8Array],
-      scansSidecar: [Uint8Array],
-      midQualityFileSha256: [Uint8Array]
-    },
+    conversation: 'Cotízame 20 und de abrazaderas',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2,
       messageSecret: [Uint8Array]
     }
   },
-  body: '_event_media_',
-  name: 'christian💙',
-  from: '51963523653'
+  body: 'Cotízame 20 und de abrazaderas',
+  name: 'Rolando Martinez',
+  from: '51956326678'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '51963523653@s.whatsapp.net',
+    remoteJid: '51956326678@s.whatsapp.net',
     fromMe: false,
-    id: '79AA9C9083BF82712878BDEDBC4FBA48',
+    id: '3AA6B8548C03647C7BFE',
     participant: undefined
   },
-  messageTimestamp: 1730296267,
-  pushName: 'christian💙',
+  messageTimestamp: 1730323313,
+  pushName: 'Rolando Martinez',
   broadcast: false,
   message: Message {
-    imageMessage: ImageMessage {
-      interactiveAnnotations: [],
-      scanLengths: [],
-      annotations: [],
-      url: 'https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m232/up-oil-image-06a6913b-e8aa-4946-ae8e-0b6c2009e894?ccb=9-4&oh=01_Q5AaIAQt62f7MrIETaFYgTzzOfhObk51Ngn5w3klzhlhVcpY&oe=6749B17D&_nc_sid=e6ed6c&mms3=true',
-      mimetype: 'image/jpeg',
-      fileSha256: [Uint8Array],
-      fileLength: [Long],
-      height: 900,
-      width: 1600,
-      mediaKey: [Uint8Array],
-      fileEncSha256: [Uint8Array],
-      directPath: '/o1/v/t62.7118-24/f1/m232/up-oil-image-06a6913b-e8aa-4946-ae8e-0b6c2009e894?ccb=9-4&oh=01_Q5AaIAQt62f7MrIETaFYgTzzOfhObk51Ngn5w3klzhlhVcpY&oe=6749B17D&_nc_sid=e6ed6c',
-      mediaKeyTimestamp: [Long],
-      jpegThumbnail: [Uint8Array]
-    },
+    conversation: '45-50',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2,
       messageSecret: [Uint8Array]
     }
   },
-  body: '_event_media_',
-  name: 'christian💙',
-  from: '51963523653'
+  body: '45-50',
+  name: 'Rolando Martinez',
+  from: '51956326678'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '51963523653@s.whatsapp.net',
+    remoteJid: '51956326678@s.whatsapp.net',
     fromMe: false,
-    id: 'F09EFCE8136DABA8DF48E198E71E5014',
+    id: '3A3A8EDE98569BF57831',
     participant: undefined
   },
-  messageTimestamp: 1730296267,
-  pushName: 'christian💙',
+  messageTimestamp: 1730323337,
+  pushName: 'Rolando Martinez',
   broadcast: false,
   message: Message {
-    imageMessage: ImageMessage {
-      interactiveAnnotations: [],
-      scanLengths: [],
-      annotations: [],
-      url: 'https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m233/up-oil-image-627c96b0-b971-4d43-b1f1-38df250377d2?ccb=9-4&oh=01_Q5AaIFaSkvTwvFUBKi_5uBvzYyWM0-JLd32TEROg7z3VUYFK&oe=6749BC6E&_nc_sid=e6ed6c&mms3=true',
-      mimetype: 'image/jpeg',
-      fileSha256: [Uint8Array],
-      fileLength: [Long],
-      height: 900,
-      width: 1600,
-      mediaKey: [Uint8Array],
-      fileEncSha256: [Uint8Array],
-      directPath: '/o1/v/t62.7118-24/f1/m233/up-oil-image-627c96b0-b971-4d43-b1f1-38df250377d2?ccb=9-4&oh=01_Q5AaIFaSkvTwvFUBKi_5uBvzYyWM0-JLd32TEROg7z3VUYFK&oe=6749BC6E&_nc_sid=e6ed6c',
-      mediaKeyTimestamp: [Long],
-      jpegThumbnail: [Uint8Array]
-    },
+    conversation: 'Ok',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2,
       messageSecret: [Uint8Array]
     }
   },
-  body: '_event_media_',
-  name: 'christian💙',
-  from: '51963523653'
+  body: 'Ok',
+  name: 'Rolando Martinez',
+  from: '51956326678'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '51963523653@s.whatsapp.net',
+    remoteJid: '51960667189@s.whatsapp.net',
     fromMe: false,
-    id: '4551F57DDD13FD89E02E66E0C36F1D6B',
+    id: 'ECA8790BC5B33167274D6171CBAABA20',
     participant: undefined
   },
-  messageTimestamp: 1730296297,
-  pushName: 'christian💙',
-  broadcast: false,
-  message: Message {
-    conversation: 'Ese mismo modelo tienes',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: 'Ese mismo modelo tienes',
-  name: 'christian💙',
-  from: '51963523653'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51963523653@s.whatsapp.net',
-    fromMe: false,
-    id: '816674E915D9AF060EA90021C839E0A4',
-    participant: undefined
-  },
-  messageTimestamp: 1730296306,
-  pushName: 'christian💙',
-  broadcast: false,
-  message: Message {
-    imageMessage: ImageMessage {
-      interactiveAnnotations: [],
-      scanLengths: [],
-      annotations: [],
-      url: 'https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m232/up-oil-image-06a6913b-e8aa-4946-ae8e-0b6c2009e894?ccb=9-4&oh=01_Q5AaIAQt62f7MrIETaFYgTzzOfhObk51Ngn5w3klzhlhVcpY&oe=6749B17D&_nc_sid=e6ed6c&mms3=true',
-      mimetype: 'image/jpeg',
-      fileSha256: [Uint8Array],
-      fileLength: [Long],
-      height: 900,
-      width: 1600,
-      mediaKey: [Uint8Array],
-      fileEncSha256: [Uint8Array],
-      directPath: '/o1/v/t62.7118-24/f1/m232/up-oil-image-06a6913b-e8aa-4946-ae8e-0b6c2009e894?ccb=9-4&oh=01_Q5AaIAQt62f7MrIETaFYgTzzOfhObk51Ngn5w3klzhlhVcpY&oe=6749B17D&_nc_sid=e6ed6c',
-      mediaKeyTimestamp: [Long],
-      jpegThumbnail: [Uint8Array]
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: '_event_media_',
-  name: 'christian💙',
-  from: '51963523653'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51963523653@s.whatsapp.net',
-    fromMe: false,
-    id: '22D01F031306C31C7CB5ADB46F86F465',
-    participant: undefined
-  },
-  messageTimestamp: 1730296306,
-  pushName: 'christian💙',
-  broadcast: false,
-  message: Message {
-    imageMessage: ImageMessage {
-      interactiveAnnotations: [],
-      scanLengths: [],
-      annotations: [],
-      url: 'https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m233/up-oil-image-627c96b0-b971-4d43-b1f1-38df250377d2?ccb=9-4&oh=01_Q5AaIFaSkvTwvFUBKi_5uBvzYyWM0-JLd32TEROg7z3VUYFK&oe=6749BC6E&_nc_sid=e6ed6c&mms3=true',
-      mimetype: 'image/jpeg',
-      fileSha256: [Uint8Array],
-      fileLength: [Long],
-      height: 900,
-      width: 1600,
-      mediaKey: [Uint8Array],
-      fileEncSha256: [Uint8Array],
-      directPath: '/o1/v/t62.7118-24/f1/m233/up-oil-image-627c96b0-b971-4d43-b1f1-38df250377d2?ccb=9-4&oh=01_Q5AaIFaSkvTwvFUBKi_5uBvzYyWM0-JLd32TEROg7z3VUYFK&oe=6749BC6E&_nc_sid=e6ed6c',
-      mediaKeyTimestamp: [Long],
-      jpegThumbnail: [Uint8Array]
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: '_event_media_',
-  name: 'christian💙',
-  from: '51963523653'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51980496306@s.whatsapp.net',
-    fromMe: false,
-    id: '3EB0C931E31E207414A756',
-    participant: undefined
-  },
-  messageTimestamp: 1730296334,
-  pushName: 'Henry',
-  broadcast: false,
-  message: Message {
-    conversation: 'Buenos dias',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: 'Buenos dias',
-  name: 'Henry',
-  from: '51980496306'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51980496306@s.whatsapp.net',
-    fromMe: false,
-    id: '3EB011FC26EB06F33C806D',
-    participant: undefined
-  },
-  messageTimestamp: 1730296367,
-  pushName: 'Henry',
-  broadcast: false,
-  message: Message {
-    conversation: 'Realizan mecanizado y fabricacion de matricers',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: 'Realizan mecanizado y fabricacion de matricers',
-  name: 'Henry',
-  from: '51980496306'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51980496306@s.whatsapp.net',
-    fromMe: false,
-    id: '3EB0244847B80CD26DFBE4',
-    participant: undefined
-  },
-  messageTimestamp: 1730296389,
-  pushName: 'Henry',
-  broadcast: false,
-  message: Message {
-    conversation: 'Por favor me envia su correo para solicitar cotizacion',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: 'Por favor me envia su correo para solicitar cotizacion',
-  name: 'Henry',
-  from: '51980496306'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51989480822@s.whatsapp.net',
-    fromMe: false,
-    id: '2AC51ADEC1E3CEB88C158E5912722654',
-    participant: undefined
-  },
-  messageTimestamp: 1730299498,
-  pushName: 'Katheryn Morales Urmeneta',
-  broadcast: false,
-  message: Message {
-    imageMessage: ImageMessage {
-      interactiveAnnotations: [],
-      scanLengths: [Array],
-      annotations: [],
-      url: 'https://mmg.whatsapp.net/v/t62.7118-24/19977675_1248578166461884_5947279705409278012_n.enc?ccb=11-4&oh=01_Q5AaIHM0Y-z6R7NHGZgQCNexlCv-f9vSZjFnR2-ZnROWqlds&oe=6749C5BB&_nc_sid=5e03e0&mms3=true',
-      mimetype: 'image/jpeg',
-      fileSha256: [Uint8Array],
-      fileLength: [Long],
-      height: 1199,
-      width: 859,
-      mediaKey: [Uint8Array],
-      fileEncSha256: [Uint8Array],
-      directPath: '/v/t62.7118-24/19977675_1248578166461884_5947279705409278012_n.enc?ccb=11-4&oh=01_Q5AaIHM0Y-z6R7NHGZgQCNexlCv-f9vSZjFnR2-ZnROWqlds&oe=6749C5BB&_nc_sid=5e03e0',
-      mediaKeyTimestamp: [Long],
-      jpegThumbnail: [Uint8Array],
-      contextInfo: [ContextInfo],
-      scansSidecar: [Uint8Array],
-      midQualityFileSha256: [Uint8Array]
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: '_event_media_',
-  name: 'Katheryn Morales Urmeneta',
-  from: '51989480822'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51961346573@s.whatsapp.net',
-    fromMe: false,
-    id: '3EB0CB415E75D40B4EF5F5',
-    participant: undefined
-  },
-  messageTimestamp: 1730300868,
-  pushName: 'Diana Concepcion Toribio',
-  broadcast: false,
-  message: Message {
-    conversation: 'Buen dia',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: 'Buen dia',
-  name: 'Diana Concepcion Toribio',
-  from: '51961346573'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51961346573@s.whatsapp.net',
-    fromMe: false,
-    id: '3EB0CE00EACCDEE7D033C9',
-    participant: undefined
-  },
-  messageTimestamp: 1730300882,
-  pushName: 'Diana Concepcion Toribio',
-  broadcast: false,
-  message: Message {
-    conversation: 'Te escribe Diana Concepción Toribio\n' +
-      'Razón Social: Solandra Sac\n' +
-      'Ruc: 20555592443\n' +
-      'Dom Fiscal: Av. Industrial 3233\n' +
-      'Correo: logistica@solandra.pe',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: 'Te escribe Diana Concepción Toribio\n' +
-    'Razón Social: Solandra Sac\n' +
-    'Ruc: 20555592443\n' +
-    'Dom Fiscal: Av. Industrial 3233\n' +
-    'Correo: logistica@solandra.pe',
-  name: 'Diana Concepcion Toribio',
-  from: '51961346573'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51961346573@s.whatsapp.net',
-    fromMe: false,
-    id: '9CC76BF9E7D742F417A92B004243872E',
-    participant: undefined
-  },
-  messageTimestamp: 1730300915,
-  pushName: 'Diana Concepcion Toribio',
-  broadcast: false,
-  message: Message {
-    imageMessage: ImageMessage {
-      interactiveAnnotations: [],
-      scanLengths: [],
-      annotations: [],
-      url: 'https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m234/up-oil-image-8e1079ed-ae7c-4690-af5e-28705b71ff34?ccb=9-4&oh=01_Q5AaIHpks4a2I60PqSIWisL-KqFW1YS54HYV3MAR8FVFXRfP&oe=67475E2A&_nc_sid=e6ed6c&mms3=true',
-      mimetype: 'image/jpeg',
-      fileSha256: [Uint8Array],
-      fileLength: [Long],
-      height: 614,
-      width: 718,
-      mediaKey: [Uint8Array],
-      fileEncSha256: [Uint8Array],
-      directPath: '/o1/v/t62.7118-24/f1/m234/up-oil-image-8e1079ed-ae7c-4690-af5e-28705b71ff34?ccb=9-4&oh=01_Q5AaIHpks4a2I60PqSIWisL-KqFW1YS54HYV3MAR8FVFXRfP&oe=67475E2A&_nc_sid=e6ed6c&_nc_hot=1730300914',
-      mediaKeyTimestamp: [Long],
-      jpegThumbnail: [Uint8Array],
-      contextInfo: [ContextInfo]
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: '_event_media_',
-  name: 'Diana Concepcion Toribio',
-  from: '51961346573'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51961346573@s.whatsapp.net',
-    fromMe: false,
-    id: '3EB0C5A51AFA9A6685B8B6',
-    participant: undefined
-  },
-  messageTimestamp: 1730300946,
-  pushName: 'Diana Concepcion Toribio',
+  messageTimestamp: 1730323528,
+  pushName: 'YG',
   broadcast: false,
   message: Message {
     extendedTextMessage: ExtendedTextMessage {
-      text: 'Puedes cotizarme lo siguiente por favor',
-      contextInfo: [ContextInfo],
-      inviteLinkGroupTypeV2: 0
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: 'Puedes cotizarme lo siguiente por favor',
-  name: 'Diana Concepcion Toribio',
-  from: '51961346573'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51961819146@s.whatsapp.net',
-    fromMe: false,
-    id: '066236EFF96C0D77AB3BCEB4CBF876D3',
-    participant: undefined
-  },
-  messageTimestamp: 1730301000,
-  pushName: 'Gilmer',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'Buenos días soy el señor gilmer Arriola Guizado.\n' +
-        'de la empresa Representaciones y servicios MH scrl.\n' +
-        'RUC es 20546745385',
+      text: 'Buenas tardes, cree que podría ayudarme con el correo  de Emensa?  quisiera realizar practicas  administrativas',
       previewType: 0,
       contextInfo: [ContextInfo],
       inviteLinkGroupTypeV2: 0
@@ -530,494 +109,54 @@
       messageSecret: [Uint8Array]
     }
   },
-  body: 'Buenos días soy el señor gilmer Arriola Guizado.\n' +
-    'de la empresa Representaciones y servicios MH scrl.\n' +
-    'RUC es 20546745385',
-  name: 'Gilmer',
-  from: '51961819146'
+  body: 'Buenas tardes, cree que podría ayudarme con el correo  de Emensa?  quisiera realizar practicas  administrativas',
+  name: 'YG',
+  from: '51960667189'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '51961819146@s.whatsapp.net',
+    remoteJid: '51960667189@s.whatsapp.net',
     fromMe: false,
-    id: 'BBB6ECC06EBC8DBF2D22BA3236B46AEB',
+    id: '2D246D52E3FBECF1C46F3BF7DF61063A',
     participant: undefined
   },
-  messageTimestamp: 1730301031,
-  pushName: 'Gilmer',
+  messageTimestamp: 1730323560,
+  pushName: 'YG',
   broadcast: false,
   message: Message {
-    conversation: 'Buenos días tendrás graseras zincadas recto?\n' +
-      '\n' +
-      '100 und Grasera recta de\n' +
-      '                 1/8 NPT\n' +
-      '100 und Grasera recta de \n' +
-      '                 1/4 NPT\n' +
-      '100 und Grasera recta de \n' +
-      '                 3/8 NPT \n' +
-      '200 und Grasera recta de \n' +
-      '                1/2 NPT',
+    conversation: 'Muchas gracias! :)',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2,
       messageSecret: [Uint8Array]
     }
   },
-  body: 'Buenos días tendrás graseras zincadas recto?\n' +
-    '\n' +
-    '100 und Grasera recta de\n' +
-    '                 1/8 NPT\n' +
-    '100 und Grasera recta de \n' +
-    '                 1/4 NPT\n' +
-    '100 und Grasera recta de \n' +
-    '                 3/8 NPT \n' +
-    '200 und Grasera recta de \n' +
-    '                1/2 NPT',
-  name: 'Gilmer',
-  from: '51961819146'
+  body: 'Muchas gracias! :)',
+  name: 'YG',
+  from: '51960667189'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '51972095340@s.whatsapp.net',
+    remoteJid: '51960667189@s.whatsapp.net',
     fromMe: false,
-    id: 'E302DC208B7D6AD08CB8EAA16F9B6862',
+    id: '5D84E033980EC197CA706704834FBD7C',
     participant: undefined
   },
-  messageTimestamp: 1730301060,
-  pushName: 'culquijuarezronald70',
-  broadcast: false,
-  messageStubType: 2,
-  messageStubParameters: [ 'Message absent from node' ],
-  body: undefined,
-  name: 'culquijuarezronald70',
-  from: '51972095340'
-}
-[handleMsg]:  {
-  messageStubParameters: [],
-  labels: [],
-  userReceipt: [],
-  reactions: [],
-  pollUpdates: [],
-  eventResponses: [],
-  key: MessageKey {
-    remoteJid: '51972095340@s.whatsapp.net',
-    fromMe: false,
-    id: 'E302DC208B7D6AD08CB8EAA16F9B6862'
-  },
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'Hola buenos días',
-      previewType: 0,
-      contextInfo: [ContextInfo],
-      inviteLinkGroupTypeV2: 0
-    }
-  },
-  messageTimestamp: Long { low: 1730301060, high: 0, unsigned: true },
-  messageSecret: Uint8Array(32) [
-     56,  10,  53, 175,   6, 239, 101,  17,
-     73, 123, 197,  17, 254, 230,  97, 200,
-    172,  37,  33, 105,  52,  33, 244, 255,
-    136, 103, 252, 239, 161, 206,  54, 163
-  ],
-  reportingTokenInfo: ReportingTokenInfo {
-    reportingTag: Uint8Array(16) [
-        1, 143,  86, 130, 206, 40,
-       15, 148, 195,  71,  25, 92,
-      103, 195,  55, 121
-    ]
-  },
-  body: 'Hola buenos días',
-  name: '',
-  from: '51972095340'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51972095340@s.whatsapp.net',
-    fromMe: false,
-    id: 'E4AEE7174D25BE286598777A47887F9A',
-    participant: undefined
-  },
-  messageTimestamp: 1730301117,
-  pushName: 'culquijuarezronald70',
+  messageTimestamp: 1730323570,
+  pushName: 'YG',
   broadcast: false,
   message: Message {
-    conversation: 'Me llegó un mensaje de parte de ustedes .  Para el puesto de soldador',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: 'Me llegó un mensaje de parte de ustedes .  Para el puesto de soldador',
-  name: 'culquijuarezronald70',
-  from: '51972095340'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51972095340@s.whatsapp.net',
-    fromMe: false,
-    id: 'DB96BF922D184C6A6CF821D31A2D398D',
-    participant: undefined
-  },
-  messageTimestamp: 1730301140,
-  pushName: 'culquijuarezronald70',
-  broadcast: false,
-  message: Message {
-    conversation: 'Ok gracias',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: 'Ok gracias',
-  name: 'culquijuarezronald70',
-  from: '51972095340'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51972095340@s.whatsapp.net',
-    fromMe: false,
-    id: 'EF137096DA77A25FEA3CC2E7BC10D5F2',
-    participant: undefined
-  },
-  messageTimestamp: 1730301160,
-  pushName: 'culquijuarezronald70',
-  broadcast: false,
-  message: Message {
-    conversation: 'Igual. Un buen día',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: 'Igual. Un buen día',
-  name: 'culquijuarezronald70',
-  from: '51972095340'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51989480822@s.whatsapp.net',
-    fromMe: false,
-    id: '3EB00197FD0D7FBA0F64E6',
-    participant: undefined
-  },
-  messageTimestamp: 1730302066,
-  pushName: 'Katheryn Morales Urmeneta',
-  broadcast: false,
-  message: Message {
-    conversation: 'Le saluda Katheryn Morales, ejecutiva comercial de la agencia de carga internacional CS logistics, contamos con los servicios como agencia de aduanas, agencia de carga internacional, transporte, almacén y seguro internacional',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: 'Le saluda Katheryn Morales, ejecutiva comercial de la agencia de carga internacional CS logistics, contamos con los servicios como agencia de aduanas, agencia de carga internacional, transporte, almacén y seguro internacional',
-  name: 'Katheryn Morales Urmeneta',
-  from: '51989480822'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51987921111@s.whatsapp.net',
-    fromMe: false,
-    id: '3EB0F7078A1AC64B68325C',
-    participant: undefined
-  },
-  messageTimestamp: 1730302252,
-  pushName: '😎 Paul Céspedes Véliz 😎',
-  broadcast: false,
-  message: Message {
-    conversation: 'Buenos días',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: 'Buenos días',
-  name: '😎 Paul Céspedes Véliz 😎',
-  from: '51987921111'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51987921111@s.whatsapp.net',
-    fromMe: false,
-    id: '3EB0D82085CCF7E97A8DBF',
-    participant: undefined
-  },
-  messageTimestamp: 1730302268,
-  pushName: '😎 Paul Céspedes Véliz 😎',
-  broadcast: false,
-  message: Message {
-    conversation: 'deseo consultar si estas recibiendo cv',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: 'deseo consultar si estas recibiendo cv',
-  name: '😎 Paul Céspedes Véliz 😎',
-  from: '51987921111'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51987921111@s.whatsapp.net',
-    fromMe: false,
-    id: '3EB07D06FCB82BEB70F37D',
-    participant: undefined
-  },
-  messageTimestamp: 1730302304,
-  pushName: '😎 Paul Céspedes Véliz 😎',
-  broadcast: false,
-  message: Message {
-    conversation: 'ok gracias por la informacion',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: 'ok gracias por la informacion',
-  name: '😎 Paul Céspedes Véliz 😎',
-  from: '51987921111'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51910176125@s.whatsapp.net',
-    fromMe: false,
-    id: '3EB0F15A6CF78E0640DEB9',
-    participant: undefined
-  },
-  messageTimestamp: 1730303948,
-  pushName: 'Anthony Barrios|RIN PERU',
-  broadcast: false,
-  message: Message {
-    conversation: 'HOLA BUENOS DIAS',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: 'HOLA BUENOS DIAS',
-  name: 'Anthony Barrios|RIN PERU',
-  from: '51910176125'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51910176125@s.whatsapp.net',
-    fromMe: false,
-    id: '3EB0DC9ED6DC6BA34FB91F',
-    participant: undefined
-  },
-  messageTimestamp: 1730303979,
-  pushName: 'Anthony Barrios|RIN PERU',
-  broadcast: false,
-  message: Message {
-    conversation: 'una consulta hacen rectificado de tanques?',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: 'una consulta hacen rectificado de tanques?',
-  name: 'Anthony Barrios|RIN PERU',
-  from: '51910176125'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51994284387@s.whatsapp.net',
-    fromMe: false,
-    id: '0FAFF53151EEA6740E4FDDEE728B5EC3',
-    participant: undefined
-  },
-  messageTimestamp: 1730304180,
-  pushName: 'José Castro',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'Buenos días.',
-      previewType: 0,
-      contextInfo: [ContextInfo],
-      inviteLinkGroupTypeV2: 0
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: 'Buenos días.',
-  name: 'José Castro',
-  from: '51994284387'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51994284387@s.whatsapp.net',
-    fromMe: false,
-    id: '3EB074B4B401B4B6A64ABB',
-    participant: undefined
-  },
-  messageTimestamp: 1730304184,
-  pushName: 'José Castro',
-  broadcast: false,
-  message: Message {
-    protocolMessage: ProtocolMessage {
-      type: 4,
-      ephemeralExpiration: 0,
-      ephemeralSettingTimestamp: [Long],
-      disappearingMode: [DisappearingMode]
-    },
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2
+    },
+    reactionMessage: ReactionMessage {
+      key: [MessageKey],
+      text: '🙌',
+      senderTimestampMs: [Long]
     }
   },
   body: '',
-  name: 'José Castro',
-  from: '51994284387'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51994284387@s.whatsapp.net',
-    fromMe: false,
-    id: 'ED755638EE205A21912C63DCD24A4C3F',
-    participant: undefined
-  },
-  messageTimestamp: 1730304274,
-  pushName: 'José Castro',
-  broadcast: false,
-  message: Message {
-    conversation: 'Necesito una Cotización de Válvulas Premium para balones de 10 Kilos en',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: 'Necesito una Cotización de Válvulas Premium para balones de 10 Kilos en',
-  name: 'José Castro',
-  from: '51994284387'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51994284387@s.whatsapp.net',
-    fromMe: false,
-    id: '3EB036E1CA3487FC68F0D9',
-    participant: undefined
-  },
-  messageTimestamp: 1730304278,
-  pushName: 'José Castro',
-  broadcast: false,
-  message: Message {
-    protocolMessage: ProtocolMessage {
-      type: 4,
-      ephemeralExpiration: 0,
-      ephemeralSettingTimestamp: [Long],
-      disappearingMode: [DisappearingMode]
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '',
-  name: 'José Castro',
-  from: '51994284387'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51994284387@s.whatsapp.net',
-    fromMe: false,
-    id: '2CA4858EB0A3D609FDAC54BA84B39914',
-    participant: undefined
-  },
-  messageTimestamp: 1730304290,
-  pushName: 'José Castro',
-  broadcast: false,
-  message: Message {
-    conversation: 'Ok muchas gracias mi',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: 'Ok muchas gracias mi',
-  name: 'José Castro',
-  from: '51994284387'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51994284387@s.whatsapp.net',
-    fromMe: false,
-    id: '652E693AB705F33FC525D39622731977',
-    participant: undefined
-  },
-  messageTimestamp: 1730304333,
-  pushName: 'José Castro',
-  broadcast: false,
-  message: Message {
-    conversation: 'Igualmente.',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: 'Igualmente.',
-  name: 'José Castro',
-  from: '51994284387'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51910176125@s.whatsapp.net',
-    fromMe: false,
-    id: '3EB008ED6DBAC7CD94333D',
-    participant: undefined
-  },
-  messageTimestamp: 1730304545,
-  pushName: 'Anthony Barrios|RIN PERU',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'gracias',
-      contextInfo: [ContextInfo],
-      inviteLinkGroupTypeV2: 0
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: 'gracias',
-  name: 'Anthony Barrios|RIN PERU',
-  from: '51910176125'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51989480822@s.whatsapp.net',
-    fromMe: false,
-    id: '3EB0B188B9C1D4803AE7D4',
-    participant: undefined
-  },
-  messageTimestamp: 1730315783,
-  pushName: 'Katheryn Morales Urmeneta',
-  broadcast: false,
-  message: Message {
-    conversation: 'Actualmente  estamos contando con muy buenas tarifas de importaciones marítimas, tanto FCL, LCL como importaciones aéreas',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: 'Actualmente  estamos contando con muy buenas tarifas de importaciones marítimas, tanto FCL, LCL como importaciones aéreas',
-  name: 'Katheryn Morales Urmeneta',
-  from: '51989480822'
+  name: 'YG',
+  from: '51960667189'
 }
