@@ -1,0 +1,29 @@
+[
+  {
+    "ref": "ans_2f22bb82-4e36-40f4-bfbd-91eaf07d25b4",
+    "keyword": "key_b01c6a81-1b50-4d0c-9ed6-75bfe982b7e8",
+    "answer": "¡Hola! ¿Cómo puedo ayudarte hoy?",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "76e6545ddaefc0c884afe55cf69e3981",
+    "from": "51908857613"
+  },
+  {
+    "ref": "c89eed2a-8ab3-4c94-b95c-d58f7eefdcaa",
+    "keyword": "76e6545ddaefc0c884afe55cf69e3981",
+    "answer": "como contactarme directamente con Jasson Rebaza?",
+    "options": {},
+    "from": "51908857613",
+    "refSerialize": "e2bfcd5aaab0709bc2fba8e9a7e1def1"
+  }
+]
