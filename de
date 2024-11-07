@@ -1,7 +1,7 @@
 [
   {
-    "ref": "ans_2f22bb82-4e36-40f4-bfbd-91eaf07d25b4",
-    "keyword": "key_b01c6a81-1b50-4d0c-9ed6-75bfe982b7e8",
+    "ref": "ans_0e6588a1-a3e0-474d-8986-b7c7746a5d5c",
+    "keyword": "key_2d544438-7afb-4178-9636-1f04e1bee7ae",
     "answer": "¡Hola! ¿Cómo puedo ayudarte hoy?",
     "options": {
       "media": null,
@@ -15,15 +15,50 @@
       "keyword": {},
       "callback": false
     },
-    "refSerialize": "76e6545ddaefc0c884afe55cf69e3981",
-    "from": "51908857613"
+    "refSerialize": "ba3553749eaec288c122b89acd7b130e",
+    "from": "51998453428"
   },
   {
-    "ref": "c89eed2a-8ab3-4c94-b95c-d58f7eefdcaa",
-    "keyword": "76e6545ddaefc0c884afe55cf69e3981",
-    "answer": "como contactarme directamente con Jasson Rebaza?",
+    "ref": "ca50605e-d19f-4aa3-971f-5c6b8d501df8",
+    "keyword": "ba3553749eaec288c122b89acd7b130e",
+    "answer": "Tuberias hidraulicas",
     "options": {},
-    "from": "51908857613",
-    "refSerialize": "e2bfcd5aaab0709bc2fba8e9a7e1def1"
+    "from": "51998453428",
+    "refSerialize": "d6ad848550b63191f99a9959ee3e6f3d"
+  },
+  {
+    "ref": "ans_0e6588a1-a3e0-474d-8986-b7c7746a5d5c",
+    "keyword": "key_2d544438-7afb-4178-9636-1f04e1bee7ae",
+    "answer": "¡Hola! ¿Cómo puedo ayudarte hoy?",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "ba3553749eaec288c122b89acd7b130e",
+    "from": "51998453428"
+  },
+  {
+    "ref": "df571514-fe5e-4356-bba2-65944d140675",
+    "keyword": "ba3553749eaec288c122b89acd7b130e",
+    "answer": "Avellanador",
+    "options": {},
+    "from": "51998453428",
+    "refSerialize": "b1352b14e7e690c8cfd72f2827a582fc"
+  },
+  {
+    "ref": "f6b4120b-54cb-4463-af20-04ce1babec4a",
+    "keyword": "b1352b14e7e690c8cfd72f2827a582fc",
+    "answer": "Contacto de algun ascesor",
+    "options": {},
+    "from": "51998453428",
+    "refSerialize": "22f7c11c3dd7143c127f8d90523b3be2"
   }
 ]

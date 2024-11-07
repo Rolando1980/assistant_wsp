@@ -1,162 +1,161 @@
 [handleMsg]:  {
-  key: {
-    remoteJid: '51956326678@s.whatsapp.net',
+  messageStubParameters: [],
+  labels: [],
+  userReceipt: [],
+  reactions: [],
+  pollUpdates: [],
+  eventResponses: [],
+  key: MessageKey {
+    remoteJid: '51920550784@s.whatsapp.net',
     fromMe: false,
-    id: '3AD99C882072CE57CE83',
+    id: '389E757618100F875D3D11DE1006E606'
+  },
+  message: Message { conversation: 'Buenas tardes' },
+  messageTimestamp: Long { low: 1730932939, high: 0, unsigned: true },
+  reportingTokenInfo: ReportingTokenInfo {
+    reportingTag: Uint8Array(16) [
+        1, 143, 212,   0, 135,  79,
+       84,  76,  70, 101,  25, 255,
+      230, 137, 174,  27
+    ]
+  },
+  body: 'Buenas tardes',
+  name: '',
+  from: '51920550784'
+}
+[handleMsg]:  {
+  messageStubParameters: [],
+  labels: [],
+  userReceipt: [],
+  reactions: [],
+  pollUpdates: [],
+  eventResponses: [],
+  key: MessageKey {
+    remoteJid: '51981831839@s.whatsapp.net',
+    fromMe: false,
+    id: '7527B71A415680F41D98E99F0052CE04'
+  },
+  message: Message { conversation: 'Buenas' },
+  messageTimestamp: Long { low: 1730944287, high: 0, unsigned: true },
+  reportingTokenInfo: ReportingTokenInfo {
+    reportingTag: Uint8Array(16) [
+        1, 143, 158, 224,  16,
+      230, 255, 229, 220, 247,
+        9,  69, 211, 137, 232,
+      158
+    ]
+  },
+  body: 'Buenas',
+  name: '',
+  from: '51981831839'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51981831839@s.whatsapp.net',
+    fromMe: false,
+    id: '6F83C6F4E20AE6A090518E0BE4E8656A',
     participant: undefined
   },
-  messageTimestamp: 1730323272,
-  pushName: 'Rolando Martinez',
+  messageTimestamp: 1730980179,
+  pushName: 'cristhian francis',
   broadcast: false,
   message: Message {
-    conversation: 'Hola',
+    conversation: 'Buenas s',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2,
       messageSecret: [Uint8Array]
     }
   },
-  body: 'Hola',
-  name: 'Rolando Martinez',
-  from: '51956326678'
+  body: 'Buenas s',
+  name: 'cristhian francis',
+  from: '51981831839'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '51956326678@s.whatsapp.net',
+    remoteJid: '51981831839@s.whatsapp.net',
     fromMe: false,
-    id: '3AACBCFB48E5EBB5D65F',
+    id: 'CC52ADE0CEBEBA52C901FD021226C172',
     participant: undefined
   },
-  messageTimestamp: 1730323297,
-  pushName: 'Rolando Martinez',
+  messageTimestamp: 1730980185,
+  pushName: 'cristhian francis',
   broadcast: false,
   message: Message {
-    conversation: 'Cotízame 20 und de abrazaderas',
+    conversation: 'Quiero comprar tubos de latón',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2,
       messageSecret: [Uint8Array]
     }
   },
-  body: 'Cotízame 20 und de abrazaderas',
-  name: 'Rolando Martinez',
-  from: '51956326678'
+  body: 'Quiero comprar tubos de latón',
+  name: 'cristhian francis',
+  from: '51981831839'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '51956326678@s.whatsapp.net',
+    remoteJid: '51981831839@s.whatsapp.net',
     fromMe: false,
-    id: '3AA6B8548C03647C7BFE',
+    id: 'EEAFA47A784C12980799A2AE8F81732A',
     participant: undefined
   },
-  messageTimestamp: 1730323313,
-  pushName: 'Rolando Martinez',
+  messageTimestamp: 1730980193,
+  pushName: 'cristhian francis',
   broadcast: false,
   message: Message {
-    conversation: '45-50',
+    conversation: 'O tubos de acero inoxidable dorado',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2,
       messageSecret: [Uint8Array]
     }
   },
-  body: '45-50',
-  name: 'Rolando Martinez',
-  from: '51956326678'
+  body: 'O tubos de acero inoxidable dorado',
+  name: 'cristhian francis',
+  from: '51981831839'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '51956326678@s.whatsapp.net',
+    remoteJid: '51981831839@s.whatsapp.net',
     fromMe: false,
-    id: '3A3A8EDE98569BF57831',
+    id: 'D397CE81B439E40048B613F4F7AB676E',
     participant: undefined
   },
-  messageTimestamp: 1730323337,
-  pushName: 'Rolando Martinez',
+  messageTimestamp: 1730980212,
+  pushName: 'cristhian francis',
   broadcast: false,
   message: Message {
-    conversation: 'Ok',
+    conversation: 'Tubos de latón',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2,
       messageSecret: [Uint8Array]
     }
   },
-  body: 'Ok',
-  name: 'Rolando Martinez',
-  from: '51956326678'
+  body: 'Tubos de latón',
+  name: 'cristhian francis',
+  from: '51981831839'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '51960667189@s.whatsapp.net',
+    remoteJid: '51981831839@s.whatsapp.net',
     fromMe: false,
-    id: 'ECA8790BC5B33167274D6171CBAABA20',
+    id: 'F197C1D3BF5E55B4A87170587ECD45F1',
     participant: undefined
   },
-  messageTimestamp: 1730323528,
-  pushName: 'YG',
+  messageTimestamp: 1730980229,
+  pushName: 'cristhian francis',
   broadcast: false,
   message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'Buenas tardes, cree que podría ayudarme con el correo  de Emensa?  quisiera realizar practicas  administrativas',
-      previewType: 0,
-      contextInfo: [ContextInfo],
-      inviteLinkGroupTypeV2: 0
-    },
+    conversation: 'Precio de tubos de latón',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2,
       messageSecret: [Uint8Array]
     }
   },
-  body: 'Buenas tardes, cree que podría ayudarme con el correo  de Emensa?  quisiera realizar practicas  administrativas',
-  name: 'YG',
-  from: '51960667189'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51960667189@s.whatsapp.net',
-    fromMe: false,
-    id: '2D246D52E3FBECF1C46F3BF7DF61063A',
-    participant: undefined
-  },
-  messageTimestamp: 1730323560,
-  pushName: 'YG',
-  broadcast: false,
-  message: Message {
-    conversation: 'Muchas gracias! :)',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: 'Muchas gracias! :)',
-  name: 'YG',
-  from: '51960667189'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51960667189@s.whatsapp.net',
-    fromMe: false,
-    id: '5D84E033980EC197CA706704834FBD7C',
-    participant: undefined
-  },
-  messageTimestamp: 1730323570,
-  pushName: 'YG',
-  broadcast: false,
-  message: Message {
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    },
-    reactionMessage: ReactionMessage {
-      key: [MessageKey],
-      text: '🙌',
-      senderTimestampMs: [Long]
-    }
-  },
-  body: '',
-  name: 'YG',
-  from: '51960667189'
+  body: 'Precio de tubos de latón',
+  name: 'cristhian francis',
+  from: '51981831839'
 }
