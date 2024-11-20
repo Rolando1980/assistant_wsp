@@ -1,7 +1,7 @@
 [
   {
-    "ref": "ans_0e6588a1-a3e0-474d-8986-b7c7746a5d5c",
-    "keyword": "key_2d544438-7afb-4178-9636-1f04e1bee7ae",
+    "ref": "ans_93a2e407-eaf4-4022-a349-66579e3a55a4",
+    "keyword": "key_4fa7dccf-5042-430a-a7a0-148feb50d0b3",
     "answer": "¡Hola! ¿Cómo puedo ayudarte hoy?",
     "options": {
       "media": null,
@@ -15,20 +15,28 @@
       "keyword": {},
       "callback": false
     },
-    "refSerialize": "ba3553749eaec288c122b89acd7b130e",
-    "from": "51998453428"
+    "refSerialize": "5becb799576e4443f6d44ab2499d9c55",
+    "from": "51997493676"
   },
   {
-    "ref": "ca50605e-d19f-4aa3-971f-5c6b8d501df8",
-    "keyword": "ba3553749eaec288c122b89acd7b130e",
-    "answer": "Tuberias hidraulicas",
+    "ref": "7302458b-e7d3-4ad4-a8d3-dda05caa46bd",
+    "keyword": "5becb799576e4443f6d44ab2499d9c55",
+    "answer": "Modelo XZTK-60M",
     "options": {},
-    "from": "51998453428",
-    "refSerialize": "d6ad848550b63191f99a9959ee3e6f3d"
+    "from": "51997493676",
+    "refSerialize": "71c34c58ecf0b510676c09d4e87ecdfb"
   },
   {
-    "ref": "ans_0e6588a1-a3e0-474d-8986-b7c7746a5d5c",
-    "keyword": "key_2d544438-7afb-4178-9636-1f04e1bee7ae",
+    "ref": "66d3e1e6-b638-4d15-be7e-a80fb5df6bcc",
+    "keyword": "71c34c58ecf0b510676c09d4e87ecdfb",
+    "answer": "Pertenece al ferretero, linea hidráulica",
+    "options": {},
+    "from": "51997493676",
+    "refSerialize": "652a53aab4ea971fb6163f67b58f099b"
+  },
+  {
+    "ref": "ans_93a2e407-eaf4-4022-a349-66579e3a55a4",
+    "keyword": "key_4fa7dccf-5042-430a-a7a0-148feb50d0b3",
     "answer": "¡Hola! ¿Cómo puedo ayudarte hoy?",
     "options": {
       "media": null,
@@ -42,23 +50,23 @@
       "keyword": {},
       "callback": false
     },
-    "refSerialize": "ba3553749eaec288c122b89acd7b130e",
-    "from": "51998453428"
+    "refSerialize": "5becb799576e4443f6d44ab2499d9c55",
+    "from": "51997493676"
   },
   {
-    "ref": "df571514-fe5e-4356-bba2-65944d140675",
-    "keyword": "ba3553749eaec288c122b89acd7b130e",
-    "answer": "Avellanador",
+    "ref": "29985c64-a4ce-48c5-92b5-dc218f88cb46",
+    "keyword": "5becb799576e4443f6d44ab2499d9c55",
+    "answer": "El kit de prueba",
     "options": {},
-    "from": "51998453428",
-    "refSerialize": "b1352b14e7e690c8cfd72f2827a582fc"
+    "from": "51997493676",
+    "refSerialize": "ea5ba9fd3d331ccf4fbc11e48038dfaf"
   },
   {
-    "ref": "f6b4120b-54cb-4463-af20-04ce1babec4a",
-    "keyword": "b1352b14e7e690c8cfd72f2827a582fc",
-    "answer": "Contacto de algun ascesor",
+    "ref": "4fc335b4-e8bf-4733-b66e-b7e1b3669074",
+    "keyword": "ea5ba9fd3d331ccf4fbc11e48038dfaf",
+    "answer": "No gracias",
     "options": {},
-    "from": "51998453428",
-    "refSerialize": "22f7c11c3dd7143c127f8d90523b3be2"
+    "from": "51997493676",
+    "refSerialize": "282ee8f9c510cadb58637a02105bf48a"
   }
 ]

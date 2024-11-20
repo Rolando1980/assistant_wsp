@@ -18,6 +18,17 @@ export const startWhatsAppBot = async () => {
         if (type !== 'notify') return;
         const [messageCtx] = messages;
 
+        // Verificar el tipo de mensaje
+        const messageType = messageCtx.message?.conversation ? 'text' : 'other';
+
+        // Filtrar mensajes no deseados (imágenes, audios, videos y ubicaciones)
+        if (messageType !== 'text') {
+            // Opcionalmente, puedes enviar un mensaje indicando que solo se admiten textos
+            const formattedNumber = `${messageCtx.key.remoteJid}@s.whatsapp.net`;
+            await adapterProvider.sendText(formattedNumber, "lo siento, solo puedo leer mensajes de texto.");
+            return; // Omitir el procesamiento de este mensaje
+        }
+
         let payload = {
             ...messageCtx,
             body: messageCtx?.message?.extendedTextMessage?.text ?? messageCtx?.message?.conversation,
@@ -42,6 +53,16 @@ export const startWhatsAppBot = async () => {
 
     const handleIncomingMessage = async (message) => {
         const userNumber = message.from;
+
+        // Verificar si el número no comienza con "51"
+        if (!userNumber.startsWith("51")) {
+            const formattedNumber = `${userNumber}@s.whatsapp.net`;
+            await adapterProvider.sendText(
+                formattedNumber,
+                "Hola, si eres de un país que no es Perú, sigue este enlace para un asesor técnico: https://wa.me/+51971449752?text=Hola%20Lizbeth%20solicito%20info"
+            );
+            return; // Omitir el procesamiento adicional
+        }
 
         // Verificar si hay un historial de conversación existente
         if (!conversations[userNumber]) {
