@@ -7382,5 +7382,325 @@
     "userNumber": "593984252410",
     "userName": "Paulina Montenegro",
     "botResponse": "Perfecto, Paulina. Para recibir asesoría técnica especializada sobre las barras de latón o bronce dulce, puedes contactar directamente a nuestro experto a través de este enlace: [Asesoría Técnica](https://wa.me/+51944453817?text=Buen%20dia%20requiero%20info). Ellos te ayudarán con la cotización y cualquier otra consulta que tengas. ¡Gracias por tu interés en Ememsa!"
+  },
+  {
+    "id": "db1cdede-f702-4e5b-b2f2-16ba114d6445",
+    "timestamp": "2024-11-20T15:01:54.909Z",
+    "userMessage": "user: buen dia, te saluda Ariana de Guillermo Romero SAC",
+    "userNumber": "51994014594",
+    "userName": "Ariana",
+    "botResponse": "¡Hola, Ariana! Buen día. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "b6edca34-7b05-4204-8399-26ba236fd165",
+    "timestamp": "2024-11-20T15:01:55.236Z",
+    "userMessage": "user: buen dia, te saluda Ariana de Guillermo Romero SAC\nuser: CONSULTA",
+    "userNumber": "51994014594",
+    "userName": "Ariana",
+    "botResponse": "¡Hola, Ariana! Buen día, ¿en qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "0e91a243-c752-4f4b-a976-2f7ccf600f31",
+    "timestamp": "2024-11-20T15:02:12.576Z",
+    "userMessage": "user: buen dia, te saluda Ariana de Guillermo Romero SAC\nuser: CONSULTA\nassistant: ¡Hola, Ariana! Buen día. ¿En qué puedo ayudarte hoy?\nassistant: ¡Hola, Ariana! Buen día, ¿en qué puedo ayudarte hoy?\nuser: MANGUERA PARA GTAS dUNLOP",
+    "userNumber": "51994014594",
+    "userName": "Ariana",
+    "botResponse": "Puedo ayudarte con información sobre accesorios automotrices y artículos ferreteros. ¿Te gustaría recibir asesoría técnica especializada o ver el catálogo de productos relacionados?"
+  },
+  {
+    "id": "83bc0425-5ce2-413f-a325-66f2b447f5ad",
+    "timestamp": "2024-11-20T15:02:26.654Z",
+    "userMessage": "user: buen dia, te saluda Ariana de Guillermo Romero SAC\nuser: CONSULTA\nassistant: ¡Hola, Ariana! Buen día. ¿En qué puedo ayudarte hoy?\nassistant: ¡Hola, Ariana! Buen día, ¿en qué puedo ayudarte hoy?\nuser: MANGUERA PARA GTAS dUNLOP\nassistant: Puedo ayudarte con información sobre accesorios automotrices y artículos ferreteros. ¿Te gustaría recibir asesoría técnica especializada o ver el catálogo de productos relacionados?\nuser: ",
+    "userNumber": "51994014594",
+    "userName": "Ariana",
+    "botResponse": "¿Te gustaría recibir asesoría técnica especializada o prefieres ver el catálogo de productos relacionados con mangueras para gas?"
+  },
+  {
+    "id": "af299e6f-f0ef-4b68-8dc1-7d6ca3da7830",
+    "timestamp": "2024-11-20T15:02:34.492Z",
+    "userMessage": "user: buen dia, te saluda Ariana de Guillermo Romero SAC\nuser: CONSULTA\nassistant: ¡Hola, Ariana! Buen día. ¿En qué puedo ayudarte hoy?\nassistant: ¡Hola, Ariana! Buen día, ¿en qué puedo ayudarte hoy?\nuser: MANGUERA PARA GTAS dUNLOP\nassistant: Puedo ayudarte con información sobre accesorios automotrices y artículos ferreteros. ¿Te gustaría recibir asesoría técnica especializada o ver el catálogo de productos relacionados?\nuser: \nassistant: ¿Te gustaría recibir asesoría técnica especializada o prefieres ver el catálogo de productos relacionados con mangueras para gas?\nuser: SI",
+    "userNumber": "51994014594",
+    "userName": "Ariana",
+    "botResponse": "Perfecto, para asesoría técnica especializada sobre mangueras para gas, puedes contactar a nuestro experto en el siguiente enlace: [Asesoría Técnica](https://wa.me/+51978585422?text=Buen%20dia%20requiero%20info). \n\nSi necesitas más información sobre el catálogo de productos, házmelo saber. ¡Estoy aquí para ayudarte!"
+  },
+  {
+    "id": "8a97a1ed-eb20-4d4b-b739-71d2d042b9e4",
+    "timestamp": "2024-11-20T15:02:53.660Z",
+    "userMessage": "user: CONSULTA\nassistant: ¡Hola, Ariana! Buen día. ¿En qué puedo ayudarte hoy?\nassistant: ¡Hola, Ariana! Buen día, ¿en qué puedo ayudarte hoy?\nuser: MANGUERA PARA GTAS dUNLOP\nassistant: Puedo ayudarte con información sobre accesorios automotrices y artículos ferreteros. ¿Te gustaría recibir asesoría técnica especializada o ver el catálogo de productos relacionados?\nuser: \nassistant: ¿Te gustaría recibir asesoría técnica especializada o prefieres ver el catálogo de productos relacionados con mangueras para gas?\nuser: SI\nassistant: Perfecto, para asesoría técnica especializada sobre mangueras para gas, puedes contactar a nuestro experto en el siguiente enlace: [Asesoría Técnica](https://wa.me/+51978585422?text=Buen%20dia%20requiero%20info). \n\nSi necesitas más información sobre el catálogo de productos, házmelo saber. ¡Estoy aquí para ayudarte!\nuser: QUIERO COTIZAR",
+    "userNumber": "51994014594",
+    "userName": "Ariana",
+    "botResponse": "Para cotizar accesorios automotrices y artículos ferreteros, puedes contactar a nuestro especialista a través de este enlace: [Cotización](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar). \n\nSi necesitas más información o ayuda adicional, no dudes en decírmelo. ¡Estoy aquí para ayudarte!"
+  },
+  {
+    "id": "77e954fa-8329-47e9-aef2-2850f5c6f5f0",
+    "timestamp": "2024-11-20T15:13:47.193Z",
+    "userMessage": "user: Buenos dias",
+    "userNumber": "51961783238",
+    "userName": "Carrillo",
+    "botResponse": "¡Buenos días, Carrillo! ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "34433b8d-d24f-41b9-94ed-72762363863a",
+    "timestamp": "2024-11-20T15:14:22.576Z",
+    "userMessage": "user: Buenos dias\nassistant: ¡Buenos días, Carrillo! ¿En qué puedo ayudarte hoy?\nuser: Contará con pletina de cobre con las siguientes dimensiones:",
+    "userNumber": "51961783238",
+    "userName": "Carrillo",
+    "botResponse": "Soy un bot diseñado exclusivamente para responder mensajes de texto. No puedo procesar imágenes o audios. ¿Podrías indicarme las dimensiones específicas que necesitas para la pletina de cobre? Así podré ayudarte mejor."
+  },
+  {
+    "id": "07c53454-f2f7-49af-947a-40571f2a43e1",
+    "timestamp": "2024-11-20T15:14:53.481Z",
+    "userMessage": "user: Buenos dias\nassistant: ¡Buenos días, Carrillo! ¿En qué puedo ayudarte hoy?\nuser: Contará con pletina de cobre con las siguientes dimensiones:\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. No puedo procesar imágenes o audios. ¿Podrías indicarme las dimensiones específicas que necesitas para la pletina de cobre? Así podré ayudarte mejor.\nuser: 9x33mm y 10x26mm",
+    "userNumber": "51961783238",
+    "userName": "Carrillo",
+    "botResponse": "Gracias por la información, Carrillo. En cuanto a pletinas de cobre, no tengo el catálogo específico aquí, pero puedo ayudarte a obtener asesoría técnica o ver el catálogo de productos. ¿Te gustaría recibir asesoría técnica especializada o prefieres ver el catálogo?"
+  },
+  {
+    "id": "784f21e5-a2e3-4baf-80e1-1d5a42e0de71",
+    "timestamp": "2024-11-20T15:15:32.787Z",
+    "userMessage": "user: Buenos dias\nassistant: ¡Buenos días, Carrillo! ¿En qué puedo ayudarte hoy?\nuser: Contará con pletina de cobre con las siguientes dimensiones:\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. No puedo procesar imágenes o audios. ¿Podrías indicarme las dimensiones específicas que necesitas para la pletina de cobre? Así podré ayudarte mejor.\nuser: 9x33mm y 10x26mm\nassistant: Gracias por la información, Carrillo. En cuanto a pletinas de cobre, no tengo el catálogo específico aquí, pero puedo ayudarte a obtener asesoría técnica o ver el catálogo de productos. ¿Te gustaría recibir asesoría técnica especializada o prefieres ver el catálogo?\nuser: Asesoría técnica por favor",
+    "userNumber": "51961783238",
+    "userName": "Carrillo",
+    "botResponse": "Perfecto, Carrillo. Para obtener asesoría técnica especializada sobre pletinas de cobre, puedes contactar al siguiente enlace: [Asesoría Técnica](https://wa.me/+51944453817?text=Buen%20dia%20requiero%20info). Estarán encantados de ayudarte. ¡Si necesitas algo más, no dudes en decírmelo!"
+  },
+  {
+    "id": "c4d63b9a-a579-46da-a1a9-dc157e5b78f6",
+    "timestamp": "2024-11-20T16:36:06.399Z",
+    "userMessage": "user: Buen dia",
+    "userNumber": "51938256779",
+    "userName": "Patricia",
+    "botResponse": "¡Hola Patricia! Buen día. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "23d2bb7e-ef93-4e3b-9266-fbdfe4bb50bf",
+    "timestamp": "2024-11-20T16:36:13.851Z",
+    "userMessage": "user: Buen dia\nassistant: ¡Hola Patricia! Buen día. ¿En qué puedo ayudarte hoy?\nuser: Quería comprar inyectores",
+    "userNumber": "51938256779",
+    "userName": "Patricia",
+    "botResponse": "Para inyectores, te recomiendo que revises nuestra línea de accesorios automotriz. Ofrecemos una variedad de componentes para sistemas de inyección. ¿Te gustaría recibir asesoría técnica especializada o prefieres ver el catálogo de productos relacionados?"
+  },
+  {
+    "id": "9d9f4689-e806-4549-b362-729c0e54154b",
+    "timestamp": "2024-11-20T16:36:19.133Z",
+    "userMessage": "user: Buen dia\nassistant: ¡Hola Patricia! Buen día. ¿En qué puedo ayudarte hoy?\nuser: Quería comprar inyectores\nassistant: Para inyectores, te recomiendo que revises nuestra línea de accesorios automotriz. Ofrecemos una variedad de componentes para sistemas de inyección. ¿Te gustaría recibir asesoría técnica especializada o prefieres ver el catálogo de productos relacionados?\nuser: 300 unidades",
+    "userNumber": "51938256779",
+    "userName": "Patricia",
+    "botResponse": "Para un pedido de 300 unidades de inyectores, sería ideal que te brindemos asesoría técnica especializada. Puedes contactar a nuestro equipo directamente a través del siguiente enlace: [Asesoría Técnica - Accesorios Automotriz](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar). Ellos podrán ayudarte con tu solicitud. ¿Hay algo más en lo que pueda asistirte?"
+  },
+  {
+    "id": "c38c8ca0-f8b6-457b-be78-ae60e647e31f",
+    "timestamp": "2024-11-20T17:40:34.217Z",
+    "userMessage": "user: _event_media_",
+    "userNumber": "51989480822",
+    "userName": "Katheryn Morales Urmeneta",
+    "botResponse": "¡Hola Katheryn! Es un placer conocerte. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "6d086d4e-3b4e-45d7-9c9c-06048e4cb0b3",
+    "timestamp": "2024-11-20T18:20:57.524Z",
+    "userMessage": "user: hola buen dia",
+    "userNumber": "51991324445",
+    "userName": "jeanpaulhh24",
+    "botResponse": "¡Hola, Jean Paul! Buen día. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "cbe90c8e-98cc-47cc-b2b5-0abe1f4463ea",
+    "timestamp": "2024-11-20T18:21:14.596Z",
+    "userMessage": "user: hola buen dia\nassistant: ¡Hola, Jean Paul! Buen día. ¿En qué puedo ayudarte hoy?\nuser: Mi nombre es Jean Paul de la empresa:\nRTR ENGINEERING SOLUTIONS S.R.L\nRUC: 20604887021\njhuaynateh@rtrengisol.com\n \nNos puede ayudar con la siguiente requerimiento por favor.",
+    "userNumber": "51991324445",
+    "userName": "jeanpaulhh24",
+    "botResponse": "¡Hola, Jean Paul! Claro que sí, estaré encantado de ayudarte. ¿Cuál es el requerimiento específico que tienes?"
+  },
+  {
+    "id": "da9d5551-ed73-4eb0-8e4f-811d31a9021a",
+    "timestamp": "2024-11-20T18:21:36.967Z",
+    "userMessage": "user: hola buen dia\nassistant: ¡Hola, Jean Paul! Buen día. ¿En qué puedo ayudarte hoy?\nuser: Mi nombre es Jean Paul de la empresa:\nRTR ENGINEERING SOLUTIONS S.R.L\nRUC: 20604887021\njhuaynateh@rtrengisol.com\n \nNos puede ayudar con la siguiente requerimiento por favor.\nassistant: ¡Hola, Jean Paul! Claro que sí, estaré encantado de ayudarte. ¿Cuál es el requerimiento específico que tienes?\nuser: * Faja para regulador  ancho 45mm x espesor 6mm longitud 6.8m - 2 und",
+    "userNumber": "51991324445",
+    "userName": "jeanpaulhh24",
+    "botResponse": "Para tu requerimiento de fajas para regulador, te recomendaría que consultes con nuestro equipo técnico especializado. Puedes contactarlos a través del siguiente enlace: [Asesoría Técnica](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar). \n\n¿Te gustaría ver algún catálogo de productos relacionados?"
+  },
+  {
+    "id": "b58c1698-179a-4cc3-b6d8-1bd1aefc395c",
+    "timestamp": "2024-11-20T18:51:31.989Z",
+    "userMessage": "user: Le saludamos de *https://expoperuindustrial.com/* , seria tan amable de facilitarme el contacto de la persona encargada en evaluar la participación de su empresa en ferias.\n\nQuedamos atentos,\n*Expo Perú industria*",
+    "userNumber": "51948461209",
+    "userName": "Bruno Salcedo",
+    "botResponse": "Hola Bruno, ¡gracias por contactarnos! Para consultas sobre participación en ferias, te recomiendo comunicarte directamente con nuestro departamento de Marketing al número 976706046. Ellos podrán brindarte la información que necesitas. \n\nSi hay algo más en lo que pueda ayudarte, no dudes en decírmelo. ¡Saludos!"
+  },
+  {
+    "id": "42dbc035-f391-43bb-8939-f44d7a4ad8d3",
+    "timestamp": "2024-11-20T19:19:02.224Z",
+    "userMessage": "user: Le saludamos de *https://expoperuindustrial.com/* , seria tan amable de facilitarme el contacto de la persona encargada en evaluar la participación de su empresa en ferias.\n\nQuedamos atentos,\n*Expo Perú industria*\nassistant: Hola Bruno, ¡gracias por contactarnos! Para consultas sobre participación en ferias, te recomiendo comunicarte directamente con nuestro departamento de Marketing al número 976706046. Ellos podrán brindarte la información que necesitas. \n\nSi hay algo más en lo que pueda ayudarte, no dudes en decírmelo. ¡Saludos!\nuser: Muy amable!",
+    "userNumber": "51948461209",
+    "userName": "Bruno Salcedo",
+    "botResponse": "¡De nada, Bruno! Si necesitas más ayuda o información adicional, no dudes en preguntar. Estoy aquí para ayudarte. ¡Que tengas un excelente día!"
+  },
+  {
+    "id": "4e930b65-6738-432b-89ce-8ed6b260b669",
+    "timestamp": "2024-11-20T19:55:26.086Z",
+    "userMessage": "user: Hola! buenas tardes",
+    "userNumber": "51943500103",
+    "userName": "Hilary 🌻",
+    "botResponse": "¡Hola Hilary! 🌼 Buenas tardes. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "282ccdad-3c2b-4bc0-8523-3fb1f5fa2e5c",
+    "timestamp": "2024-11-20T19:55:36.345Z",
+    "userMessage": "user: Hola! buenas tardes\nassistant: ¡Hola Hilary! 🌼 Buenas tardes. ¿En qué puedo ayudarte hoy?\nuser: Te saluda Hilary de la Sociedad Nacional de Industrias",
+    "userNumber": "51943500103",
+    "userName": "Hilary 🌻",
+    "botResponse": "¡Hola Hilary! Es un placer saludarte. ¿Cómo puedo ayudarte hoy?"
+  },
+  {
+    "id": "3960c9b5-2102-49a2-acfb-d81860c18b72",
+    "timestamp": "2024-11-20T19:55:55.440Z",
+    "userMessage": "user: Hola! buenas tardes\nassistant: ¡Hola Hilary! 🌼 Buenas tardes. ¿En qué puedo ayudarte hoy?\nuser: Te saluda Hilary de la Sociedad Nacional de Industrias\nassistant: ¡Hola Hilary! Es un placer saludarte. ¿Cómo puedo ayudarte hoy?\nuser: _event_media_",
+    "userNumber": "51943500103",
+    "userName": "Hilary 🌻",
+    "botResponse": "Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta o necesitas información sobre nuestros productos y servicios, estaré encantado de ayudarte."
+  },
+  {
+    "id": "738c9b41-c8e9-4587-9806-6e086db0e3ee",
+    "timestamp": "2024-11-20T19:56:33.223Z",
+    "userMessage": "user: Hola! buenas tardes\nassistant: ¡Hola Hilary! 🌼 Buenas tardes. ¿En qué puedo ayudarte hoy?\nuser: Te saluda Hilary de la Sociedad Nacional de Industrias\nassistant: ¡Hola Hilary! Es un placer saludarte. ¿Cómo puedo ayudarte hoy?\nuser: _event_media_\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta o necesitas información sobre nuestros productos y servicios, estaré encantado de ayudarte.\nuser: me podrian brindar un correo o numero del área administrativa por favor",
+    "userNumber": "51943500103",
+    "userName": "Hilary 🌻",
+    "botResponse": "Para consultas administrativas, puedes contactar al número 998130792. Si necesitas más información, no dudes en preguntar. ¡Estoy aquí para ayudar!"
+  },
+  {
+    "id": "9dda3ce1-e7e7-44b0-8f67-400d858de1d7",
+    "timestamp": "2024-11-20T20:25:20.148Z",
+    "userMessage": "user: buenas tardes venta de accesorios para instalaciones de gas natural?",
+    "userNumber": "51958724950",
+    "userName": "Elvis🪐",
+    "botResponse": "¡Hola, Elvis! Buenas tardes. Claro, en Ememsa ofrecemos una variedad de tuberías y conexiones para instalaciones de gas natural, incluyendo tuberías multicapa y válvulas. \n\n¿Te gustaría recibir asesoría técnica especializada o prefieres ver el catálogo de productos relacionados?"
+  },
+  {
+    "id": "4e596f99-92dd-44f6-ba42-8b633c9e9e16",
+    "timestamp": "2024-11-20T20:25:46.639Z",
+    "userMessage": "user: buenas tardes venta de accesorios para instalaciones de gas natural?\nassistant: ¡Hola, Elvis! Buenas tardes. Claro, en Ememsa ofrecemos una variedad de tuberías y conexiones para instalaciones de gas natural, incluyendo tuberías multicapa y válvulas. \n\n¿Te gustaría recibir asesoría técnica especializada o prefieres ver el catálogo de productos relacionados?\nuser: estoy buscando",
+    "userNumber": "51958724950",
+    "userName": "Elvis🪐",
+    "botResponse": "Entiendo, Elvis. Si buscas productos específicos para instalaciones de gas natural, te recomiendo que consultes nuestro catálogo. Aquí tienes el enlace: [Catálogo de Tuberías para Gas Natural](https://drive.google.com/file/d/1NGAScFYaAFN2CLAjFJOmkhMRwcwY15D5/view).\n\nSi necesitas asesoría técnica especializada, también puedo proporcionarte un contacto directo. ¿Qué prefieres?"
+  },
+  {
+    "id": "ecaa165d-56fc-4f07-97d7-23f7d3da075f",
+    "timestamp": "2024-11-20T20:25:47.437Z",
+    "userMessage": "user: buenas tardes venta de accesorios para instalaciones de gas natural?\nassistant: ¡Hola, Elvis! Buenas tardes. Claro, en Ememsa ofrecemos una variedad de tuberías y conexiones para instalaciones de gas natural, incluyendo tuberías multicapa y válvulas. \n\n¿Te gustaría recibir asesoría técnica especializada o prefieres ver el catálogo de productos relacionados?\nuser: estoy buscando\nuser: Empaque espirometálico 12”",
+    "userNumber": "51958724950",
+    "userName": "Elvis🪐",
+    "botResponse": "Entiendo que estás buscando un empaque espirometálico de 12\". Sin embargo, no tengo información específica sobre ese producto en particular. \n\nTe recomendaría que contactes a nuestro equipo de soporte técnico para obtener la información más precisa. Puedes hacerlo a través del siguiente enlace: [Asesoría técnica para gas natural](https://wa.me/+51978585422?text=Buen%20dia%20requiero%20info). \n\n¿Hay algo más en lo que pueda ayudarte?"
+  },
+  {
+    "id": "de548427-9e8a-4b92-b21c-0f9d3c52046e",
+    "timestamp": "2024-11-20T20:26:06.580Z",
+    "userMessage": "user: buenas tardes venta de accesorios para instalaciones de gas natural?\nassistant: ¡Hola, Elvis! Buenas tardes. Claro, en Ememsa ofrecemos una variedad de tuberías y conexiones para instalaciones de gas natural, incluyendo tuberías multicapa y válvulas. \n\n¿Te gustaría recibir asesoría técnica especializada o prefieres ver el catálogo de productos relacionados?\nuser: estoy buscando\nuser: Empaque espirometálico 12”\nassistant: Entiendo, Elvis. Si buscas productos específicos para instalaciones de gas natural, te recomiendo que consultes nuestro catálogo. Aquí tienes el enlace: [Catálogo de Tuberías para Gas Natural](https://drive.google.com/file/d/1NGAScFYaAFN2CLAjFJOmkhMRwcwY15D5/view).\n\nSi necesitas asesoría técnica especializada, también puedo proporcionarte un contacto directo. ¿Qué prefieres?\nassistant: Entiendo que estás buscando un empaque espirometálico de 12\". Sin embargo, no tengo información específica sobre ese producto en particular. \n\nTe recomendaría que contactes a nuestro equipo de soporte técnico para obtener la información más precisa. Puedes hacerlo a través del siguiente enlace: [Asesoría técnica para gas natural](https://wa.me/+51978585422?text=Buen%20dia%20requiero%20info). \n\n¿Hay algo más en lo que pueda ayudarte?\nuser: _event_media_",
+    "userNumber": "51958724950",
+    "userName": "Elvis🪐",
+    "botResponse": "Soy un bot diseñado exclusivamente para responder mensajes de texto, por lo que no puedo procesar imágenes, audios o videos. Si tienes alguna pregunta o consulta específica, estaré encantado de ayudarte. ¿En qué más puedo asistirte hoy?"
+  },
+  {
+    "id": "3efb1d1d-2363-4a64-b82d-1599614e113e",
+    "timestamp": "2024-11-20T20:42:06.008Z",
+    "userMessage": "user: BUENAS TARDES",
+    "userNumber": "51942624937",
+    "userName": "😅👩‍👧‍👦🤩🥰😃",
+    "botResponse": "¡Buenas tardes! 😊 Soy el asistente de Ememsa. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "78173d0e-c1b0-453c-878b-12ec8b0fe98a",
+    "timestamp": "2024-11-20T20:42:14.983Z",
+    "userMessage": "user: BUENAS TARDES\nassistant: ¡Buenas tardes! 😊 Soy el asistente de Ememsa. ¿En qué puedo ayudarte hoy?\nuser: ESTOY BUSCANO",
+    "userNumber": "51942624937",
+    "userName": "😅👩‍👧‍👦🤩🥰😃",
+    "botResponse": "Parece que estás buscando algo específico. ¿Podrías darme más detalles sobre lo que necesitas? Puedo ayudarte con nuestras líneas de productos o servicios."
+  },
+  {
+    "id": "8230e824-53e8-4108-981c-f94e8ea83397",
+    "timestamp": "2024-11-20T20:42:20.480Z",
+    "userMessage": "user: BUENAS TARDES\nassistant: ¡Buenas tardes! 😊 Soy el asistente de Ememsa. ¿En qué puedo ayudarte hoy?\nuser: ESTOY BUSCANO\nassistant: Parece que estás buscando algo específico. ¿Podrías darme más detalles sobre lo que necesitas? Puedo ayudarte con nuestras líneas de productos o servicios.\nuser: BARRAS DE LATOM",
+    "userNumber": "51942624937",
+    "userName": "😅👩‍👧‍👦🤩🥰😃",
+    "botResponse": "¡Perfecto! Ofrecemos barras de latón o bronce dulce, que son muy resistentes y versátiles. ¿Te gustaría recibir asesoría técnica especializada o prefieres ver el catálogo de estos productos?"
+  },
+  {
+    "id": "c0b77678-4173-4afd-b3cb-800118185c15",
+    "timestamp": "2024-11-20T20:43:07.668Z",
+    "userMessage": "user: BUENAS TARDES\nassistant: ¡Buenas tardes! 😊 Soy el asistente de Ememsa. ¿En qué puedo ayudarte hoy?\nuser: ESTOY BUSCANO\nassistant: Parece que estás buscando algo específico. ¿Podrías darme más detalles sobre lo que necesitas? Puedo ayudarte con nuestras líneas de productos o servicios.\nuser: BARRAS DE LATOM\nassistant: ¡Perfecto! Ofrecemos barras de latón o bronce dulce, que son muy resistentes y versátiles. ¿Te gustaría recibir asesoría técnica especializada o prefieres ver el catálogo de estos productos?\nuser: deseo en estaa medidas cada uno de ellas por metro.\n200mm de diametro\n85mm de diametro\n115mm de diámetro\n300mm de diámetro\nel ruc 20601544840\nVertec EIRL",
+    "userNumber": "51942624937",
+    "userName": "😅👩‍👧‍👦🤩🥰😃",
+    "botResponse": "Para obtener asesoría técnica especializada sobre las barras de latón o bronce dulce en las medidas que mencionas, te recomiendo contactar a nuestro equipo directamente. Puedes hacerlo a través de este enlace: [Asesoría Técnica](https://wa.me/+51944453817?text=Buen%20dia%20requiero%20info).\n\nPor favor, incluye el RUC y la información de tu empresa para que puedan atenderte mejor. ¡Gracias por tu interés en Ememsa!"
+  },
+  {
+    "id": "af18d9e4-bb44-4bbb-bc32-801b5c89bcd2",
+    "timestamp": "2024-11-20T21:34:07.030Z",
+    "userMessage": "user: Buenas tardes",
+    "userNumber": "51987155034",
+    "userName": "Merary Gonzales",
+    "botResponse": "¡Buenas tardes, Merary! ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "cad88db6-fe10-4f1c-a2b4-b73027cc31d8",
+    "timestamp": "2024-11-20T21:34:29.371Z",
+    "userMessage": "user: Buenas tardes\nassistant: ¡Buenas tardes, Merary! ¿En qué puedo ayudarte hoy?\nuser: cuenta con estoy productos",
+    "userNumber": "51987155034",
+    "userName": "Merary Gonzales",
+    "botResponse": "Soy un bot diseñado para responder mensajes de texto y no puedo procesar imágenes. Sin embargo, puedo ayudarte a encontrar los productos que necesitas. ¿Podrías decirme qué tipo de productos estás buscando?"
+  },
+  {
+    "id": "1df5af23-4946-4a40-b190-7436a9b2df25",
+    "timestamp": "2024-11-20T21:35:01.223Z",
+    "userMessage": "user: Buenas tardes\nassistant: ¡Buenas tardes, Merary! ¿En qué puedo ayudarte hoy?\nuser: cuenta con estoy productos\nassistant: Soy un bot diseñado para responder mensajes de texto y no puedo procesar imágenes. Sin embargo, puedo ayudarte a encontrar los productos que necesitas. ¿Podrías decirme qué tipo de productos estás buscando?\nuser: _event_media_",
+    "userNumber": "51987155034",
+    "userName": "Merary Gonzales",
+    "botResponse": "Lo siento, pero no puedo procesar imágenes ni otros formatos. Si me indicas qué productos estás buscando, estaré encantado de ayudarte con información o dirigirte a nuestro catálogo."
+  },
+  {
+    "id": "59cbec61-0b8a-4855-8f79-46cacd3adff5",
+    "timestamp": "2024-11-20T21:35:11.762Z",
+    "userMessage": "user: Buenas tardes\nassistant: ¡Buenas tardes, Merary! ¿En qué puedo ayudarte hoy?\nuser: cuenta con estoy productos\nassistant: Soy un bot diseñado para responder mensajes de texto y no puedo procesar imágenes. Sin embargo, puedo ayudarte a encontrar los productos que necesitas. ¿Podrías decirme qué tipo de productos estás buscando?\nuser: _event_media_\nassistant: Lo siento, pero no puedo procesar imágenes ni otros formatos. Si me indicas qué productos estás buscando, estaré encantado de ayudarte con información o dirigirte a nuestro catálogo.\nuser: Niples",
+    "userNumber": "51987155034",
+    "userName": "Merary Gonzales",
+    "botResponse": "Claro, contamos con niples en varias categorías. ¿Te gustaría recibir asesoría técnica especializada o ver el catálogo de productos relacionados?"
+  },
+  {
+    "id": "8f5db23c-78d2-4049-82c9-bbd0ec92d166",
+    "timestamp": "2024-11-20T21:35:19.019Z",
+    "userMessage": "user: Buenas tardes\nassistant: ¡Buenas tardes, Merary! ¿En qué puedo ayudarte hoy?\nuser: cuenta con estoy productos\nassistant: Soy un bot diseñado para responder mensajes de texto y no puedo procesar imágenes. Sin embargo, puedo ayudarte a encontrar los productos que necesitas. ¿Podrías decirme qué tipo de productos estás buscando?\nuser: _event_media_\nassistant: Lo siento, pero no puedo procesar imágenes ni otros formatos. Si me indicas qué productos estás buscando, estaré encantado de ayudarte con información o dirigirte a nuestro catálogo.\nuser: Niples\nassistant: Claro, contamos con niples en varias categorías. ¿Te gustaría recibir asesoría técnica especializada o ver el catálogo de productos relacionados?\nuser: si",
+    "userNumber": "51987155034",
+    "userName": "Merary Gonzales",
+    "botResponse": "Perfecto, para recibir asesoría técnica especializada sobre niples, puedes contactar a nuestro técnico a través del siguiente enlace: [Asesoría Técnica](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar). \n\nSi necesitas más información o deseas ver el catálogo de niples, házmelo saber. ¡Estoy aquí para ayudarte!"
+  },
+  {
+    "id": "e40b4e1a-d124-447d-90ff-1d25ea81df6e",
+    "timestamp": "2024-11-20T21:38:37.998Z",
+    "userMessage": "user: hola buenas tardes",
+    "userNumber": "51942270988",
+    "userName": "NANDO.",
+    "botResponse": "¡Hola Nando! Buenas tardes. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "b8016b84-3f05-47a0-9c64-1671992a1e4f",
+    "timestamp": "2024-11-20T21:40:51.338Z",
+    "userMessage": "user: hola buenas tardes\nassistant: ¡Hola Nando! Buenas tardes. ¿En qué puedo ayudarte hoy?\nuser: Hace dias adjunte mi cv por una convocatoria de electricista industrial,\nquisisera saber como va el proceso?",
+    "userNumber": "51942270988",
+    "userName": "NANDO.",
+    "botResponse": "Lamentablemente, no tengo acceso a información sobre procesos de selección. Te recomiendo contactar directamente a Recursos Humanos al 963127831 para obtener detalles sobre tu CV y el estado de tu postulación. ¡Gracias por tu interés en Ememsa!"
+  },
+  {
+    "id": "0be7ddc6-2c45-4ea5-b9d9-5f34a88e9bfd",
+    "timestamp": "2024-11-20T21:41:34.682Z",
+    "userMessage": "user: hola buenas tardes\nassistant: ¡Hola Nando! Buenas tardes. ¿En qué puedo ayudarte hoy?\nuser: Hace dias adjunte mi cv por una convocatoria de electricista industrial,\nquisisera saber como va el proceso?\nassistant: Lamentablemente, no tengo acceso a información sobre procesos de selección. Te recomiendo contactar directamente a Recursos Humanos al 963127831 para obtener detalles sobre tu CV y el estado de tu postulación. ¡Gracias por tu interés en Ememsa!\nuser: gracias.",
+    "userNumber": "51942270988",
+    "userName": "NANDO.",
+    "botResponse": "¡De nada, Nando! Si necesitas más ayuda o información, no dudes en preguntar. ¡Que tengas un buen día!"
+  },
+  {
+    "id": "691442a2-c2d7-463e-866c-2cbdb65529e2",
+    "timestamp": "2024-11-21T12:00:11.019Z",
+    "userMessage": "user: Buenas tardes",
+    "userNumber": "51927729488",
+    "userName": "",
+    "botResponse": "¡Buenas tardes! ¿Cómo puedo ayudarte hoy?"
   }
 ]

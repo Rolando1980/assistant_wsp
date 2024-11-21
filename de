@@ -1,7 +1,7 @@
 [
   {
-    "ref": "ans_93a2e407-eaf4-4022-a349-66579e3a55a4",
-    "keyword": "key_4fa7dccf-5042-430a-a7a0-148feb50d0b3",
+    "ref": "ans_c19a40c3-3555-4862-b64c-95810244b841",
+    "keyword": "key_484ed2e8-30a8-4b76-a42b-b39dd54e593e",
     "answer": "¡Hola! ¿Cómo puedo ayudarte hoy?",
     "options": {
       "media": null,
@@ -15,58 +15,23 @@
       "keyword": {},
       "callback": false
     },
-    "refSerialize": "5becb799576e4443f6d44ab2499d9c55",
-    "from": "51997493676"
+    "refSerialize": "d7cfda8ee78f06c4c68ce27239f8e8dd",
+    "from": "51943500103"
   },
   {
-    "ref": "7302458b-e7d3-4ad4-a8d3-dda05caa46bd",
-    "keyword": "5becb799576e4443f6d44ab2499d9c55",
-    "answer": "Modelo XZTK-60M",
+    "ref": "a2f19967-ed6d-43ff-9f26-75dae98a0993",
+    "keyword": "d7cfda8ee78f06c4c68ce27239f8e8dd",
+    "answer": "_event_media_",
     "options": {},
-    "from": "51997493676",
-    "refSerialize": "71c34c58ecf0b510676c09d4e87ecdfb"
+    "from": "51943500103",
+    "refSerialize": "d79f8989fb0b35097e0cef43182763af"
   },
   {
-    "ref": "66d3e1e6-b638-4d15-be7e-a80fb5df6bcc",
-    "keyword": "71c34c58ecf0b510676c09d4e87ecdfb",
-    "answer": "Pertenece al ferretero, linea hidráulica",
+    "ref": "35df6113-888a-4c36-886c-51eeabdc406e",
+    "keyword": "d79f8989fb0b35097e0cef43182763af",
+    "answer": "me podrian brindar un correo o numero del área administrativa por favor",
     "options": {},
-    "from": "51997493676",
-    "refSerialize": "652a53aab4ea971fb6163f67b58f099b"
-  },
-  {
-    "ref": "ans_93a2e407-eaf4-4022-a349-66579e3a55a4",
-    "keyword": "key_4fa7dccf-5042-430a-a7a0-148feb50d0b3",
-    "answer": "¡Hola! ¿Cómo puedo ayudarte hoy?",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "ref": null,
-      "nested": [],
-      "keyword": {},
-      "callback": false
-    },
-    "refSerialize": "5becb799576e4443f6d44ab2499d9c55",
-    "from": "51997493676"
-  },
-  {
-    "ref": "29985c64-a4ce-48c5-92b5-dc218f88cb46",
-    "keyword": "5becb799576e4443f6d44ab2499d9c55",
-    "answer": "El kit de prueba",
-    "options": {},
-    "from": "51997493676",
-    "refSerialize": "ea5ba9fd3d331ccf4fbc11e48038dfaf"
-  },
-  {
-    "ref": "4fc335b4-e8bf-4733-b66e-b7e1b3669074",
-    "keyword": "ea5ba9fd3d331ccf4fbc11e48038dfaf",
-    "answer": "No gracias",
-    "options": {},
-    "from": "51997493676",
-    "refSerialize": "282ee8f9c510cadb58637a02105bf48a"
+    "from": "51943500103",
+    "refSerialize": "3c9cce3b6ea04461b9f1ef503c41a88e"
   }
 ]
