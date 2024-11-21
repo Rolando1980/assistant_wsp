@@ -1,7 +1,7 @@
 [
   {
-    "ref": "ans_c19a40c3-3555-4862-b64c-95810244b841",
-    "keyword": "key_484ed2e8-30a8-4b76-a42b-b39dd54e593e",
+    "ref": "ans_97e1f517-ae9e-4110-949b-4934cdda8039",
+    "keyword": "key_5812cca4-1724-446a-a626-6ba7fba8165d",
     "answer": "¡Hola! ¿Cómo puedo ayudarte hoy?",
     "options": {
       "media": null,
@@ -15,23 +15,7 @@
       "keyword": {},
       "callback": false
     },
-    "refSerialize": "d7cfda8ee78f06c4c68ce27239f8e8dd",
-    "from": "51943500103"
-  },
-  {
-    "ref": "a2f19967-ed6d-43ff-9f26-75dae98a0993",
-    "keyword": "d7cfda8ee78f06c4c68ce27239f8e8dd",
-    "answer": "_event_media_",
-    "options": {},
-    "from": "51943500103",
-    "refSerialize": "d79f8989fb0b35097e0cef43182763af"
-  },
-  {
-    "ref": "35df6113-888a-4c36-886c-51eeabdc406e",
-    "keyword": "d79f8989fb0b35097e0cef43182763af",
-    "answer": "me podrian brindar un correo o numero del área administrativa por favor",
-    "options": {},
-    "from": "51943500103",
-    "refSerialize": "3c9cce3b6ea04461b9f1ef503c41a88e"
+    "refSerialize": "b13988a2fbf6463a16bf1dbab2a49e39",
+    "from": "51927729488"
   }
 ]

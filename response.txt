@@ -7702,5 +7702,253 @@
     "userNumber": "51927729488",
     "userName": "",
     "botResponse": "¡Buenas tardes! ¿Cómo puedo ayudarte hoy?"
+  },
+  {
+    "id": "b8aaa005-a3c3-4a90-ae33-4bbc8306c434",
+    "timestamp": "2024-11-21T13:23:29.128Z",
+    "userMessage": "user: _event_media_",
+    "userNumber": "51927729488",
+    "userName": "Juan Paulo",
+    "botResponse": "¡Hola, Juan Paulo! ¿Cómo puedo ayudarte hoy?"
+  },
+  {
+    "id": "707680ed-0ce4-4c5b-9c18-46e71670d832",
+    "timestamp": "2024-11-21T13:23:29.328Z",
+    "userMessage": "user: _event_media_\nuser: los tubos con D150 de hierro fundido",
+    "userNumber": "51927729488",
+    "userName": "Juan Paulo",
+    "botResponse": "¡Hola, Juan Paulo! Gracias por contactar a Ememsa. Actualmente, no ofrecemos tubos de hierro fundido. Sin embargo, contamos con tuberías para agua y gas natural en diferentes diámetros. \n\n¿Te gustaría recibir asesoría técnica especializada sobre alguna de nuestras líneas de negocio o ver el catálogo de productos relacionados?"
+  },
+  {
+    "id": "4631d8c1-933a-4587-8554-aec5a406b13b",
+    "timestamp": "2024-11-21T13:40:28.763Z",
+    "userMessage": "user: Buenos días",
+    "userNumber": "51922010279",
+    "userName": "💪🏻",
+    "botResponse": "¡Buenos días! 😊 ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "abbc4d14-bd10-47f6-9c6c-231ec35add3a",
+    "timestamp": "2024-11-21T13:40:41.694Z",
+    "userMessage": "user: Buenos días\nassistant: ¡Buenos días! 😊 ¿En qué puedo ayudarte hoy?\nuser: https://fb.me/7l0X0EMO8",
+    "userNumber": "51922010279",
+    "userName": "💪🏻",
+    "botResponse": "Lo siento, pero soy un bot diseñado exclusivamente para responder mensajes de texto y no puedo procesar enlaces o imágenes. ¿En qué puedo ayudarte con información sobre nuestros productos o servicios?"
+  },
+  {
+    "id": "58176383-5afa-41dd-b81a-366e8da10ab6",
+    "timestamp": "2024-11-21T13:41:05.668Z",
+    "userMessage": "user: Buenos días\nassistant: ¡Buenos días! 😊 ¿En qué puedo ayudarte hoy?\nuser: https://fb.me/7l0X0EMO8\nassistant: Lo siento, pero soy un bot diseñado exclusivamente para responder mensajes de texto y no puedo procesar enlaces o imágenes. ¿En qué puedo ayudarte con información sobre nuestros productos o servicios?\nuser: Sobre los pre cliner",
+    "userNumber": "51922010279",
+    "userName": "💪🏻",
+    "botResponse": "Parece que te refieres a productos relacionados con accesorios automotrices. En Ememsa ofrecemos una variedad de componentes para sistemas de freno, dirección, embrague y más. \n\n¿Te gustaría recibir asesoría técnica especializada o ver el catálogo de productos relacionados?"
+  },
+  {
+    "id": "da8760a6-a4ee-4f77-9ff5-f4dbc3705806",
+    "timestamp": "2024-11-21T13:41:09.836Z",
+    "userMessage": "user: Buenos días\nassistant: ¡Buenos días! 😊 ¿En qué puedo ayudarte hoy?\nuser: https://fb.me/7l0X0EMO8\nassistant: Lo siento, pero soy un bot diseñado exclusivamente para responder mensajes de texto y no puedo procesar enlaces o imágenes. ¿En qué puedo ayudarte con información sobre nuestros productos o servicios?\nuser: Sobre los pre cliner\nassistant: Parece que te refieres a productos relacionados con accesorios automotrices. En Ememsa ofrecemos una variedad de componentes para sistemas de freno, dirección, embrague y más. \n\n¿Te gustaría recibir asesoría técnica especializada o ver el catálogo de productos relacionados?\nuser: Q4",
+    "userNumber": "51922010279",
+    "userName": "💪🏻",
+    "botResponse": "¿Te gustaría ver el catálogo de accesorios automotrices y artículos ferreteros? Aquí tienes algunos enlaces que pueden interesarte:\n\n- Mangueras y cañerías: [Catálogo Mangueras Automotrices](https://ememsa.com/wp-content/uploads/2024/08/CATALOGO-MANGUERAS-AUTOMOTRICES_0824.pdf)\n- Graseras, arandelas y abrazaderas: [Catálogo Fasteners](https://ememsa.com/wp-content/uploads/2024/08/CATALOGO-FASTENERS_0824.pdf)\n- Niples ferreteros: [Catálogo Niplería Universal](https://ememsa.com/wp-content/uploads/2024/08/C"
+  },
+  {
+    "id": "c00ae11a-7d18-4dcf-961b-ff161648fb06",
+    "timestamp": "2024-11-21T14:07:12.250Z",
+    "userMessage": "user: Buenos. Dias. Necesito.  Adaptadores. De. Bronce.   De. Diferentes. Medidas. Para. Conexiones. De. Sistema neumático.",
+    "userNumber": "51981183112",
+    "userName": "Jesus",
+    "botResponse": "¡Hola Jesús! Buenos días. Claro, podemos ayudarte con eso. Ememsa ofrece una variedad de adaptadores de bronce para conexiones en sistemas neumáticos. \n\n¿Te gustaría recibir asesoría técnica especializada o prefieres ver el catálogo de productos relacionados?"
+  },
+  {
+    "id": "139eebb5-7dc4-4204-8b35-28d6c9b030c3",
+    "timestamp": "2024-11-21T14:34:32.178Z",
+    "userMessage": "user: Hola",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "¡Hola Rolando! ¿Cómo puedo ayudarte hoy? Si tienes alguna consulta sobre nuestros productos o servicios, estaré encantado de asistirte."
+  },
+  {
+    "id": "c08b5a38-05ba-47be-95ff-e7f18c041ec4",
+    "timestamp": "2024-11-21T14:34:55.900Z",
+    "userMessage": "user: Hola\nassistant: ¡Hola Rolando! ¿Cómo puedo ayudarte hoy? Si tienes alguna consulta sobre nuestros productos o servicios, estaré encantado de asistirte.\nuser: Por favor con atención al cliente",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "Para consultas de atención al cliente, puedes contactar al 990295138. Si necesitas ayuda con algo más específico, házmelo saber. ¡Estoy aquí para ayudarte!"
+  },
+  {
+    "id": "4d6d71b2-270b-4e0e-9ec0-27d60d62c520",
+    "timestamp": "2024-11-21T14:35:05.799Z",
+    "userMessage": "user: Hola\nassistant: ¡Hola Rolando! ¿Cómo puedo ayudarte hoy? Si tienes alguna consulta sobre nuestros productos o servicios, estaré encantado de asistirte.\nuser: Por favor con atención al cliente\nassistant: Para consultas de atención al cliente, puedes contactar al 990295138. Si necesitas ayuda con algo más específico, házmelo saber. ¡Estoy aquí para ayudarte!\nuser: Gracias",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "¡De nada, Rolando! Si necesitas más ayuda o tienes alguna otra consulta, no dudes en decírmelo. ¡Que tengas un excelente día!"
+  },
+  {
+    "id": "4b0c2c36-3446-48e0-82cf-3f1d8fee52ec",
+    "timestamp": "2024-11-21T14:49:46.656Z",
+    "userMessage": "user: Buenos días que tal te saluda mayron Benites jefe de proyectos de la empresa superlock international sac, habíamos hablado antes por este medio quería confirmar el interés que tienen por nuestros servicios y poder confirmar una visita técnica a nuestras instalaciones o nosotros realizar y así de manera verbal ofrecerle nuestros servicios.",
+    "userNumber": "51957564754",
+    "userName": "Superlock",
+    "botResponse": "¡Hola Mayron! Buenos días. Agradezco tu mensaje y el interés en nuestros servicios. Sin embargo, para coordinar visitas técnicas o consultas sobre servicios, te recomiendo que contactes directamente a nuestro equipo especializado al número 980292435 para compras o adquisiciones. Ellos podrán ayudarte mejor con tus requerimientos. Si necesitas más información sobre nuestros productos, no dudes en decírmelo. ¡Quedo a tu disposición!"
+  },
+  {
+    "id": "590d23af-9c74-41e4-8677-d6728efc4ac5",
+    "timestamp": "2024-11-21T14:50:08.067Z",
+    "userMessage": "user: Buenos días que tal te saluda mayron Benites jefe de proyectos de la empresa superlock international sac, habíamos hablado antes por este medio quería confirmar el interés que tienen por nuestros servicios y poder confirmar una visita técnica a nuestras instalaciones o nosotros realizar y así de manera verbal ofrecerle nuestros servicios.\nassistant: ¡Hola Mayron! Buenos días. Agradezco tu mensaje y el interés en nuestros servicios. Sin embargo, para coordinar visitas técnicas o consultas sobre servicios, te recomiendo que contactes directamente a nuestro equipo especializado al número 980292435 para compras o adquisiciones. Ellos podrán ayudarte mejor con tus requerimientos. Si necesitas más información sobre nuestros productos, no dudes en decírmelo. ¡Quedo a tu disposición!\nuser: muy amable",
+    "userNumber": "51957564754",
+    "userName": "Superlock",
+    "botResponse": "¡De nada, Mayron! Si tienes más preguntas o necesitas asistencia adicional, no dudes en decírmelo. Estoy aquí para ayudarte. ¡Que tengas un excelente día!"
+  },
+  {
+    "id": "9e3f94dc-5979-4107-ad6d-bb22aa84a942",
+    "timestamp": "2024-11-21T15:19:55.160Z",
+    "userMessage": "user: Estimada,\nBuenos días \nEspero se encuentre muy bien de salud,\nEl motivo de mis líneas es para consultarle si actualmente cuenta con algún nuevo requerimiento el cual pueda atender. Actualmente estamos contando con muy buenas tarifas de importaciones marítimas, tanto FCL, LCL como importaciones aéreas.\n\nDeme la oportunidad de poder realizarle una cotización para que vea el excelente servicio que estamos brindando. 😊\n\nQuedo a su gentil su respuesta",
+    "userNumber": "51989480822",
+    "userName": "Katheryn Morales Urmeneta",
+    "botResponse": "Hola Katheryn, ¡buenos días! Espero que tú también te encuentres muy bien. \n\nSoy un asistente virtual de Ememsa y estoy aquí para ayudarte con consultas sobre nuestros productos y servicios. Sin embargo, no manejo temas de importaciones o cotizaciones externas. \n\nSi tienes interés en alguno de nuestros productos, como llaves metálicas, accesorios automotrices o tuberías, estaré encantado de asistirte. ¿Te gustaría ver nuestro catálogo o necesitas asesoría técnica especializada?"
+  },
+  {
+    "id": "cf96ca90-9c42-4666-acc9-6ec2f7eb02d7",
+    "timestamp": "2024-11-21T15:30:11.645Z",
+    "userMessage": "user: Hola",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "¡Hola Rolando! Es un placer saludarte. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "0ec479ef-ae5f-4e32-9f6e-d84576541e4e",
+    "timestamp": "2024-11-21T15:30:20.542Z",
+    "userMessage": "user: Hola\nassistant: ¡Hola Rolando! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nuser: _event_media_",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "Soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta o necesitas información sobre nuestros productos y servicios, ¡estaré encantado de ayudarte!"
+  },
+  {
+    "id": "439f5470-9c4c-464b-b1da-bef2de6403b2",
+    "timestamp": "2024-11-21T15:39:21.960Z",
+    "userMessage": "user: Hola",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "¡Hola Rolando! ¿Cómo puedo ayudarte hoy?"
+  },
+  {
+    "id": "40286731-a24a-49c0-8c76-c6ce072d65ff",
+    "timestamp": "2024-11-21T15:39:38.739Z",
+    "userMessage": "user: Hola\nassistant: ¡Hola Rolando! ¿Cómo puedo ayudarte hoy?\nuser: _event_media_",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "Lamentablemente, soy un bot diseñado exclusivamente para responder mensajes de texto. ¿En qué puedo ayudarte con respecto a nuestros productos o servicios?"
+  },
+  {
+    "id": "cc909397-a0ce-4f8f-8cf2-12249c69ae23",
+    "timestamp": "2024-11-21T15:40:01.085Z",
+    "userMessage": "user: Hola\nassistant: ¡Hola Rolando! ¿Cómo puedo ayudarte hoy?\nuser: _event_media_\nassistant: Lamentablemente, soy un bot diseñado exclusivamente para responder mensajes de texto. ¿En qué puedo ayudarte con respecto a nuestros productos o servicios?\nuser: Cotízame lo siguiente:",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "Claro, Rolando. Por favor, indícame qué productos o servicios necesitas cotizar y estaré encantado de ayudarte."
+  },
+  {
+    "id": "02a6de65-8fdf-4f0b-b0b1-95674e4d4a29",
+    "timestamp": "2024-11-21T15:49:05.420Z",
+    "userMessage": "user: Buen día",
+    "userNumber": "51948935549",
+    "userName": "Kalin Delgado Parker",
+    "botResponse": "¡Buen día, Kalin! ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "ca2778eb-3ab9-4ef7-9a78-7d81b022107f",
+    "timestamp": "2024-11-21T15:49:15.022Z",
+    "userMessage": "user: Buen día\nassistant: ¡Buen día, Kalin! ¿En qué puedo ayudarte hoy?\nuser: Dirección de tienda en Trujillo",
+    "userNumber": "51948935549",
+    "userName": "Kalin Delgado Parker",
+    "botResponse": "Lamentablemente, Ememsa no cuenta con una tienda abierta al público. Nuestras instalaciones están en Lurín y realizamos despachos directamente al punto de entrega indicado por el cliente. Te invito a visitar nuestra tienda en línea: https://tienda.ememsa.com, donde podrás explorar nuestros productos. ¿Te gustaría saber más sobre alguna línea específica?"
+  },
+  {
+    "id": "9c8d2ee0-c62f-4e8a-b029-4a2bfd43dc33",
+    "timestamp": "2024-11-21T16:06:19.988Z",
+    "userMessage": "user: Hola",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "¡Hola Rolando! ¿Cómo puedo ayudarte hoy?"
+  },
+  {
+    "id": "23544f40-25f8-4b55-a89c-2522ba6a4266",
+    "timestamp": "2024-11-21T16:06:29.912Z",
+    "userMessage": "user: Hola\nassistant: ¡Hola Rolando! ¿Cómo puedo ayudarte hoy?\nuser: Cotízame esto:",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "Soy un bot diseñado exclusivamente para responder mensajes de texto. Por favor, indícame qué producto o servicio necesitas cotizar y estaré encantado de ayudarte."
+  },
+  {
+    "id": "da059cfb-1819-4c0d-8308-a817c5f36d50",
+    "timestamp": "2024-11-21T16:06:50.357Z",
+    "userMessage": "user: Hola\nassistant: ¡Hola Rolando! ¿Cómo puedo ayudarte hoy?\nuser: Cotízame esto:\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. Por favor, indícame qué producto o servicio necesitas cotizar y estaré encantado de ayudarte.\nuser: _event_document_",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "Lamento informarte que no puedo procesar documentos u otros formatos. Por favor, indícame el producto o servicio que deseas cotizar y estaré encantado de ayudarte."
+  },
+  {
+    "id": "46e6df3e-3d48-4694-a9fb-473f03c86fbc",
+    "timestamp": "2024-11-21T16:07:02.086Z",
+    "userMessage": "user: Hola\nassistant: ¡Hola Rolando! ¿Cómo puedo ayudarte hoy?\nuser: Cotízame esto:\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. Por favor, indícame qué producto o servicio necesitas cotizar y estaré encantado de ayudarte.\nuser: _event_document_\nassistant: Lamento informarte que no puedo procesar documentos u otros formatos. Por favor, indícame el producto o servicio que deseas cotizar y estaré encantado de ayudarte.\nuser: _event_media_",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "Lamento informarte que no puedo procesar imágenes, audios o videos. Por favor, indícame el producto o servicio que deseas consultar y estaré encantado de ayudarte."
+  },
+  {
+    "id": "27e802a7-52e6-4395-9969-866b9f1a1b17",
+    "timestamp": "2024-11-21T16:07:15.905Z",
+    "userMessage": "user: Hola\nassistant: ¡Hola Rolando! ¿Cómo puedo ayudarte hoy?\nuser: Cotízame esto:\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. Por favor, indícame qué producto o servicio necesitas cotizar y estaré encantado de ayudarte.\nuser: _event_document_\nassistant: Lamento informarte que no puedo procesar documentos u otros formatos. Por favor, indícame el producto o servicio que deseas cotizar y estaré encantado de ayudarte.\nuser: _event_media_\nassistant: Lamento informarte que no puedo procesar imágenes, audios o videos. Por favor, indícame el producto o servicio que deseas consultar y estaré encantado de ayudarte.\nuser: _event_media_",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "Lamento informarte que no puedo procesar imágenes, audios o videos. Por favor, indícame el producto o servicio que deseas consultar y estaré encantado de ayudarte."
+  },
+  {
+    "id": "b9cb429e-54d1-439d-8834-6b5929fdf1db",
+    "timestamp": "2024-11-21T16:07:26.886Z",
+    "userMessage": "assistant: ¡Hola Rolando! ¿Cómo puedo ayudarte hoy?\nuser: Cotízame esto:\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. Por favor, indícame qué producto o servicio necesitas cotizar y estaré encantado de ayudarte.\nuser: _event_document_\nassistant: Lamento informarte que no puedo procesar documentos u otros formatos. Por favor, indícame el producto o servicio que deseas cotizar y estaré encantado de ayudarte.\nuser: _event_media_\nassistant: Lamento informarte que no puedo procesar imágenes, audios o videos. Por favor, indícame el producto o servicio que deseas consultar y estaré encantado de ayudarte.\nuser: _event_media_\nassistant: Lamento informarte que no puedo procesar imágenes, audios o videos. Por favor, indícame el producto o servicio que deseas consultar y estaré encantado de ayudarte.\nuser: _event_voice_note_",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "Lamento informarte que no puedo procesar notas de voz. Por favor, indícame el producto o servicio que deseas consultar y estaré encantado de ayudarte."
+  },
+  {
+    "id": "258504b1-0554-4cf9-8970-f275086c8fb0",
+    "timestamp": "2024-11-21T16:07:52.373Z",
+    "userMessage": "user: Cotízame esto:\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. Por favor, indícame qué producto o servicio necesitas cotizar y estaré encantado de ayudarte.\nuser: _event_document_\nassistant: Lamento informarte que no puedo procesar documentos u otros formatos. Por favor, indícame el producto o servicio que deseas cotizar y estaré encantado de ayudarte.\nuser: _event_media_\nassistant: Lamento informarte que no puedo procesar imágenes, audios o videos. Por favor, indícame el producto o servicio que deseas consultar y estaré encantado de ayudarte.\nuser: _event_media_\nassistant: Lamento informarte que no puedo procesar imágenes, audios o videos. Por favor, indícame el producto o servicio que deseas consultar y estaré encantado de ayudarte.\nuser: _event_voice_note_\nassistant: Lamento informarte que no puedo procesar notas de voz. Por favor, indícame el producto o servicio que deseas consultar y estaré encantado de ayudarte.\nuser: _event_media_",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "Lamento informarte que no puedo procesar imágenes, audios o videos. Por favor, indícame el producto o servicio que deseas consultar y estaré encantado de ayudarte."
+  },
+  {
+    "id": "5be5a145-d3cc-448a-83b4-df07e830dee0",
+    "timestamp": "2024-11-21T16:08:08.354Z",
+    "userMessage": "assistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. Por favor, indícame qué producto o servicio necesitas cotizar y estaré encantado de ayudarte.\nuser: _event_document_\nassistant: Lamento informarte que no puedo procesar documentos u otros formatos. Por favor, indícame el producto o servicio que deseas cotizar y estaré encantado de ayudarte.\nuser: _event_media_\nassistant: Lamento informarte que no puedo procesar imágenes, audios o videos. Por favor, indícame el producto o servicio que deseas consultar y estaré encantado de ayudarte.\nuser: _event_media_\nassistant: Lamento informarte que no puedo procesar imágenes, audios o videos. Por favor, indícame el producto o servicio que deseas consultar y estaré encantado de ayudarte.\nuser: _event_voice_note_\nassistant: Lamento informarte que no puedo procesar notas de voz. Por favor, indícame el producto o servicio que deseas consultar y estaré encantado de ayudarte.\nuser: _event_media_\nassistant: Lamento informarte que no puedo procesar imágenes, audios o videos. Por favor, indícame el producto o servicio que deseas consultar y estaré encantado de ayudarte.\nuser: _event_location_",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "Lamento informarte que no puedo procesar ubicaciones. Por favor, indícame el producto o servicio que deseas consultar y estaré encantado de ayudarte."
+  },
+  {
+    "id": "281321a2-29a4-4e5f-87a5-c492748e115d",
+    "timestamp": "2024-11-21T16:08:32.358Z",
+    "userMessage": "user: _event_document_\nassistant: Lamento informarte que no puedo procesar documentos u otros formatos. Por favor, indícame el producto o servicio que deseas cotizar y estaré encantado de ayudarte.\nuser: _event_media_\nassistant: Lamento informarte que no puedo procesar imágenes, audios o videos. Por favor, indícame el producto o servicio que deseas consultar y estaré encantado de ayudarte.\nuser: _event_media_\nassistant: Lamento informarte que no puedo procesar imágenes, audios o videos. Por favor, indícame el producto o servicio que deseas consultar y estaré encantado de ayudarte.\nuser: _event_voice_note_\nassistant: Lamento informarte que no puedo procesar notas de voz. Por favor, indícame el producto o servicio que deseas consultar y estaré encantado de ayudarte.\nuser: _event_media_\nassistant: Lamento informarte que no puedo procesar imágenes, audios o videos. Por favor, indícame el producto o servicio que deseas consultar y estaré encantado de ayudarte.\nuser: _event_location_\nassistant: Lamento informarte que no puedo procesar ubicaciones. Por favor, indícame el producto o servicio que deseas consultar y estaré encantado de ayudarte.\nuser: _event_media_",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "Lamento informarte que no puedo procesar imágenes, audios o videos. Por favor, indícame el producto o servicio que deseas consultar y estaré encantado de ayudarte."
+  },
+  {
+    "id": "4e959846-deb4-49fb-8fa0-b898d171ada4",
+    "timestamp": "2024-11-21T16:08:49.974Z",
+    "userMessage": "assistant: Lamento informarte que no puedo procesar documentos u otros formatos. Por favor, indícame el producto o servicio que deseas cotizar y estaré encantado de ayudarte.\nuser: _event_media_\nassistant: Lamento informarte que no puedo procesar imágenes, audios o videos. Por favor, indícame el producto o servicio que deseas consultar y estaré encantado de ayudarte.\nuser: _event_media_\nassistant: Lamento informarte que no puedo procesar imágenes, audios o videos. Por favor, indícame el producto o servicio que deseas consultar y estaré encantado de ayudarte.\nuser: _event_voice_note_\nassistant: Lamento informarte que no puedo procesar notas de voz. Por favor, indícame el producto o servicio que deseas consultar y estaré encantado de ayudarte.\nuser: _event_media_\nassistant: Lamento informarte que no puedo procesar imágenes, audios o videos. Por favor, indícame el producto o servicio que deseas consultar y estaré encantado de ayudarte.\nuser: _event_location_\nassistant: Lamento informarte que no puedo procesar ubicaciones. Por favor, indícame el producto o servicio que deseas consultar y estaré encantado de ayudarte.\nuser: _event_media_\nassistant: Lamento informarte que no puedo procesar imágenes, audios o videos. Por favor, indícame el producto o servicio que deseas consultar y estaré encantado de ayudarte.\nuser: Pásame el número de atención al cliente",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "Puedes contactar a Atención al Cliente al número 990295138. Si necesitas ayuda con algún producto o servicio específico de Ememsa, no dudes en decírmelo. ¡Estoy aquí para ayudarte!"
+  },
+  {
+    "id": "b74becbe-701e-43ae-a0d2-e3f55631594f",
+    "timestamp": "2024-11-21T16:08:55.132Z",
+    "userMessage": "user: _event_media_\nassistant: Lamento informarte que no puedo procesar imágenes, audios o videos. Por favor, indícame el producto o servicio que deseas consultar y estaré encantado de ayudarte.\nuser: _event_media_\nassistant: Lamento informarte que no puedo procesar imágenes, audios o videos. Por favor, indícame el producto o servicio que deseas consultar y estaré encantado de ayudarte.\nuser: _event_voice_note_\nassistant: Lamento informarte que no puedo procesar notas de voz. Por favor, indícame el producto o servicio que deseas consultar y estaré encantado de ayudarte.\nuser: _event_media_\nassistant: Lamento informarte que no puedo procesar imágenes, audios o videos. Por favor, indícame el producto o servicio que deseas consultar y estaré encantado de ayudarte.\nuser: _event_location_\nassistant: Lamento informarte que no puedo procesar ubicaciones. Por favor, indícame el producto o servicio que deseas consultar y estaré encantado de ayudarte.\nuser: _event_media_\nassistant: Lamento informarte que no puedo procesar imágenes, audios o videos. Por favor, indícame el producto o servicio que deseas consultar y estaré encantado de ayudarte.\nuser: Pásame el número de atención al cliente\nassistant: Puedes contactar a Atención al Cliente al número 990295138. Si necesitas ayuda con algún producto o servicio específico de Ememsa, no dudes en decírmelo. ¡Estoy aquí para ayudarte!\nuser: Gracias",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "¡De nada! Si necesitas más ayuda o información sobre nuestros productos y servicios, no dudes en contactarme. ¡Que tengas un excelente día!"
   }
 ]

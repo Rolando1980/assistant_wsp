@@ -2,10 +2,25 @@ import pkg from '@bot-whatsapp/bot';
 import QRPortalWeb from '@bot-whatsapp/portal';
 import { JsonFileAdapter } from '@bot-whatsapp/database-json';
 import { getOpenAIResponse } from '../services/ai.js';
+import fs from 'fs';
 
 const { createBot, createFlow, addKeyword } = pkg;
 
+// Ruta relativa al archivo 'response.txt'
+const responseFilePath = '../../response.txt';
+
 const conversations = {}; // Almacena el historial de conversaciones
+
+const getMessageType = (messageCtx) => {
+    if (messageCtx.message?.audioMessage) return 'audio';
+    if (messageCtx.message?.stickerMessage) return 'sticker';
+    if (messageCtx.message?.videoMessage) return 'video';
+    if (messageCtx.message?.imageMessage) return 'image';
+    if (messageCtx.message?.documentMessage) return 'document';
+    if (messageCtx.message?.locationMessage) return 'location';
+    if (messageCtx.message?.conversation) return 'text';
+    return 'other';
+};
 
 export const startWhatsAppBot = async () => {
     const { BaileysProvider } = await import('@bot-whatsapp/provider-baileys');
@@ -18,15 +33,13 @@ export const startWhatsAppBot = async () => {
         if (type !== 'notify') return;
         const [messageCtx] = messages;
 
-        // Verificar el tipo de mensaje
-        const messageType = messageCtx.message?.conversation ? 'text' : 'other';
+        // Identificar el tipo de mensaje
+        const messageType = getMessageType(messageCtx);
 
-        // Filtrar mensajes no deseados (imágenes, audios, videos y ubicaciones)
+        // Filtrar mensajes no deseados (que no sean texto)
         if (messageType !== 'text') {
-            // Opcionalmente, puedes enviar un mensaje indicando que solo se admiten textos
-            const formattedNumber = `${messageCtx.key.remoteJid}@s.whatsapp.net`;
-            await adapterProvider.sendText(formattedNumber, "lo siento, solo puedo leer mensajes de texto.");
-            return; // Omitir el procesamiento de este mensaje
+        console.log(`Mensaje de tipo "${messageType}" recibido y omitido.`);
+        return; // Omitir el procesamiento de este mensaje
         }
 
         let payload = {
@@ -35,7 +48,7 @@ export const startWhatsAppBot = async () => {
             name: messageCtx?.pushName,
             from: messageCtx?.key?.remoteJid,
         };
-
+        
         // Filtrar mensajes que no provienen de un número individual
         if (payload.from === 'status@broadcast') return;
 
@@ -45,8 +58,6 @@ export const startWhatsAppBot = async () => {
 
     // Función para resumir el historial de mensajes
     const summarizeConversation = (history) => {
-        // Aquí puedes implementar la lógica para resumir el historial
-        // Por ejemplo, podrías concatenar solo las partes relevantes
         const summary = history.map(msg => `${msg.role}: ${msg.content}`).join('\n');
         return summary; // Puedes modificar esto para hacer un resumen más sofisticado
     };
@@ -57,6 +68,19 @@ export const startWhatsAppBot = async () => {
         // Verificar si el número no comienza con "51"
         if (!userNumber.startsWith("51")) {
             const formattedNumber = `${userNumber}@s.whatsapp.net`;
+
+            // Guardar en el archivo response.txt
+            const responseEntry = {
+                id: Date.now().toString(),
+                timestamp: new Date().toISOString(),
+                userMessage: message.body || '',
+                userNumber: userNumber,
+                userName: message.name || 'Desconocido',
+                botResponse:
+                    "Hola, si eres de un país que no es Perú, sigue este enlace para un asesor técnico: https://wa.me/+51971449752?text=Hola%20Lizbeth%20solicito%20info",
+            };
+            fs.appendFileSync(responseFilePath, JSON.stringify(responseEntry) + '\n', 'utf8');
+
             await adapterProvider.sendText(
                 formattedNumber,
                 "Hola, si eres de un país que no es Perú, sigue este enlace para un asesor técnico: https://wa.me/+51971449752?text=Hola%20Lizbeth%20solicito%20info"

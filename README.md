@@ -45,4 +45,4 @@ Modificación temporal del archivo compilado: Como solución temporal, se cambi�
 
 Antes:  payload = { ...payload, body: bot.utils.generateRefprovider('_event_media_') };
 Ahora:  payload = { ...payload, body: '_event_media_' }; // Evita el uso de `generateRefprovider`
-lineas: 37432, 37436 y 37440
+lineas: 37426 ('_event_location_'), 37432 ('_event_media_'), 37436 ('_event_media_'), 37440 ('_event_media_'), 37444 ('_event_document_')y 37448 ('_event_voice_note_').
