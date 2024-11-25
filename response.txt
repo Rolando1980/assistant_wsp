@@ -7950,5 +7950,637 @@
     "userNumber": "51956326678",
     "userName": "Rolando Martinez",
     "botResponse": "¡De nada! Si necesitas más ayuda o información sobre nuestros productos y servicios, no dudes en contactarme. ¡Que tengas un excelente día!"
+  },
+  {
+    "id": "1fa32c47-7a67-4b3b-b430-f6178be6108d",
+    "timestamp": "2024-11-21T16:35:15.951Z",
+    "userMessage": "user: Hola",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "¡Hola Rolando! ¿Cómo puedo ayudarte hoy?"
+  },
+  {
+    "id": "f30327c6-9655-4f6f-a30b-2a7aaefe1fca",
+    "timestamp": "2024-11-21T16:35:28.956Z",
+    "userMessage": "user: Hola\nassistant: ¡Hola Rolando! ¿Cómo puedo ayudarte hoy?\nuser: Lo siento me equivoqué",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "No hay problema, ¡estoy aquí para ayudarte! ¿En qué puedo asistirte hoy?"
+  },
+  {
+    "id": "c6dd1b2d-cf47-4098-b520-b597d8d448da",
+    "timestamp": "2024-11-21T16:35:45.340Z",
+    "userMessage": "user: ¡Hola! Podrías darme más información de...",
+    "userNumber": "51992786284",
+    "userName": "aut consilio aut ense",
+    "botResponse": "¡Hola! Claro, estaré encantado de ayudarte. ¿Sobre qué producto o servicio de Ememsa te gustaría obtener más información?"
+  },
+  {
+    "id": "de217f20-f84b-43be-8b3b-59b6e2bed61b",
+    "timestamp": "2024-11-21T17:17:05.737Z",
+    "userMessage": "user: hola",
+    "userNumber": "51962222283",
+    "userName": "🩻",
+    "botResponse": "¡Hola! 😊 Bienvenido a Ememsa. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "41b523a8-a9d3-405c-86bf-7b021c18931e",
+    "timestamp": "2024-11-21T17:17:50.281Z",
+    "userMessage": "user: hola\nassistant: ¡Hola! 😊 Bienvenido a Ememsa. ¿En qué puedo ayudarte hoy?\nuser: hola",
+    "userNumber": "51962222283",
+    "userName": "Daniela Avalos 🩻",
+    "botResponse": "¡Hola de nuevo, Daniela! 😊 ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "bb0dc68b-81c9-4c82-ae86-43334e6655b9",
+    "timestamp": "2024-11-21T17:18:44.739Z",
+    "userMessage": "user: hola\nassistant: ¡Hola! 😊 Bienvenido a Ememsa. ¿En qué puedo ayudarte hoy?\nuser: hola\nassistant: ¡Hola de nuevo, Daniela! 😊 ¿En qué puedo ayudarte hoy?\nuser: Buenas tardes",
+    "userNumber": "51962222283",
+    "userName": "Daniela Avalos 🩻",
+    "botResponse": "¡Buenas tardes, Daniela! 🌟 ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "9dda7e18-1912-4869-9725-31bb820dd67b",
+    "timestamp": "2024-11-21T17:19:05.424Z",
+    "userMessage": "user: hola\nassistant: ¡Hola! 😊 Bienvenido a Ememsa. ¿En qué puedo ayudarte hoy?\nuser: hola\nassistant: ¡Hola de nuevo, Daniela! 😊 ¿En qué puedo ayudarte hoy?\nuser: Buenas tardes\nassistant: ¡Buenas tardes, Daniela! 🌟 ¿En qué puedo ayudarte hoy?\nuser: tu puta madre",
+    "userNumber": "51962222283",
+    "userName": "Daniela Avalos 🩻",
+    "botResponse": "Lamento que te sientas así. Estoy aquí para ayudarte. ¿Hay algo específico en lo que pueda asistirte?"
+  },
+  {
+    "id": "33c75ddf-8081-4a08-97f2-0039bf7dd72e",
+    "timestamp": "2024-11-21T17:19:28.461Z",
+    "userMessage": "user: hola\nassistant: ¡Hola! 😊 Bienvenido a Ememsa. ¿En qué puedo ayudarte hoy?\nuser: hola\nassistant: ¡Hola de nuevo, Daniela! 😊 ¿En qué puedo ayudarte hoy?\nuser: Buenas tardes\nassistant: ¡Buenas tardes, Daniela! 🌟 ¿En qué puedo ayudarte hoy?\nuser: tu puta madre\nassistant: Lamento que te sientas así. Estoy aquí para ayudarte. ¿Hay algo específico en lo que pueda asistirte?\nuser: estoy triste",
+    "userNumber": "51962222283",
+    "userName": "Daniela Avalos 🩻",
+    "botResponse": "Lamento que te sientas así, Daniela. Si necesitas hablar de algo o si hay alguna consulta sobre nuestros productos y servicios, estoy aquí para ayudarte. ¿Te gustaría saber más sobre alguna línea de negocio en particular?"
+  },
+  {
+    "id": "06104940-3e96-4b4f-af0c-a08266d85768",
+    "timestamp": "2024-11-21T17:33:19.270Z",
+    "userMessage": "user: Buenas tardes, \nTe saluda Ana Flores de la empresa *TRANSPORTES GRUPO RIOS SAC* Contamos con unidades para *todo tipo de carga a nivel LOCAL - NACIONAL 🚚✨*. Con unidades propias y un equipo listo para servirte, estamos preparados para cualquier desafío en transporte.  \n                                                                                                               \nConfía en nuestra experiencia y calidad. ¡Te Invitamos a cotizar hoy mismo a corporativo@gruporios.com.pe // Contacto: Wtsp 958211866 y descubre por qué somos tu mejor opción! 💼📞",
+    "userNumber": "51958211866",
+    "userName": "Ana Flores",
+    "botResponse": "¡Hola, Ana! Buenas tardes. ¿En qué puedo ayudarte hoy? Si necesitas información sobre nuestros productos o servicios en Ememsa, estaré encantado de asistirte."
+  },
+  {
+    "id": "665a7a5d-c25b-43c1-b850-7242d9f64d1c",
+    "timestamp": "2024-11-21T17:33:28.134Z",
+    "userMessage": "user: Buenas tardes, \nTe saluda Ana Flores de la empresa *TRANSPORTES GRUPO RIOS SAC* Contamos con unidades para *todo tipo de carga a nivel LOCAL - NACIONAL 🚚✨*. Con unidades propias y un equipo listo para servirte, estamos preparados para cualquier desafío en transporte.  \n                                                                                                               \nConfía en nuestra experiencia y calidad. ¡Te Invitamos a cotizar hoy mismo a corporativo@gruporios.com.pe // Contacto: Wtsp 958211866 y descubre por qué somos tu mejor opción! 💼📞\nassistant: ¡Hola, Ana! Buenas tardes. ¿En qué puedo ayudarte hoy? Si necesitas información sobre nuestros productos o servicios en Ememsa, estaré encantado de asistirte.\nuser: Favor tendrás algún correo, *numero de contacto del área encargada de compras, Logistica, despacho* para hacerle llegar nuestro Brochure, Carta de presentacion 🚛",
+    "userNumber": "51958211866",
+    "userName": "Ana Flores",
+    "botResponse": "Para consultas relacionadas con compras, puedes contactar al área encargada al número 980292435. Ellos podrán ayudarte con la información que necesites. Si tienes alguna otra pregunta o necesitas más asistencia, ¡hazmelo saber!"
+  },
+  {
+    "id": "7073114d-f04b-4ff7-8b17-0b52b49ad73b",
+    "timestamp": "2024-11-21T17:33:50.577Z",
+    "userMessage": "user: Buenas tardes, \nTe saluda Ana Flores de la empresa *TRANSPORTES GRUPO RIOS SAC* Contamos con unidades para *todo tipo de carga a nivel LOCAL - NACIONAL 🚚✨*. Con unidades propias y un equipo listo para servirte, estamos preparados para cualquier desafío en transporte.  \n                                                                                                               \nConfía en nuestra experiencia y calidad. ¡Te Invitamos a cotizar hoy mismo a corporativo@gruporios.com.pe // Contacto: Wtsp 958211866 y descubre por qué somos tu mejor opción! 💼📞\nassistant: ¡Hola, Ana! Buenas tardes. ¿En qué puedo ayudarte hoy? Si necesitas información sobre nuestros productos o servicios en Ememsa, estaré encantado de asistirte.\nuser: Favor tendrás algún correo, *numero de contacto del área encargada de compras, Logistica, despacho* para hacerle llegar nuestro Brochure, Carta de presentacion 🚛\nassistant: Para consultas relacionadas con compras, puedes contactar al área encargada al número 980292435. Ellos podrán ayudarte con la información que necesites. Si tienes alguna otra pregunta o necesitas más asistencia, ¡hazmelo saber!\nuser: Muchas gracias",
+    "userNumber": "51958211866",
+    "userName": "Ana Flores",
+    "botResponse": "¡De nada, Ana! Si necesitas más ayuda o información en el futuro, no dudes en contactarme. ¡Que tengas un excelente día!"
+  },
+  {
+    "id": "4e0c106b-ce76-48dc-a7c8-2a41be0dd61f",
+    "timestamp": "2024-11-21T18:04:47.398Z",
+    "userMessage": "user: Buenas tardes, \nTe saluda Ana Flores de la empresa *TRANSPORTES GRUPO RIOS SAC* Contamos con unidades para *todo tipo de carga a nivel LOCAL - NACIONAL 🚚✨*. Con unidades propias y un equipo listo para servirte, estamos preparados para cualquier desafío en transporte.  \n                                                                                                               \nConfía en nuestra experiencia y calidad. ¡Te Invitamos a cotizar hoy mismo a corporativo@gruporios.com.pe // Contacto: Wtsp 958211866 y descubre por qué somos tu mejor opción! 💼📞\nassistant: ¡Hola, Ana! Buenas tardes. ¿En qué puedo ayudarte hoy? Si necesitas información sobre nuestros productos o servicios en Ememsa, estaré encantado de asistirte.\nuser: Favor tendrás algún correo, *numero de contacto del área encargada de compras, Logistica, despacho* para hacerle llegar nuestro Brochure, Carta de presentacion 🚛\nassistant: Para consultas relacionadas con compras, puedes contactar al área encargada al número 980292435. Ellos podrán ayudarte con la información que necesites. Si tienes alguna otra pregunta o necesitas más asistencia, ¡hazmelo saber!\nuser: Muchas gracias\nassistant: ¡De nada, Ana! Si necesitas más ayuda o información en el futuro, no dudes en contactarme. ¡Que tengas un excelente día!\nuser: Me pueden compartir su correo electrónico para hacerle llegar nuestro brochure, carta de presentacion",
+    "userNumber": "51958211866",
+    "userName": "Ana Flores",
+    "botResponse": "Lamentablemente, no puedo proporcionar correos electrónicos específicos. Te recomiendo que contactes al área de compras al número 980292435 para que te puedan brindar la información necesaria. Si hay algo más en lo que pueda asistirte, ¡házmelo saber!"
+  },
+  {
+    "id": "b895a943-eae6-425b-a88a-04f8eb1f9a2b",
+    "timestamp": "2024-11-21T18:05:26.344Z",
+    "userMessage": "user: Buenas tardes",
+    "userNumber": "51979056265",
+    "userName": "Agente Comercial Mapfre",
+    "botResponse": "¡Buenas tardes! ¿Cómo puedo ayudarte hoy?"
+  },
+  {
+    "id": "6ce59027-9ee0-4ab2-a01c-26ebd0d32ce7",
+    "timestamp": "2024-11-21T18:06:13.337Z",
+    "userMessage": "user: Buenas tardes\nassistant: ¡Buenas tardes! ¿Cómo puedo ayudarte hoy?\nuser: Un gusto",
+    "userNumber": "51979056265",
+    "userName": "Agente Comercial Mapfre",
+    "botResponse": "¡El gusto es mío! ¿En qué puedo asistirte hoy?"
+  },
+  {
+    "id": "ed43173b-69c4-4418-a898-328d3e7c2c12",
+    "timestamp": "2024-11-21T18:07:18.031Z",
+    "userMessage": "user: Buenas tardes\nassistant: ¡Buenas tardes! ¿Cómo puedo ayudarte hoy?\nuser: Un gusto\nassistant: ¡El gusto es mío! ¿En qué puedo asistirte hoy?\nuser: _event_voice_note_",
+    "userNumber": "51979056265",
+    "userName": "Agente Comercial Mapfre",
+    "botResponse": "Lo siento, pero soy un bot diseñado exclusivamente para responder mensajes de texto. ¿Cómo puedo ayudarte?"
+  },
+  {
+    "id": "57a693ab-5a0f-4b20-9907-64f5f2265d39",
+    "timestamp": "2024-11-21T18:07:35.182Z",
+    "userMessage": "user: Buenas tardes\nassistant: ¡Buenas tardes! ¿Cómo puedo ayudarte hoy?\nuser: Un gusto\nassistant: ¡El gusto es mío! ¿En qué puedo asistirte hoy?\nuser: _event_voice_note_\nassistant: Lo siento, pero soy un bot diseñado exclusivamente para responder mensajes de texto. ¿Cómo puedo ayudarte?\nuser: _event_media_",
+    "userNumber": "51979056265",
+    "userName": "Agente Comercial Mapfre",
+    "botResponse": "Lamento informarte que solo puedo procesar mensajes de texto. ¿En qué puedo asistirte hoy?"
+  },
+  {
+    "id": "e0c6120d-215e-439b-8851-4e1d4c61742c",
+    "timestamp": "2024-11-21T18:12:37.572Z",
+    "userMessage": "user: buenos tardes",
+    "userNumber": "51940287507",
+    "userName": "hohucer",
+    "botResponse": "¡Hola! Buenas tardes, hohucer. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "adab6270-5198-426e-a50c-afa69e441af4",
+    "timestamp": "2024-11-21T18:13:27.342Z",
+    "userMessage": "user: buenos tardes\nassistant: ¡Hola! Buenas tardes, hohucer. ¿En qué puedo ayudarte hoy?\nuser: para hacer una cotizacion de este tipo de mangueras",
+    "userNumber": "51940287507",
+    "userName": "hohucer",
+    "botResponse": "Claro, puedo ayudarte con eso. ¿Te refieres a las mangueras automotrices o a otro tipo de mangueras? También puedo ofrecerte asesoría técnica especializada o mostrarte nuestro catálogo de productos. ¿Qué prefieres?"
+  },
+  {
+    "id": "339cbba1-7928-48ff-927c-f7ccfd181cb1",
+    "timestamp": "2024-11-21T18:14:38.433Z",
+    "userMessage": "user: buenos tardes\nassistant: ¡Hola! Buenas tardes, hohucer. ¿En qué puedo ayudarte hoy?\nuser: para hacer una cotizacion de este tipo de mangueras\nassistant: Claro, puedo ayudarte con eso. ¿Te refieres a las mangueras automotrices o a otro tipo de mangueras? También puedo ofrecerte asesoría técnica especializada o mostrarte nuestro catálogo de productos. ¿Qué prefieres?\nuser: _event_media_",
+    "userNumber": "51940287507",
+    "userName": "hohucer",
+    "botResponse": "Soy un bot diseñado exclusivamente para responder mensajes de texto, por lo que no puedo procesar imágenes ni otros formatos. Si necesitas información sobre mangueras, ¿te gustaría que te envíe el catálogo de mangueras automotrices o prefieres asesoría técnica especializada?"
+  },
+  {
+    "id": "3b568b89-1a17-4954-8bd0-d54e23628d7f",
+    "timestamp": "2024-11-21T18:14:57.502Z",
+    "userMessage": "user: buenos tardes\nassistant: ¡Hola! Buenas tardes, hohucer. ¿En qué puedo ayudarte hoy?\nuser: para hacer una cotizacion de este tipo de mangueras\nassistant: Claro, puedo ayudarte con eso. ¿Te refieres a las mangueras automotrices o a otro tipo de mangueras? También puedo ofrecerte asesoría técnica especializada o mostrarte nuestro catálogo de productos. ¿Qué prefieres?\nuser: _event_media_\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto, por lo que no puedo procesar imágenes ni otros formatos. Si necesitas información sobre mangueras, ¿te gustaría que te envíe el catálogo de mangueras automotrices o prefieres asesoría técnica especializada?\nuser: asesoria tecnica",
+    "userNumber": "51940287507",
+    "userName": "hohucer",
+    "botResponse": "Perfecto. Para obtener asesoría técnica especializada sobre mangueras automotrices, puedes contactar a nuestro técnico a través del siguiente enlace: [Asesoría Técnica](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar). ¡Espero que te sea útil! Si necesitas algo más, no dudes en decírmelo."
+  },
+  {
+    "id": "296e908a-e7f5-4e6f-bb28-ea2b80317fe5",
+    "timestamp": "2024-11-21T19:13:31.392Z",
+    "userMessage": "user: Buenas tardes por favor cotizar",
+    "userNumber": "51902761923",
+    "userName": "Olga Arias - Metalplast 🤝",
+    "botResponse": "¡Hola, Olga! Buenas tardes. Estoy aquí para ayudarte. ¿Podrías especificar qué tipo de productos o servicios necesitas cotizar? Esto me ayudará a orientarte mejor."
+  },
+  {
+    "id": "2123de17-d496-444b-8716-aa33a31d9a8f",
+    "timestamp": "2024-11-21T19:13:46.331Z",
+    "userMessage": "user: Buenas tardes por favor cotizar\nassistant: ¡Hola, Olga! Buenas tardes. Estoy aquí para ayudarte. ¿Podrías especificar qué tipo de productos o servicios necesitas cotizar? Esto me ayudará a orientarte mejor.\nuser: _event_media_",
+    "userNumber": "51902761923",
+    "userName": "Olga Arias - Metalplast 🤝",
+    "botResponse": "Soy un bot diseñado exclusivamente para responder mensajes de texto. Si necesitas asistencia, por favor envíame un mensaje con tus consultas o requerimientos. Estoy aquí para ayudarte."
+  },
+  {
+    "id": "058af6fb-4e16-4f5a-8e8d-2e88f3a9ddea",
+    "timestamp": "2024-11-21T19:14:07.325Z",
+    "userMessage": "user: Buenas tardes por favor cotizar\nassistant: ¡Hola, Olga! Buenas tardes. Estoy aquí para ayudarte. ¿Podrías especificar qué tipo de productos o servicios necesitas cotizar? Esto me ayudará a orientarte mejor.\nuser: _event_media_\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. Si necesitas asistencia, por favor envíame un mensaje con tus consultas o requerimientos. Estoy aquí para ayudarte.\nuser: Mis datos:\nOlga Arias\n20547472927 - METALPLAST IMPORTADORA S.A.C.\n\nMóvil: +51 902761923\nE-mail: oarias@metalplast.com.pe",
+    "userNumber": "51902761923",
+    "userName": "Olga Arias - Metalplast 🤝",
+    "botResponse": "Gracias por compartir tus datos, Olga. Sin embargo, para poder ayudarte mejor, ¿podrías indicarme qué productos o servicios específicos deseas cotizar? Estoy aquí para asistirte."
+  },
+  {
+    "id": "07c1c2b2-05dc-4119-aeb2-16677cd1d6eb",
+    "timestamp": "2024-11-21T19:15:42.130Z",
+    "userMessage": "user: Buenas tardes por favor cotizar\nassistant: ¡Hola, Olga! Buenas tardes. Estoy aquí para ayudarte. ¿Podrías especificar qué tipo de productos o servicios necesitas cotizar? Esto me ayudará a orientarte mejor.\nuser: _event_media_\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. Si necesitas asistencia, por favor envíame un mensaje con tus consultas o requerimientos. Estoy aquí para ayudarte.\nuser: Mis datos:\nOlga Arias\n20547472927 - METALPLAST IMPORTADORA S.A.C.\n\nMóvil: +51 902761923\nE-mail: oarias@metalplast.com.pe\nassistant: Gracias por compartir tus datos, Olga. Sin embargo, para poder ayudarte mejor, ¿podrías indicarme qué productos o servicios específicos deseas cotizar? Estoy aquí para asistirte.\nuser: cotizar",
+    "userNumber": "51902761923",
+    "userName": "Olga Arias - Metalplast 🤝",
+    "botResponse": "Para poder cotizar, necesito saber qué tipo de productos o servicios estás interesada en adquirir. ¿Te gustaría información sobre llaves metálicas, accesorios automotrices, tuberías, o alguna otra línea de negocio? ¡Espero tu respuesta!"
+  },
+  {
+    "id": "cd055cc6-0553-4707-8c7d-6880f73a960d",
+    "timestamp": "2024-11-21T19:18:01.319Z",
+    "userMessage": "user: Buenas tardes",
+    "userNumber": "51989488686",
+    "userName": "Peggy",
+    "botResponse": "¡Hola Peggy! Buenas tardes. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "9b1e27d9-756f-46bb-a755-e90bc5f95561",
+    "timestamp": "2024-11-21T19:18:28.210Z",
+    "userMessage": "user: Buenas tardes\nassistant: ¡Hola Peggy! Buenas tardes. ¿En qué puedo ayudarte hoy?\nuser: Le saluda Peggy de la empresa HIDROLINE, podria cotizarme un fvor",
+    "userNumber": "51989488686",
+    "userName": "Peggy",
+    "botResponse": "¡Hola Peggy! Claro, estaré encantado de ayudarte con tu cotización. ¿Podrías indicarme qué productos o servicios necesitas cotizar?"
+  },
+  {
+    "id": "cf265b98-3b3e-4d86-931b-db0709e67293",
+    "timestamp": "2024-11-21T19:18:44.219Z",
+    "userMessage": "user: Buenas tardes\nassistant: ¡Hola Peggy! Buenas tardes. ¿En qué puedo ayudarte hoy?\nuser: Le saluda Peggy de la empresa HIDROLINE, podria cotizarme un fvor\nassistant: ¡Hola Peggy! Claro, estaré encantado de ayudarte con tu cotización. ¿Podrías indicarme qué productos o servicios necesitas cotizar?\nuser: un tubo PPR de 32mm",
+    "userNumber": "51989488686",
+    "userName": "Peggy",
+    "botResponse": "Para la cotización de un tubo PPR de 32 mm, puedo ofrecerte asesoría técnica especializada. ¿Te gustaría hablar con uno de nuestros técnicos? Si es así, aquí tienes el enlace para contactarlo: [Asesoría Técnica](https://wa.me/+51914173592?text=Buen%20dia%20requiero%20info)."
+  },
+  {
+    "id": "3ccead26-ceef-430e-afb1-2f6ed7768d06",
+    "timestamp": "2024-11-21T19:32:54.264Z",
+    "userMessage": "user: Buenas tardes\nassistant: ¡Hola Peggy! Buenas tardes. ¿En qué puedo ayudarte hoy?\nuser: Le saluda Peggy de la empresa HIDROLINE, podria cotizarme un fvor\nassistant: ¡Hola Peggy! Claro, estaré encantado de ayudarte con tu cotización. ¿Podrías indicarme qué productos o servicios necesitas cotizar?\nuser: un tubo PPR de 32mm\nassistant: Para la cotización de un tubo PPR de 32 mm, puedo ofrecerte asesoría técnica especializada. ¿Te gustaría hablar con uno de nuestros técnicos? Si es así, aquí tienes el enlace para contactarlo: [Asesoría Técnica](https://wa.me/+51914173592?text=Buen%20dia%20requiero%20info).\nuser: para el paso de agua caliente que tipo de tubo me recomiendas?",
+    "userNumber": "51989488686",
+    "userName": "Peggy",
+    "botResponse": "Para el paso de agua caliente, te recomiendo utilizar tuberías de PPR (Polipropileno Random) que son ideales para este tipo de aplicaciones. Tienen alta resistencia a la temperatura y a la presión. Si deseas más información técnica o cotización, puedo dirigirte a un técnico especializado. ¿Te gustaría hacerlo?"
+  },
+  {
+    "id": "3f766cb7-7480-4a73-8b44-129a0133387f",
+    "timestamp": "2024-11-21T19:33:40.143Z",
+    "userMessage": "user: Buenas tardes\nassistant: ¡Hola Peggy! Buenas tardes. ¿En qué puedo ayudarte hoy?\nuser: Le saluda Peggy de la empresa HIDROLINE, podria cotizarme un fvor\nassistant: ¡Hola Peggy! Claro, estaré encantado de ayudarte con tu cotización. ¿Podrías indicarme qué productos o servicios necesitas cotizar?\nuser: un tubo PPR de 32mm\nassistant: Para la cotización de un tubo PPR de 32 mm, puedo ofrecerte asesoría técnica especializada. ¿Te gustaría hablar con uno de nuestros técnicos? Si es así, aquí tienes el enlace para contactarlo: [Asesoría Técnica](https://wa.me/+51914173592?text=Buen%20dia%20requiero%20info).\nuser: para el paso de agua caliente que tipo de tubo me recomiendas?\nassistant: Para el paso de agua caliente, te recomiendo utilizar tuberías de PPR (Polipropileno Random) que son ideales para este tipo de aplicaciones. Tienen alta resistencia a la temperatura y a la presión. Si deseas más información técnica o cotización, puedo dirigirte a un técnico especializado. ¿Te gustaría hacerlo?\nuser: y en que se diferencia el tubo PPR de color verde y el otro tubo de PPR de color plomo?",
+    "userNumber": "51989488686",
+    "userName": "Peggy",
+    "botResponse": "La diferencia principal entre el tubo PPR verde y el plomo radica en su uso. El tubo verde se utiliza comúnmente para agua fría, mientras que el plomo es apto para agua caliente. Ambos son resistentes, pero el plomo tiene propiedades que soportan mejor las altas temperaturas. Si necesitas más detalles o asesoría técnica, puedo proporcionarte un enlace para contactar a un especialista. ¿Te gustaría?"
+  },
+  {
+    "id": "1be13a94-53e9-410f-905d-24f2761072f6",
+    "timestamp": "2024-11-21T20:01:35.185Z",
+    "userMessage": "user: buenas tardes",
+    "userNumber": "51922467300",
+    "userName": "Spectrum Ingenieros",
+    "botResponse": "¡Buenas tardes! ¿Cómo puedo ayudarte hoy en Ememsa?"
+  },
+  {
+    "id": "bad21ae9-0223-4490-905f-9ccb38cdaf39",
+    "timestamp": "2024-11-21T20:01:56.209Z",
+    "userMessage": "user: buenas tardes\nassistant: ¡Buenas tardes! ¿Cómo puedo ayudarte hoy en Ememsa?\nuser: solicito informacion y costo para recojo de un envio en hospital de chulucanas",
+    "userNumber": "51922467300",
+    "userName": "Spectrum Ingenieros",
+    "botResponse": "Lamentablemente, no contamos con una tienda abierta al público y los despachos se realizan directamente al punto de entrega indicado por el cliente. Para consultas sobre envíos y costos, te recomendaría ponerte en contacto con nuestro servicio de atención al cliente al 990295138. Si necesitas información sobre algún producto específico, estaré encantado de ayudarte."
+  },
+  {
+    "id": "2bacab4c-aaac-4f2e-82a5-6804fd7bc33a",
+    "timestamp": "2024-11-22T12:35:48.931Z",
+    "userMessage": "user: Hola! Buenas tardes",
+    "userNumber": "51982821998",
+    "userName": "",
+    "botResponse": "¡Buenas tardes! ¿Cómo puedo ayudarte hoy?"
+  },
+  {
+    "id": "aca94b35-302a-452b-a232-ea25b0e1d8d7",
+    "timestamp": "2024-11-22T12:38:05.145Z",
+    "userMessage": "user: Hola! Buenas tardes\nassistant: ¡Buenas tardes! ¿Cómo puedo ayudarte hoy?\nuser: _event_media_",
+    "userNumber": "51982821998",
+    "userName": "Ariana Alcántara",
+    "botResponse": "Soy un bot diseñado exclusivamente para responder mensajes de texto. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "0030e579-39a5-41ee-a88f-ff3027c547a0",
+    "timestamp": "2024-11-22T12:38:23.707Z",
+    "userMessage": "user: Hola! Buenas tardes\nassistant: ¡Buenas tardes! ¿Cómo puedo ayudarte hoy?\nuser: _event_media_\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. ¿En qué puedo ayudarte hoy?\nuser: _event_media_",
+    "userNumber": "51982821998",
+    "userName": "Ariana Alcántara",
+    "botResponse": "Soy un bot diseñado exclusivamente para responder mensajes de texto. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "d7eac7e2-5be4-4eeb-ace2-b4a13264a1b4",
+    "timestamp": "2024-11-22T12:38:34.756Z",
+    "userMessage": "user: Hola! Buenas tardes\nassistant: ¡Buenas tardes! ¿Cómo puedo ayudarte hoy?\nuser: _event_media_\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. ¿En qué puedo ayudarte hoy?\nuser: _event_media_\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. ¿En qué puedo ayudarte hoy?\nuser: Requiero una cotización",
+    "userNumber": "51982821998",
+    "userName": "Ariana Alcántara",
+    "botResponse": "Claro, con gusto te ayudo. ¿Podrías indicarme qué tipo de productos o servicios necesitas cotizar? Aquí están nuestras líneas de negocio:\n\n- Llaves metálicas marca CV\n- Accesorios automotriz y artículos ferreteros\n- Barras de latón o bronce dulce\n- Tuberías para gas natural\n- Tuberías para agua\n- Válvulas para GLP\n- Servicios de maestranza especializada\n\n¿Te gustaría asesoría técnica o ver el catálogo relacionado?"
+  },
+  {
+    "id": "e9730eae-0212-477c-9ea0-340c8e1e975c",
+    "timestamp": "2024-11-22T12:38:58.396Z",
+    "userMessage": "user: Hola! Buenas tardes\nassistant: ¡Buenas tardes! ¿Cómo puedo ayudarte hoy?\nuser: _event_media_\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. ¿En qué puedo ayudarte hoy?\nuser: _event_media_\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. ¿En qué puedo ayudarte hoy?\nuser: Requiero una cotización\nassistant: Claro, con gusto te ayudo. ¿Podrías indicarme qué tipo de productos o servicios necesitas cotizar? Aquí están nuestras líneas de negocio:\n\n- Llaves metálicas marca CV\n- Accesorios automotriz y artículos ferreteros\n- Barras de latón o bronce dulce\n- Tuberías para gas natural\n- Tuberías para agua\n- Válvulas para GLP\n- Servicios de maestranza especializada\n\n¿Te gustaría asesoría técnica o ver el catálogo relacionado?\nuser: Asesoría técnica",
+    "userNumber": "51982821998",
+    "userName": "Ariana Alcántara",
+    "botResponse": "Perfecto, ¿puedes indicarme a qué línea de negocio corresponde tu consulta para dirigirte al técnico especializado? Aquí están las opciones:\n\n- Llaves metálicas marca CV\n- Accesorios automotriz y artículos ferreteros\n- Barras de latón o bronce dulce\n- Tuberías para gas natural\n- Tuberías para agua\n- Válvulas para GLP y Servicios de maestranza especializada\n\n¡Espero tu respuesta!"
+  },
+  {
+    "id": "872e4438-c88f-439e-a6f7-b6cc778870ee",
+    "timestamp": "2024-11-22T12:39:16.029Z",
+    "userMessage": "assistant: ¡Buenas tardes! ¿Cómo puedo ayudarte hoy?\nuser: _event_media_\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. ¿En qué puedo ayudarte hoy?\nuser: _event_media_\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. ¿En qué puedo ayudarte hoy?\nuser: Requiero una cotización\nassistant: Claro, con gusto te ayudo. ¿Podrías indicarme qué tipo de productos o servicios necesitas cotizar? Aquí están nuestras líneas de negocio:\n\n- Llaves metálicas marca CV\n- Accesorios automotriz y artículos ferreteros\n- Barras de latón o bronce dulce\n- Tuberías para gas natural\n- Tuberías para agua\n- Válvulas para GLP\n- Servicios de maestranza especializada\n\n¿Te gustaría asesoría técnica o ver el catálogo relacionado?\nuser: Asesoría técnica\nassistant: Perfecto, ¿puedes indicarme a qué línea de negocio corresponde tu consulta para dirigirte al técnico especializado? Aquí están las opciones:\n\n- Llaves metálicas marca CV\n- Accesorios automotriz y artículos ferreteros\n- Barras de latón o bronce dulce\n- Tuberías para gas natural\n- Tuberías para agua\n- Válvulas para GLP y Servicios de maestranza especializada\n\n¡Espero tu respuesta!\nuser: Tuberías para agua",
+    "userNumber": "51982821998",
+    "userName": "Ariana Alcántara",
+    "botResponse": "Para asesoría técnica sobre tuberías para agua, puedes contactar a nuestro especialista en el siguiente enlace: [Asesoría Tuberías para Agua](https://wa.me/+51914173592?text=Buen%20dia%20requiero%20info). \n\nSi necesitas algo más, no dudes en decírmelo. ¡Estoy aquí para ayudarte!"
+  },
+  {
+    "id": "b88d2fa7-557e-4da4-a00f-e93382db7339",
+    "timestamp": "2024-11-22T12:39:23.916Z",
+    "userMessage": "user: _event_media_\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. ¿En qué puedo ayudarte hoy?\nuser: _event_media_\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. ¿En qué puedo ayudarte hoy?\nuser: Requiero una cotización\nassistant: Claro, con gusto te ayudo. ¿Podrías indicarme qué tipo de productos o servicios necesitas cotizar? Aquí están nuestras líneas de negocio:\n\n- Llaves metálicas marca CV\n- Accesorios automotriz y artículos ferreteros\n- Barras de latón o bronce dulce\n- Tuberías para gas natural\n- Tuberías para agua\n- Válvulas para GLP\n- Servicios de maestranza especializada\n\n¿Te gustaría asesoría técnica o ver el catálogo relacionado?\nuser: Asesoría técnica\nassistant: Perfecto, ¿puedes indicarme a qué línea de negocio corresponde tu consulta para dirigirte al técnico especializado? Aquí están las opciones:\n\n- Llaves metálicas marca CV\n- Accesorios automotriz y artículos ferreteros\n- Barras de latón o bronce dulce\n- Tuberías para gas natural\n- Tuberías para agua\n- Válvulas para GLP y Servicios de maestranza especializada\n\n¡Espero tu respuesta!\nuser: Tuberías para agua\nassistant: Para asesoría técnica sobre tuberías para agua, puedes contactar a nuestro especialista en el siguiente enlace: [Asesoría Tuberías para Agua](https://wa.me/+51914173592?text=Buen%20dia%20requiero%20info). \n\nSi necesitas algo más, no dudes en decírmelo. ¡Estoy aquí para ayudarte!\nuser: Ok gracias",
+    "userNumber": "51982821998",
+    "userName": "Ariana Alcántara",
+    "botResponse": "¡De nada! Gracias a ti por tu interés en Ememsa. Si necesitas más ayuda en el futuro, no dudes en volver a contactarme. ¡Que tengas un excelente día!"
+  },
+  {
+    "id": "3563a71a-99aa-4efd-b3f1-6224fd1dea7b",
+    "timestamp": "2024-11-22T13:07:38.043Z",
+    "userMessage": "user: Hola buenos dias",
+    "userNumber": "51994066043",
+    "userName": "Maquiprocesos",
+    "botResponse": "¡Hola! Buenos días. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "c86e08ef-6122-4875-b9f1-aecbec89fa71",
+    "timestamp": "2024-11-22T13:08:31.475Z",
+    "userMessage": "user: Hola buenos dias\nassistant: ¡Hola! Buenos días. ¿En qué puedo ayudarte hoy?\nuser: me podria cotizar graseras de M6 x 90°\n\nCantidad : 04 unidades",
+    "userNumber": "51994066043",
+    "userName": "Maquiprocesos",
+    "botResponse": "Para cotizar las graseras M6 x 90°, te recomiendo que contactes a nuestro especialista en accesorios automotrices y artículos ferreteros. Puedes hacerlo a través de este enlace: [Asesoría Técnica](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar). Así podrás obtener la información precisa que necesitas. ¡Gracias!"
+  },
+  {
+    "id": "019f1202-e06e-462e-b604-797c7ec8e0cc",
+    "timestamp": "2024-11-22T13:08:35.508Z",
+    "userMessage": "user: Hola buenos dias\nassistant: ¡Hola! Buenos días. ¿En qué puedo ayudarte hoy?\nuser: me podria cotizar graseras de M6 x 90°\n\nCantidad : 04 unidades\nassistant: Para cotizar las graseras M6 x 90°, te recomiendo que contactes a nuestro especialista en accesorios automotrices y artículos ferreteros. Puedes hacerlo a través de este enlace: [Asesoría Técnica](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar). Así podrás obtener la información precisa que necesitas. ¡Gracias!\nuser: porfaaa",
+    "userNumber": "51994066043",
+    "userName": "Maquiprocesos",
+    "botResponse": "Entiendo tu urgencia, pero para obtener la cotización de las graseras M6 x 90°, es necesario que contactes a nuestro especialista. Aquí tienes el enlace nuevamente: [Asesoría Técnica](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar). Ellos podrán ayudarte de inmediato. ¡Gracias por tu comprensión!"
+  },
+  {
+    "id": "a8f4cfbb-9f6a-41d3-8978-dd66e04d2e5a",
+    "timestamp": "2024-11-22T13:31:42.422Z",
+    "userMessage": "user: HOLA BUENOS DIAS",
+    "userNumber": "51973032699",
+    "userName": "FITZ",
+    "botResponse": "¡Hola FITZ! Buenos días. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "f7123943-2821-4763-8779-3c0a0559442a",
+    "timestamp": "2024-11-22T13:31:54.045Z",
+    "userMessage": "user: HOLA BUENOS DIAS\nassistant: ¡Hola FITZ! Buenos días. ¿En qué puedo ayudarte hoy?\nuser: VENDEN FAJA DE POLEA TIPO V DE 72 CM",
+    "userNumber": "51973032699",
+    "userName": "FITZ",
+    "botResponse": "En Ememsa contamos con una amplia gama de accesorios automotrices, pero no tengo información específica sobre la disponibilidad de fajas de polea tipo V. ¿Te gustaría recibir asesoría técnica especializada o ver el catálogo de productos relacionados?"
+  },
+  {
+    "id": "851839e7-982f-4cc4-aa63-58a31e62c448",
+    "timestamp": "2024-11-22T13:34:17.852Z",
+    "userMessage": "user: HOLA BUENOS DIAS\nassistant: ¡Hola FITZ! Buenos días. ¿En qué puedo ayudarte hoy?\nuser: VENDEN FAJA DE POLEA TIPO V DE 72 CM\nassistant: En Ememsa contamos con una amplia gama de accesorios automotrices, pero no tengo información específica sobre la disponibilidad de fajas de polea tipo V. ¿Te gustaría recibir asesoría técnica especializada o ver el catálogo de productos relacionados?\nuser: _event_media_",
+    "userNumber": "51973032699",
+    "userName": "FITZ",
+    "botResponse": "Soy un bot diseñado exclusivamente para responder mensajes de texto. No puedo procesar imágenes ni otros formatos. ¿Te gustaría que te ayude con asesoría técnica especializada o que te comparta el catálogo de productos relacionados?"
+  },
+  {
+    "id": "f0a03f39-f046-486f-a93a-f35a8a68d447",
+    "timestamp": "2024-11-22T13:34:37.240Z",
+    "userMessage": "user: HOLA BUENOS DIAS\nassistant: ¡Hola FITZ! Buenos días. ¿En qué puedo ayudarte hoy?\nuser: VENDEN FAJA DE POLEA TIPO V DE 72 CM\nassistant: En Ememsa contamos con una amplia gama de accesorios automotrices, pero no tengo información específica sobre la disponibilidad de fajas de polea tipo V. ¿Te gustaría recibir asesoría técnica especializada o ver el catálogo de productos relacionados?\nuser: _event_media_\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. No puedo procesar imágenes ni otros formatos. ¿Te gustaría que te ayude con asesoría técnica especializada o que te comparta el catálogo de productos relacionados?\nuser: Me puedo comunicar con un asesor",
+    "userNumber": "51973032699",
+    "userName": "FITZ",
+    "botResponse": "Claro, puedo proporcionarte el enlace para comunicarte con un asesor especializado en accesorios automotrices. Puedes contactarlo aquí: [Asesor Accesorios Automotriz](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar). ¡Espero que te sea útil!"
+  },
+  {
+    "id": "40030f5c-799c-48c7-ba52-78061cedb267",
+    "timestamp": "2024-11-22T15:01:26.753Z",
+    "userMessage": "user: Hola buenos días",
+    "userNumber": "51997620205",
+    "userName": "David",
+    "botResponse": "¡Hola, David! Buenos días. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "6231d1b7-f72a-4f88-bfae-643de8756b77",
+    "timestamp": "2024-11-22T15:01:45.878Z",
+    "userMessage": "user: Hola buenos días\nassistant: ¡Hola, David! Buenos días. ¿En qué puedo ayudarte hoy?\nuser: Le saluda David Vilcapoma coordinador de proyectos de la empresa de ingenieria Vibrato Solutions. En este momento me encuentro cotizando precios para un proyecto de una planta de gas de la empresa ALS PERÚ - LINDCORP",
+    "userNumber": "51997620205",
+    "userName": "David",
+    "botResponse": "¡Hola, David! Es un placer ayudarte. Para tu proyecto de planta de gas, ¿te gustaría recibir asesoría técnica especializada o prefieres ver el catálogo de tuberías para gas natural que ofrecemos?"
+  },
+  {
+    "id": "cf5f0689-48a6-4b9d-aba4-23cdf126e460",
+    "timestamp": "2024-11-22T15:01:57.466Z",
+    "userMessage": "user: Hola buenos días\nassistant: ¡Hola, David! Buenos días. ¿En qué puedo ayudarte hoy?\nuser: Le saluda David Vilcapoma coordinador de proyectos de la empresa de ingenieria Vibrato Solutions. En este momento me encuentro cotizando precios para un proyecto de una planta de gas de la empresa ALS PERÚ - LINDCORP\nassistant: ¡Hola, David! Es un placer ayudarte. Para tu proyecto de planta de gas, ¿te gustaría recibir asesoría técnica especializada o prefieres ver el catálogo de tuberías para gas natural que ofrecemos?\nuser: Quisiera saber si cuenta con los productos que yo necesito para continuar con la construccion de la planta.",
+    "userNumber": "51997620205",
+    "userName": "David",
+    "botResponse": "Entiendo, David. Para poder ayudarte mejor, ¿podrías especificar qué productos o materiales necesitas para la construcción de la planta de gas? Así podré guiarte hacia los artículos más relevantes."
+  },
+  {
+    "id": "1a692f4d-e71d-4eaf-a1f5-57af7da48f6f",
+    "timestamp": "2024-11-22T15:02:18.681Z",
+    "userMessage": "user: Hola buenos días\nassistant: ¡Hola, David! Buenos días. ¿En qué puedo ayudarte hoy?\nuser: Le saluda David Vilcapoma coordinador de proyectos de la empresa de ingenieria Vibrato Solutions. En este momento me encuentro cotizando precios para un proyecto de una planta de gas de la empresa ALS PERÚ - LINDCORP\nassistant: ¡Hola, David! Es un placer ayudarte. Para tu proyecto de planta de gas, ¿te gustaría recibir asesoría técnica especializada o prefieres ver el catálogo de tuberías para gas natural que ofrecemos?\nuser: Quisiera saber si cuenta con los productos que yo necesito para continuar con la construccion de la planta.\nassistant: Entiendo, David. Para poder ayudarte mejor, ¿podrías especificar qué productos o materiales necesitas para la construcción de la planta de gas? Así podré guiarte hacia los artículos más relevantes.\nuser: te mando el listado de equipos y accesorios en excel",
+    "userNumber": "51997620205",
+    "userName": "David",
+    "botResponse": "Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto y no puedo procesar archivos como Excel. Sin embargo, si me compartes el listado de equipos y accesorios que necesitas, estaré encantado de ayudarte a verificar si contamos con ellos."
+  },
+  {
+    "id": "db2cccfa-535f-4fad-b4ba-6e69c85e432e",
+    "timestamp": "2024-11-22T15:19:23.559Z",
+    "userMessage": "user: Buen dia, quisiera que me brinde una lista de productos para la instalación de piscinas",
+    "userNumber": "51989488686",
+    "userName": "Peggy",
+    "botResponse": "¡Hola Peggy! Buen día. Lamentablemente, en Ememsa no contamos con productos específicos para la instalación de piscinas. Sin embargo, ofrecemos una variedad de artículos ferreteros y tuberías que podrían ser útiles en otros proyectos de construcción o plomería.\n\nSi deseas, puedo ofrecerte asesoría técnica especializada o mostrarte nuestro catálogo de productos relacionados. ¿Te gustaría alguna de estas opciones?"
+  },
+  {
+    "id": "693fa3a3-a778-4fc9-afc3-51607ab724c0",
+    "timestamp": "2024-11-22T15:19:58.431Z",
+    "userMessage": "user: Buen dia, quisiera que me brinde una lista de productos para la instalación de piscinas\nassistant: ¡Hola Peggy! Buen día. Lamentablemente, en Ememsa no contamos con productos específicos para la instalación de piscinas. Sin embargo, ofrecemos una variedad de artículos ferreteros y tuberías que podrían ser útiles en otros proyectos de construcción o plomería.\n\nSi deseas, puedo ofrecerte asesoría técnica especializada o mostrarte nuestro catálogo de productos relacionados. ¿Te gustaría alguna de estas opciones?\nuser: muéstrame tu catalogo",
+    "userNumber": "51989488686",
+    "userName": "Peggy",
+    "botResponse": "Claro, Peggy. Aquí tienes algunos catálogos de productos que podrían interesarte:\n\n1. **Accesorios automotriz y artículos ferreteros**:\n   - [Mangueras y cañerías](https://ememsa.com/wp-content/uploads/2024/08/CATALOGO-MANGUERAS-AUTOMOTRICES_0824.pdf)\n   - [Graseras, arandelas y abrazaderas](https://ememsa.com/wp-content/uploads/2024/08/CATALOGO-FASTENERS_0824.pdf)\n   - [Niples ferreteros](https://ememsa.com/wp-content/uploads/2024/08/CATALOGO-NIPLERIA-UNIVERSAL"
+  },
+  {
+    "id": "9cc81271-df08-4ceb-bd12-fcd3ee2d873f",
+    "timestamp": "2024-11-22T15:49:05.017Z",
+    "userMessage": "user: Buen día",
+    "userNumber": "51937465673",
+    "userName": "Jaime Huarcaya",
+    "botResponse": "¡Hola, Jaime! Buen día. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "03c657d7-23af-4252-9116-49d257711777",
+    "timestamp": "2024-11-22T15:51:16.352Z",
+    "userMessage": "user: Buen día\nassistant: ¡Hola, Jaime! Buen día. ¿En qué puedo ayudarte hoy?\nuser: _event_media_",
+    "userNumber": "51937465673",
+    "userName": "Jaime Huarcaya",
+    "botResponse": "Soy un bot diseñado exclusivamente para responder mensajes de texto. ¿Cómo puedo ayudarte hoy?"
+  },
+  {
+    "id": "4a606e1d-db4f-43f2-b04e-8b95a786b2f4",
+    "timestamp": "2024-11-22T15:51:18.594Z",
+    "userMessage": "user: Buen día\nassistant: ¡Hola, Jaime! Buen día. ¿En qué puedo ayudarte hoy?\nuser: _event_media_\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. ¿Cómo puedo ayudarte hoy?\nuser: quisiera 8 unidades",
+    "userNumber": "51937465673",
+    "userName": "Jaime Huarcaya",
+    "botResponse": "Claro, Jaime. Para poder ayudarte mejor, ¿podrías especificar qué producto necesitas? También puedo ofrecerte asesoría técnica o mostrarte el catálogo de productos relacionados."
+  },
+  {
+    "id": "a40944a4-eebe-40f6-8de0-f56cf1554ff4",
+    "timestamp": "2024-11-22T15:51:43.489Z",
+    "userMessage": "user: Buen día\nassistant: ¡Hola, Jaime! Buen día. ¿En qué puedo ayudarte hoy?\nuser: _event_media_\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. ¿Cómo puedo ayudarte hoy?\nuser: quisiera 8 unidades\nassistant: Claro, Jaime. Para poder ayudarte mejor, ¿podrías especificar qué producto necesitas? También puedo ofrecerte asesoría técnica o mostrarte el catálogo de productos relacionados.\nuser: FAJA INDUSTRIAL DUNLOP TIPO V LISA A56\nMarca: DUNLOP\nCódigo: 91D00000A56",
+    "userNumber": "51937465673",
+    "userName": "Jaime Huarcaya",
+    "botResponse": "Gracias por la información, Jaime. La faja industrial Dunlop tipo V lisa A56 es un excelente producto. ¿Te gustaría recibir asesoría técnica especializada o ver el catálogo de productos relacionados?"
+  },
+  {
+    "id": "007cf5cc-7dc4-4720-b917-ecdbf1594d38",
+    "timestamp": "2024-11-22T15:51:54.258Z",
+    "userMessage": "user: Buen día\nassistant: ¡Hola, Jaime! Buen día. ¿En qué puedo ayudarte hoy?\nuser: _event_media_\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. ¿Cómo puedo ayudarte hoy?\nuser: quisiera 8 unidades\nassistant: Claro, Jaime. Para poder ayudarte mejor, ¿podrías especificar qué producto necesitas? También puedo ofrecerte asesoría técnica o mostrarte el catálogo de productos relacionados.\nuser: FAJA INDUSTRIAL DUNLOP TIPO V LISA A56\nMarca: DUNLOP\nCódigo: 91D00000A56\nassistant: Gracias por la información, Jaime. La faja industrial Dunlop tipo V lisa A56 es un excelente producto. ¿Te gustaría recibir asesoría técnica especializada o ver el catálogo de productos relacionados?\nuser: comprar",
+    "userNumber": "51937465673",
+    "userName": "Jaime Huarcaya",
+    "botResponse": "Para realizar tu compra, te recomiendo visitar nuestra tienda en línea: [https://tienda.ememsa.com](https://tienda.ememsa.com). Allí podrás buscar la faja industrial Dunlop tipo V lisa A56 y hacer el pedido. Si necesitas más ayuda, no dudes en decírmelo."
+  },
+  {
+    "id": "5e5ced9b-3c40-481c-a8ad-d1526da5cbbc",
+    "timestamp": "2024-11-22T15:52:05.090Z",
+    "userMessage": "assistant: ¡Hola, Jaime! Buen día. ¿En qué puedo ayudarte hoy?\nuser: _event_media_\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. ¿Cómo puedo ayudarte hoy?\nuser: quisiera 8 unidades\nassistant: Claro, Jaime. Para poder ayudarte mejor, ¿podrías especificar qué producto necesitas? También puedo ofrecerte asesoría técnica o mostrarte el catálogo de productos relacionados.\nuser: FAJA INDUSTRIAL DUNLOP TIPO V LISA A56\nMarca: DUNLOP\nCódigo: 91D00000A56\nassistant: Gracias por la información, Jaime. La faja industrial Dunlop tipo V lisa A56 es un excelente producto. ¿Te gustaría recibir asesoría técnica especializada o ver el catálogo de productos relacionados?\nuser: comprar\nassistant: Para realizar tu compra, te recomiendo visitar nuestra tienda en línea: [https://tienda.ememsa.com](https://tienda.ememsa.com). Allí podrás buscar la faja industrial Dunlop tipo V lisa A56 y hacer el pedido. Si necesitas más ayuda, no dudes en decírmelo.\nuser: ASESOR",
+    "userNumber": "51937465673",
+    "userName": "Jaime Huarcaya",
+    "botResponse": "Para recibir asesoría técnica especializada sobre la faja industrial Dunlop, puedes contactar a nuestro técnico a través del siguiente enlace: [Asesoría Técnica](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar). Ellos podrán ayudarte con cualquier consulta o información adicional que necesites. ¡Gracias por tu interés en Ememsa!"
+  },
+  {
+    "id": "16f86d7b-eeef-41d5-9640-850323366d0c",
+    "timestamp": "2024-11-22T16:30:26.044Z",
+    "userMessage": "user: Buenas tardes",
+    "userNumber": "51984182297",
+    "userName": "Abel",
+    "botResponse": "¡Hola Abel! Buenas tardes. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "aad872a9-2411-49df-8340-aba88d4ccca2",
+    "timestamp": "2024-11-22T16:30:49.863Z",
+    "userMessage": "user: Buenas tardes\nassistant: ¡Hola Abel! Buenas tardes. ¿En qué puedo ayudarte hoy?\nuser: Tiene cañería para banco 14x12 de 80",
+    "userNumber": "51984182297",
+    "userName": "Abel",
+    "botResponse": "Lamentablemente, no contamos con una tienda abierta al público, pero puedo ayudarte a encontrar la información que necesitas. Te recomiendo visitar nuestra tienda en línea: https://tienda.ememsa.com. ¿Te gustaría asesoría técnica especializada o ver el catálogo de productos relacionados?"
+  },
+  {
+    "id": "198cbeb2-6451-420d-9e4c-13b07b129f4b",
+    "timestamp": "2024-11-22T16:32:56.174Z",
+    "userMessage": "user: Buenas tardes\nassistant: ¡Hola Abel! Buenas tardes. ¿En qué puedo ayudarte hoy?\nuser: Tiene cañería para banco 14x12 de 80\nassistant: Lamentablemente, no contamos con una tienda abierta al público, pero puedo ayudarte a encontrar la información que necesitas. Te recomiendo visitar nuestra tienda en línea: https://tienda.ememsa.com. ¿Te gustaría asesoría técnica especializada o ver el catálogo de productos relacionados?\nuser: Gracias",
+    "userNumber": "51984182297",
+    "userName": "Abel",
+    "botResponse": "¡De nada, Abel! Si necesitas más ayuda o información, no dudes en preguntar. Estoy aquí para ayudarte. ¡Que tengas un buen día!"
+  },
+  {
+    "id": "a2af4e2c-d527-43ca-b4f7-bbf8d9815c58",
+    "timestamp": "2024-11-22T16:33:15.517Z",
+    "userMessage": "user: Buenas tardes\nassistant: ¡Hola Abel! Buenas tardes. ¿En qué puedo ayudarte hoy?\nuser: Tiene cañería para banco 14x12 de 80\nassistant: Lamentablemente, no contamos con una tienda abierta al público, pero puedo ayudarte a encontrar la información que necesitas. Te recomiendo visitar nuestra tienda en línea: https://tienda.ememsa.com. ¿Te gustaría asesoría técnica especializada o ver el catálogo de productos relacionados?\nuser: Gracias\nassistant: ¡De nada, Abel! Si necesitas más ayuda o información, no dudes en preguntar. Estoy aquí para ayudarte. ¡Que tengas un buen día!\nuser: 🤗",
+    "userNumber": "51984182297",
+    "userName": "Abel",
+    "botResponse": "Soy un bot diseñado exclusivamente para responder mensajes de texto, así que no puedo procesar imágenes o emojis. Pero estoy aquí para ayudarte con cualquier consulta o información que necesites. ¿En qué más puedo asistirte?"
+  },
+  {
+    "id": "b93b945c-6fe9-422a-b694-8789274462c7",
+    "timestamp": "2024-11-22T17:09:54.885Z",
+    "userMessage": "user: Hola",
+    "userNumber": "51961081539",
+    "userName": "Fabián",
+    "botResponse": "¡Hola Fabián! ¿Cómo puedo ayudarte hoy?"
+  },
+  {
+    "id": "a698a4bb-06af-4739-b554-0c8f0df2e25f",
+    "timestamp": "2024-11-22T17:10:24.783Z",
+    "userMessage": "user: Hola\nassistant: ¡Hola Fabián! ¿Cómo puedo ayudarte hoy?\nuser: Fabrican piesas de cuacho o jebe como un anillo",
+    "userNumber": "51961081539",
+    "userName": "Fabián",
+    "botResponse": "Lamentablemente, en Ememsa no fabricamos piezas de caucho o jebe como anillos. Nos especializamos en llaves metálicas, accesorios automotrices, tuberías y más. ¿Te gustaría explorar alguna de nuestras líneas de negocio?"
+  },
+  {
+    "id": "2ab2908c-825d-4370-a9dc-8ba1bab33885",
+    "timestamp": "2024-11-22T17:10:25.006Z",
+    "userMessage": "user: Hola\nassistant: ¡Hola Fabián! ¿Cómo puedo ayudarte hoy?\nuser: Fabrican piesas de cuacho o jebe como un anillo\nuser: Si fabrican necesito mil unidades",
+    "userNumber": "51961081539",
+    "userName": "Fabián",
+    "botResponse": "Lamentablemente, en Ememsa no fabricamos piezas de caucho o jebe como anillos. Nos especializamos en otras líneas de productos, como llaves metálicas, tuberías y accesorios automotrices. ¿Te gustaría saber más sobre alguna de estas líneas o necesitas asesoría técnica?"
+  },
+  {
+    "id": "63227767-4869-48f6-9064-a585f5ed9cec",
+    "timestamp": "2024-11-22T17:10:25.613Z",
+    "userMessage": "user: Hola\nassistant: ¡Hola Fabián! ¿Cómo puedo ayudarte hoy?\nuser: Fabrican piesas de cuacho o jebe como un anillo\nuser: Si fabrican necesito mil unidades\nuser: Puedo enviarle la muestra",
+    "userNumber": "51961081539",
+    "userName": "Fabián",
+    "botResponse": "Soy un bot diseñado exclusivamente para responder mensajes de texto, por lo que no puedo procesar imágenes o muestras. Sin embargo, puedo ayudarte con información sobre nuestros productos. ¿Te gustaría asesoría técnica especializada o ver el catálogo de artículos relacionados?"
+  },
+  {
+    "id": "adc6ec50-5942-4779-9d6e-e34c132e893e",
+    "timestamp": "2024-11-22T17:10:26.469Z",
+    "userMessage": "user: Hola\nassistant: ¡Hola Fabián! ¿Cómo puedo ayudarte hoy?\nuser: Fabrican piesas de cuacho o jebe como un anillo\nuser: Si fabrican necesito mil unidades\nuser: Puedo enviarle la muestra\nassistant: Lamentablemente, en Ememsa no fabricamos piezas de caucho o jebe como anillos. Nos especializamos en llaves metálicas, accesorios automotrices, tuberías y más. ¿Te gustaría explorar alguna de nuestras líneas de negocio?\nassistant: Lamentablemente, en Ememsa no fabricamos piezas de caucho o jebe como anillos. Nos especializamos en otras líneas de productos, como llaves metálicas, tuberías y accesorios automotrices. ¿Te gustaría saber más sobre alguna de estas líneas o necesitas asesoría técnica?\nuser: _event_media_",
+    "userNumber": "51961081539",
+    "userName": "Fabián",
+    "botResponse": "Soy un bot diseñado exclusivamente para responder mensajes de texto, así que no puedo procesar imágenes u otros formatos. Si tienes alguna pregunta o necesidad específica, estaré encantado de ayudarte con información escrita."
+  },
+  {
+    "id": "fab0d3ca-415d-468f-8a0a-8562b4c380fc",
+    "timestamp": "2024-11-22T17:10:27.083Z",
+    "userMessage": "user: Hola\nassistant: ¡Hola Fabián! ¿Cómo puedo ayudarte hoy?\nuser: Fabrican piesas de cuacho o jebe como un anillo\nuser: Si fabrican necesito mil unidades\nuser: Puedo enviarle la muestra\nassistant: Lamentablemente, en Ememsa no fabricamos piezas de caucho o jebe como anillos. Nos especializamos en llaves metálicas, accesorios automotrices, tuberías y más. ¿Te gustaría explorar alguna de nuestras líneas de negocio?\nassistant: Lamentablemente, en Ememsa no fabricamos piezas de caucho o jebe como anillos. Nos especializamos en otras líneas de productos, como llaves metálicas, tuberías y accesorios automotrices. ¿Te gustaría saber más sobre alguna de estas líneas o necesitas asesoría técnica?\nuser: _event_media_\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto, por lo que no puedo procesar imágenes o muestras. Sin embargo, puedo ayudarte con información sobre nuestros productos. ¿Te gustaría asesoría técnica especializada o ver el catálogo de artículos relacionados?\nuser: _event_media_",
+    "userNumber": "51961081539",
+    "userName": "Fabián",
+    "botResponse": "Soy un bot diseñado exclusivamente para responder mensajes de texto, así que no puedo procesar imágenes o archivos. Si necesitas información sobre nuestros productos, estoy aquí para ayudarte. ¿Te gustaría asesoría técnica o ver el catálogo de alguna línea específica?"
+  },
+  {
+    "id": "af4b8b3e-14d0-450a-bfc1-80b883b314a8",
+    "timestamp": "2024-11-22T17:10:27.125Z",
+    "userMessage": "assistant: ¡Hola Fabián! ¿Cómo puedo ayudarte hoy?\nuser: Fabrican piesas de cuacho o jebe como un anillo\nuser: Si fabrican necesito mil unidades\nuser: Puedo enviarle la muestra\nassistant: Lamentablemente, en Ememsa no fabricamos piezas de caucho o jebe como anillos. Nos especializamos en llaves metálicas, accesorios automotrices, tuberías y más. ¿Te gustaría explorar alguna de nuestras líneas de negocio?\nassistant: Lamentablemente, en Ememsa no fabricamos piezas de caucho o jebe como anillos. Nos especializamos en otras líneas de productos, como llaves metálicas, tuberías y accesorios automotrices. ¿Te gustaría saber más sobre alguna de estas líneas o necesitas asesoría técnica?\nuser: _event_media_\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto, por lo que no puedo procesar imágenes o muestras. Sin embargo, puedo ayudarte con información sobre nuestros productos. ¿Te gustaría asesoría técnica especializada o ver el catálogo de artículos relacionados?\nuser: _event_media_\nuser: _event_media_",
+    "userNumber": "51961081539",
+    "userName": "Fabián",
+    "botResponse": "Soy un bot diseñado exclusivamente para responder mensajes de texto, por lo que no puedo procesar imágenes o archivos. Si tienes alguna consulta sobre nuestros productos, estaré encantado de ayudarte. ¿Te gustaría saber más sobre alguna línea de negocio específica?"
+  },
+  {
+    "id": "06b66b13-33e8-4a30-8ecf-59a0b9680329",
+    "timestamp": "2024-11-22T17:10:27.317Z",
+    "userMessage": "user: Fabrican piesas de cuacho o jebe como un anillo\nuser: Si fabrican necesito mil unidades\nuser: Puedo enviarle la muestra\nassistant: Lamentablemente, en Ememsa no fabricamos piezas de caucho o jebe como anillos. Nos especializamos en llaves metálicas, accesorios automotrices, tuberías y más. ¿Te gustaría explorar alguna de nuestras líneas de negocio?\nassistant: Lamentablemente, en Ememsa no fabricamos piezas de caucho o jebe como anillos. Nos especializamos en otras líneas de productos, como llaves metálicas, tuberías y accesorios automotrices. ¿Te gustaría saber más sobre alguna de estas líneas o necesitas asesoría técnica?\nuser: _event_media_\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto, por lo que no puedo procesar imágenes o muestras. Sin embargo, puedo ayudarte con información sobre nuestros productos. ¿Te gustaría asesoría técnica especializada o ver el catálogo de artículos relacionados?\nuser: _event_media_\nuser: _event_media_\nuser: _event_media_",
+    "userNumber": "51961081539",
+    "userName": "Fabián",
+    "botResponse": "Soy un bot diseñado exclusivamente para responder mensajes de texto, por lo que no puedo procesar imágenes o archivos. Si tienes alguna pregunta sobre nuestros productos o servicios, estaré encantado de ayudarte. ¿Te gustaría recibir asesoría técnica o ver el catálogo de artículos?"
+  },
+  {
+    "id": "4bc6ec6e-e5cd-4a36-8df2-90850a0fa1bf",
+    "timestamp": "2024-11-22T18:02:27.773Z",
+    "userMessage": "user: Hola",
+    "userNumber": "51970804561",
+    "userName": "María",
+    "botResponse": "¡Hola, María! ¿Cómo puedo ayudarte hoy?"
+  },
+  {
+    "id": "3e1cb1a8-b2fc-4718-8e3d-7eefca0cb76c",
+    "timestamp": "2024-11-22T18:02:33.430Z",
+    "userMessage": "user: Hola\nassistant: ¡Hola, María! ¿Cómo puedo ayudarte hoy?\nuser: Tendrás catalogo",
+    "userNumber": "51970804561",
+    "userName": "María",
+    "botResponse": "Claro, María. ¿Te gustaría ver el catálogo de alguna línea específica de nuestros productos? Aquí están algunas opciones:\n\n1. Llaves metálicas marca CV\n2. Accesorios automotriz y artículos ferreteros\n3. Barras de latón o bronce dulce\n4. Tuberías para gas natural\n5. Tuberías para agua\n6. Válvulas para GLP\n7. Servicios de maestranza especializada\n\nDime cuál te interesa y con gusto te proporcionaré el enlace al catálogo correspondiente."
+  },
+  {
+    "id": "15ae148f-69a1-4e8f-b5d5-da07fa558629",
+    "timestamp": "2024-11-22T18:03:24.474Z",
+    "userMessage": "user: Hola\nassistant: ¡Hola, María! ¿Cómo puedo ayudarte hoy?\nuser: Tendrás catalogo\nassistant: Claro, María. ¿Te gustaría ver el catálogo de alguna línea específica de nuestros productos? Aquí están algunas opciones:\n\n1. Llaves metálicas marca CV\n2. Accesorios automotriz y artículos ferreteros\n3. Barras de latón o bronce dulce\n4. Tuberías para gas natural\n5. Tuberías para agua\n6. Válvulas para GLP\n7. Servicios de maestranza especializada\n\nDime cuál te interesa y con gusto te proporcionaré el enlace al catálogo correspondiente.\nuser: Abrazaderas industriales",
+    "userNumber": "51970804561",
+    "userName": "María",
+    "botResponse": "Para las abrazaderas industriales, puedes consultar nuestro catálogo de mangueras y conexiones, donde encontrarás información sobre abrazaderas en varias medidas. Aquí tienes el enlace:\n\n- [Catálogo de Mangueras y Conexiones](https://ememsa.com/wp-content/uploads/2024/08/CATALOGO-MANGUERAS-CONEXIONES-Y-EQUIPOS-HIDRAULICOS_0824.pdf)\n\nSi necesitas más información o asesoría técnica, no dudes en decírmelo. ¡Estoy aquí para ayudarte!"
+  },
+  {
+    "id": "039c4848-7863-4306-98ab-7919688f8780",
+    "timestamp": "2024-11-22T19:39:33.717Z",
+    "userMessage": "user: Hola\nassistant: ¡Hola, María! ¿Cómo puedo ayudarte hoy?\nuser: Tendrás catalogo\nassistant: Claro, María. ¿Te gustaría ver el catálogo de alguna línea específica de nuestros productos? Aquí están algunas opciones:\n\n1. Llaves metálicas marca CV\n2. Accesorios automotriz y artículos ferreteros\n3. Barras de latón o bronce dulce\n4. Tuberías para gas natural\n5. Tuberías para agua\n6. Válvulas para GLP\n7. Servicios de maestranza especializada\n\nDime cuál te interesa y con gusto te proporcionaré el enlace al catálogo correspondiente.\nuser: Abrazaderas industriales\nassistant: Para las abrazaderas industriales, puedes consultar nuestro catálogo de mangueras y conexiones, donde encontrarás información sobre abrazaderas en varias medidas. Aquí tienes el enlace:\n\n- [Catálogo de Mangueras y Conexiones](https://ememsa.com/wp-content/uploads/2024/08/CATALOGO-MANGUERAS-CONEXIONES-Y-EQUIPOS-HIDRAULICOS_0824.pdf)\n\nSi necesitas más información o asesoría técnica, no dudes en decírmelo. ¡Estoy aquí para ayudarte!\nuser: 2",
+    "userNumber": "51970804561",
+    "userName": "María",
+    "botResponse": "Parece que estás interesada en los accesorios automotrices y artículos ferreteros. ¿Te gustaría recibir asesoría técnica especializada o ver el catálogo de productos relacionados?"
+  },
+  {
+    "id": "d80fb0bb-c037-4904-ae77-a21e979d6dcd",
+    "timestamp": "2024-11-22T19:39:47.722Z",
+    "userMessage": "user: Hola\nassistant: ¡Hola, María! ¿Cómo puedo ayudarte hoy?\nuser: Tendrás catalogo\nassistant: Claro, María. ¿Te gustaría ver el catálogo de alguna línea específica de nuestros productos? Aquí están algunas opciones:\n\n1. Llaves metálicas marca CV\n2. Accesorios automotriz y artículos ferreteros\n3. Barras de latón o bronce dulce\n4. Tuberías para gas natural\n5. Tuberías para agua\n6. Válvulas para GLP\n7. Servicios de maestranza especializada\n\nDime cuál te interesa y con gusto te proporcionaré el enlace al catálogo correspondiente.\nuser: Abrazaderas industriales\nassistant: Para las abrazaderas industriales, puedes consultar nuestro catálogo de mangueras y conexiones, donde encontrarás información sobre abrazaderas en varias medidas. Aquí tienes el enlace:\n\n- [Catálogo de Mangueras y Conexiones](https://ememsa.com/wp-content/uploads/2024/08/CATALOGO-MANGUERAS-CONEXIONES-Y-EQUIPOS-HIDRAULICOS_0824.pdf)\n\nSi necesitas más información o asesoría técnica, no dudes en decírmelo. ¡Estoy aquí para ayudarte!\nuser: 2\nassistant: Parece que estás interesada en los accesorios automotrices y artículos ferreteros. ¿Te gustaría recibir asesoría técnica especializada o ver el catálogo de productos relacionados?\nuser: Si",
+    "userNumber": "51970804561",
+    "userName": "María",
+    "botResponse": "Perfecto, María. Para recibir asesoría técnica especializada sobre accesorios automotrices y artículos ferreteros, puedes contactar a nuestro técnico a través del siguiente enlace:\n\n- [Asesoría Técnica Especializada](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar)\n\nSi necesitas más información o deseas ver el catálogo de productos, házmelo saber. ¡Estoy aquí para ayudarte!"
+  },
+  {
+    "id": "ca236336-b268-48e9-9bab-05b284cec8ee",
+    "timestamp": "2024-11-22T20:57:02.085Z",
+    "userMessage": "user: Buenas tardes",
+    "userNumber": "51992501434",
+    "userName": "🙃",
+    "botResponse": "¡Buenas tardes! 😊 ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "dd0350c2-df0b-40b9-a305-62654a136fd4",
+    "timestamp": "2024-11-22T20:57:29.870Z",
+    "userMessage": "user: Buenas tardes\nassistant: ¡Buenas tardes! 😊 ¿En qué puedo ayudarte hoy?\nuser: quisiera saber si cuentan con tuberia de cobre tipo L  de 4\", 3\", 2 1/2\" y de 2\"",
+    "userNumber": "51992501434",
+    "userName": "🙃",
+    "botResponse": "En Ememsa contamos con tuberías de cobre tipo \"L\" en medidas de 3/8” a 2”. Lamentablemente, no tenemos disponibles las medidas de 4\", 3\", 2 1/2\" y de 2\". Si necesitas más información o asesoría técnica, puedo dirigirte a un especialista. ¿Te gustaría eso?"
+  },
+  {
+    "id": "8b295a7c-fef4-45aa-99e8-6f5953e601ce",
+    "timestamp": "2024-11-22T20:57:48.193Z",
+    "userMessage": "user: Buenas tardes\nassistant: ¡Buenas tardes! 😊 ¿En qué puedo ayudarte hoy?\nuser: quisiera saber si cuentan con tuberia de cobre tipo L  de 4\", 3\", 2 1/2\" y de 2\"\nassistant: En Ememsa contamos con tuberías de cobre tipo \"L\" en medidas de 3/8” a 2”. Lamentablemente, no tenemos disponibles las medidas de 4\", 3\", 2 1/2\" y de 2\". Si necesitas más información o asesoría técnica, puedo dirigirte a un especialista. ¿Te gustaría eso?\nuser: por el momento no, muchas gracias",
+    "userNumber": "51992501434",
+    "userName": "🙃",
+    "botResponse": "¡De nada! Si tienes más preguntas en el futuro o necesitas ayuda, no dudes en contactarme. ¡Gracias por tu interés en Ememsa y que tengas un excelente día! 😊"
+  },
+  {
+    "id": "9b93ba7f-390f-4759-ba01-9b7781c5acd5",
+    "timestamp": "2024-11-22T21:57:43.061Z",
+    "userMessage": "user: Hola",
+    "userNumber": "51979340875",
+    "userName": "Brenda Gallegos C.",
+    "botResponse": "¡Hola, Brenda! ¿Cómo puedo ayudarte hoy?"
+  },
+  {
+    "id": "7b8f47aa-3425-4a76-a5f2-25d42a0021f3",
+    "timestamp": "2024-11-22T21:58:02.170Z",
+    "userMessage": "user: Hola\nassistant: ¡Hola, Brenda! ¿Cómo puedo ayudarte hoy?\nuser: tubos conduirt",
+    "userNumber": "51979340875",
+    "userName": "Brenda Gallegos C.",
+    "botResponse": "Parece que estás interesado en tuberías. En Ememsa ofrecemos tuberías para gas natural y para agua. ¿Te gustaría recibir asesoría técnica especializada o prefieres ver el catálogo de productos relacionados?"
   }
 ]

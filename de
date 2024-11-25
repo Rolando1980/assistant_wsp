@@ -1,21 +1,18 @@
 [
   {
-    "ref": "ans_97e1f517-ae9e-4110-949b-4934cdda8039",
-    "keyword": "key_5812cca4-1724-446a-a626-6ba7fba8165d",
-    "answer": "¡Hola! ¿Cómo puedo ayudarte hoy?",
-    "options": {
-      "media": null,
-      "buttons": [],
-      "capture": false,
-      "child": null,
-      "delay": 0,
-      "idle": null,
-      "ref": null,
-      "nested": [],
-      "keyword": {},
-      "callback": false
-    },
-    "refSerialize": "b13988a2fbf6463a16bf1dbab2a49e39",
-    "from": "51927729488"
+    "ref": "bbc6bd7f-e25c-4e21-8ce6-af11beec7375",
+    "keyword": "084c8ad1fc6e1d7a00b4859d68e5928d",
+    "answer": "Buen dia, quisiera que me brinde una lista de productos para la instalación de piscinas",
+    "options": {},
+    "from": "51989488686",
+    "refSerialize": "3d2609eac6ac5cde212a4cb3e6338480"
+  },
+  {
+    "ref": "7e75458c-560a-4e40-ba77-6951e0089754",
+    "keyword": "3d2609eac6ac5cde212a4cb3e6338480",
+    "answer": "muéstrame tu catalogo",
+    "options": {},
+    "from": "51989488686",
+    "refSerialize": "f0e00a1d0ec691b72e244eaebcb71d5c"
   }
 ]
