@@ -1,18 +1,53 @@
 [
   {
-    "ref": "bbc6bd7f-e25c-4e21-8ce6-af11beec7375",
-    "keyword": "084c8ad1fc6e1d7a00b4859d68e5928d",
-    "answer": "Buen dia, quisiera que me brinde una lista de productos para la instalación de piscinas",
-    "options": {},
-    "from": "51989488686",
-    "refSerialize": "3d2609eac6ac5cde212a4cb3e6338480"
+    "ref": "ans_8cbb7dee-2fdf-43a9-b189-5d18f9159314",
+    "keyword": "key_975a099b-8c42-4796-97b9-64200621956a",
+    "answer": "¡Hola! ¿Cómo puedo ayudarte hoy?",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "3e07c639472be3ab79c20849a3ff2a4b",
+    "from": "51940937902"
   },
   {
-    "ref": "7e75458c-560a-4e40-ba77-6951e0089754",
-    "keyword": "3d2609eac6ac5cde212a4cb3e6338480",
-    "answer": "muéstrame tu catalogo",
+    "ref": "9fab8f55-c2e8-45bc-8d6b-0f9b060d9fee",
+    "keyword": "3e07c639472be3ab79c20849a3ff2a4b",
+    "answer": "Estamos iniciando un concurso",
     "options": {},
-    "from": "51989488686",
-    "refSerialize": "f0e00a1d0ec691b72e244eaebcb71d5c"
+    "from": "51940937902",
+    "refSerialize": "35058544d5cbcda863158f3fb74da3be"
+  },
+  {
+    "ref": "d73b217c-b547-4e1a-a618-77e4f22c7cda",
+    "keyword": "35058544d5cbcda863158f3fb74da3be",
+    "answer": "Y les estamos considerando",
+    "options": {},
+    "from": "51940937902",
+    "refSerialize": "dce3f8a7c954d70982dcaf119c1db1a1"
+  },
+  {
+    "ref": "0d817d76-1251-4393-aa2c-3aad97debcc7",
+    "keyword": "dce3f8a7c954d70982dcaf119c1db1a1",
+    "answer": "Cómo postor",
+    "options": {},
+    "from": "51940937902",
+    "refSerialize": "ff73d0384920c294b26cfb358498337c"
+  },
+  {
+    "ref": "f11e3ec2-e908-41a7-bfff-6296cde664ff",
+    "keyword": "ff73d0384920c294b26cfb358498337c",
+    "answer": "Me podría facilitar",
+    "options": {},
+    "from": "51940937902",
+    "refSerialize": "dd91116bd265c848d3bdc0ff7a8e9a0d"
   }
 ]

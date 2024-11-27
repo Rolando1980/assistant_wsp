@@ -9038,5 +9038,357 @@
     "userNumber": "51998190523",
     "userName": "Servindust",
     "botResponse": "¿Hay algo más en lo que pueda ayudarte? Si tienes alguna consulta o necesitas información sobre nuestros productos, no dudes en decírmelo. Estoy aquí para ayudarte."
+  },
+  {
+    "id": "ada2e4ef-be57-4de7-8a93-72ab2929f89f",
+    "timestamp": "2024-11-26T14:13:05.575Z",
+    "userMessage": "user: Buen dia",
+    "userNumber": "51927229959",
+    "userName": "Karol Louis ✨",
+    "botResponse": "¡Buen día, Karol! ✨ ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "7ace7eb5-cec1-4b67-8318-042591cc77a5",
+    "timestamp": "2024-11-26T14:13:37.937Z",
+    "userMessage": "user: Buen dia\nassistant: ¡Buen día, Karol! ✨ ¿En qué puedo ayudarte hoy?\nuser: Te saluda Karol y estoy interesada en \nGRASERA RECTA 1/4NPT",
+    "userNumber": "51927229959",
+    "userName": "Karol Louis ✨",
+    "botResponse": "¡Hola, Karol! Para la grasera recta 1/4 NPT, puedo ofrecerte el catálogo de graseras y otros artículos relacionados. Aquí tienes el enlace para que lo revises: [Catálogo de Graseras](https://ememsa.com/wp-content/uploads/2024/08/CATALOGO-FASTENERS_0824.pdf). \n\nSi necesitas asesoría técnica específica, no dudes en decírmelo. ¡Estoy aquí para ayudar!"
+  },
+  {
+    "id": "9717f41c-e6d8-4287-acce-b812d542a7c4",
+    "timestamp": "2024-11-26T14:57:22.591Z",
+    "userMessage": "user: Buenas tiene abrazaderas de Inox?",
+    "userNumber": "51974306974",
+    "userName": "Inca Imports",
+    "botResponse": "¡Buenas! En Ememsa contamos con una variedad de abrazaderas, incluyendo opciones en bronce y otros materiales. Sin embargo, no tenemos información específica sobre abrazaderas de inox. \n\nTe recomendaría revisar nuestro catálogo de productos ferreteros para más detalles: [Catálogo de Ferretería](https://ememsa.com/wp-content/uploads/2024/08/CATALOGO-FASTENERS_0824.pdf). \n\nSi necesitas asesoría técnica específica, puedes contactar a nuestro técnico especializado aquí: [Asesoría Técnica](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar). \n\n¿Hay algo más en lo que te pueda ayudar?"
+  },
+  {
+    "id": "fceb779e-9e18-4abc-b7d3-ee21fdb3e92b",
+    "timestamp": "2024-11-26T15:15:06.332Z",
+    "userMessage": "user: Buenos días",
+    "userNumber": "51940937902",
+    "userName": "merinodiazmonica",
+    "botResponse": "¡Buenos días, Mónica! ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "bd98569a-ac39-488c-bd72-6b4d8961354a",
+    "timestamp": "2024-11-26T15:15:12.428Z",
+    "userMessage": "user: Buenos días\nassistant: ¡Buenos días, Mónica! ¿En qué puedo ayudarte hoy?\nuser: De minera Chinalco",
+    "userNumber": "51940937902",
+    "userName": "merinodiazmonica",
+    "botResponse": "Gracias por tu consulta, Mónica. ¿Podrías especificar qué productos o servicios de Ememsa te interesan para la minera Chinalco? Así podré ofrecerte la información más adecuada."
+  },
+  {
+    "id": "96fa1ac3-ddcd-4c9e-ac49-00dc7fbabe33",
+    "timestamp": "2024-11-26T15:15:35.858Z",
+    "userMessage": "user: Buenos días\nassistant: ¡Buenos días, Mónica! ¿En qué puedo ayudarte hoy?\nuser: De minera Chinalco\nassistant: Gracias por tu consulta, Mónica. ¿Podrías especificar qué productos o servicios de Ememsa te interesan para la minera Chinalco? Así podré ofrecerte la información más adecuada.\nuser: Estamos iniciando un concurso",
+    "userNumber": "51940937902",
+    "userName": "merinodiazmonica",
+    "botResponse": "Entiendo, Mónica. Si necesitas productos específicos para el concurso, por favor indícame qué tipo de materiales o servicios requieres. Ememsa ofrece diversas líneas, como llaves metálicas, accesorios automotrices, tuberías y más. Estoy aquí para ayudarte."
+  },
+  {
+    "id": "18460f14-b396-4d17-91ee-efd826ee9642",
+    "timestamp": "2024-11-26T15:15:41.083Z",
+    "userMessage": "user: Buenos días\nassistant: ¡Buenos días, Mónica! ¿En qué puedo ayudarte hoy?\nuser: De minera Chinalco\nassistant: Gracias por tu consulta, Mónica. ¿Podrías especificar qué productos o servicios de Ememsa te interesan para la minera Chinalco? Así podré ofrecerte la información más adecuada.\nuser: Estamos iniciando un concurso\nassistant: Entiendo, Mónica. Si necesitas productos específicos para el concurso, por favor indícame qué tipo de materiales o servicios requieres. Ememsa ofrece diversas líneas, como llaves metálicas, accesorios automotrices, tuberías y más. Estoy aquí para ayudarte.\nuser: Y les estamos considerando",
+    "userNumber": "51940937902",
+    "userName": "merinodiazmonica",
+    "botResponse": "Perfecto, Mónica. Si están considerando a Ememsa para su concurso, puedo proporcionarte información sobre nuestras líneas de productos y servicios. ¿Te gustaría recibir detalles sobre alguna categoría específica, como llaves metálicas, tuberías o servicios de maestranza?"
+  },
+  {
+    "id": "45e3338a-93bc-46cb-a8a9-3b83bf4c1f8a",
+    "timestamp": "2024-11-26T15:15:43.292Z",
+    "userMessage": "user: Buenos días\nassistant: ¡Buenos días, Mónica! ¿En qué puedo ayudarte hoy?\nuser: De minera Chinalco\nassistant: Gracias por tu consulta, Mónica. ¿Podrías especificar qué productos o servicios de Ememsa te interesan para la minera Chinalco? Así podré ofrecerte la información más adecuada.\nuser: Estamos iniciando un concurso\nassistant: Entiendo, Mónica. Si necesitas productos específicos para el concurso, por favor indícame qué tipo de materiales o servicios requieres. Ememsa ofrece diversas líneas, como llaves metálicas, accesorios automotrices, tuberías y más. Estoy aquí para ayudarte.\nuser: Y les estamos considerando\nassistant: Perfecto, Mónica. Si están considerando a Ememsa para su concurso, puedo proporcionarte información sobre nuestras líneas de productos y servicios. ¿Te gustaría recibir detalles sobre alguna categoría específica, como llaves metálicas, tuberías o servicios de maestranza?\nuser: Cómo postor",
+    "userNumber": "51940937902",
+    "userName": "merinodiazmonica",
+    "botResponse": "Gracias por la aclaración, Mónica. Si Ememsa está siendo considerada como postor, te sugiero que contactes a nuestro departamento de compras para obtener información específica sobre los requisitos y procesos. Puedes comunicarte al 980292435 para más detalles. Si necesitas información sobre nuestros productos, estoy aquí para ayudarte."
+  },
+  {
+    "id": "e67c8708-8c0c-46f6-86d4-84b1cea8ab64",
+    "timestamp": "2024-11-26T15:15:46.798Z",
+    "userMessage": "assistant: ¡Buenos días, Mónica! ¿En qué puedo ayudarte hoy?\nuser: De minera Chinalco\nassistant: Gracias por tu consulta, Mónica. ¿Podrías especificar qué productos o servicios de Ememsa te interesan para la minera Chinalco? Así podré ofrecerte la información más adecuada.\nuser: Estamos iniciando un concurso\nassistant: Entiendo, Mónica. Si necesitas productos específicos para el concurso, por favor indícame qué tipo de materiales o servicios requieres. Ememsa ofrece diversas líneas, como llaves metálicas, accesorios automotrices, tuberías y más. Estoy aquí para ayudarte.\nuser: Y les estamos considerando\nassistant: Perfecto, Mónica. Si están considerando a Ememsa para su concurso, puedo proporcionarte información sobre nuestras líneas de productos y servicios. ¿Te gustaría recibir detalles sobre alguna categoría específica, como llaves metálicas, tuberías o servicios de maestranza?\nuser: Cómo postor\nassistant: Gracias por la aclaración, Mónica. Si Ememsa está siendo considerada como postor, te sugiero que contactes a nuestro departamento de compras para obtener información específica sobre los requisitos y procesos. Puedes comunicarte al 980292435 para más detalles. Si necesitas información sobre nuestros productos, estoy aquí para ayudarte.\nuser: Me podría facilitar",
+    "userNumber": "51940937902",
+    "userName": "merinodiazmonica",
+    "botResponse": "Claro, Mónica. Para consultas relacionadas con compras y posturas, puedes contactar al siguiente número: **980292435**. Si necesitas información específica sobre nuestros productos o servicios, no dudes en preguntar. Estoy aquí para ayudarte en lo que necesites."
+  },
+  {
+    "id": "f8fa50a1-ea90-4b01-89c8-0fa21da9ef96",
+    "timestamp": "2024-11-26T15:18:19.982Z",
+    "userMessage": "user: Hola buen dia",
+    "userNumber": "51912289243",
+    "userName": "Rosa Sandoval",
+    "botResponse": "¡Hola, Rosa! Buen día. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "eb350346-87be-4eb5-ac64-0e9479c82494",
+    "timestamp": "2024-11-26T15:18:29.399Z",
+    "userMessage": "user: Hola buen dia\nassistant: ¡Hola, Rosa! Buen día. ¿En qué puedo ayudarte hoy?\nuser: una consulta ustedes hacen fundicion?",
+    "userNumber": "51912289243",
+    "userName": "Rosa Sandoval",
+    "botResponse": "En Ememsa, ofrecemos servicios de maestranza especializada, que incluyen la fabricación y mantenimiento de estructuras metálicas y piezas a pedido. Sin embargo, no nos especializamos en fundición. Si necesitas más detalles o asesoría técnica, puedo dirigirte al enlace correspondiente. ¿Te gustaría más información sobre nuestros servicios?"
+  },
+  {
+    "id": "ba4d50b9-10d9-490f-b620-bc5e6fca7d8a",
+    "timestamp": "2024-11-26T15:18:51.272Z",
+    "userMessage": "user: Hola buen dia\nassistant: ¡Hola, Rosa! Buen día. ¿En qué puedo ayudarte hoy?\nuser: una consulta ustedes hacen fundicion?\nassistant: En Ememsa, ofrecemos servicios de maestranza especializada, que incluyen la fabricación y mantenimiento de estructuras metálicas y piezas a pedido. Sin embargo, no nos especializamos en fundición. Si necesitas más detalles o asesoría técnica, puedo dirigirte al enlace correspondiente. ¿Te gustaría más información sobre nuestros servicios?\nuser: si claro",
+    "userNumber": "51912289243",
+    "userName": "Rosa Sandoval",
+    "botResponse": "Puedes obtener más información sobre nuestros servicios de maestranza especializada a través del siguiente enlace: [Maestranza Especializada](https://ememsa.com/wp-content/uploads/2022/09/MAESTRANZA-ESPECIALIZADA-PERUMIN.pdf). \n\nSi necesitas asesoría técnica, también puedes contactar a nuestro técnico especializado aquí: [Asesoría Técnica](https://wa.me/+51967020770?text=Buen%20dia%20requiero%20info). ¿Hay algo más en lo que pueda ayudarte?"
+  },
+  {
+    "id": "238cba5d-cf0b-4e2a-a607-7c0aaee53be9",
+    "timestamp": "2024-11-26T15:38:05.040Z",
+    "userMessage": "user: Hola buen día",
+    "userNumber": "51969033613",
+    "userName": "Kieran",
+    "botResponse": "¡Hola Kieran! Buen día. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "d3520fb6-bcb9-4f7f-9d4f-d3a680a6d9d1",
+    "timestamp": "2024-11-26T15:38:12.942Z",
+    "userMessage": "user: Hola buen día\nassistant: ¡Hola Kieran! Buen día. ¿En qué puedo ayudarte hoy?\nuser: Buen día",
+    "userNumber": "51969033613",
+    "userName": "Kieran",
+    "botResponse": "¡Buen día! ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "8449418c-4853-4ffb-9523-2af87bdf19bf",
+    "timestamp": "2024-11-26T15:38:22.952Z",
+    "userMessage": "user: Hola buen día\nassistant: ¡Hola Kieran! Buen día. ¿En qué puedo ayudarte hoy?\nuser: Buen día\nassistant: ¡Buen día! ¿En qué puedo ayudarte hoy?\nuser: Me gustaría saber del precio de las abrazaderas",
+    "userNumber": "51969033613",
+    "userName": "Kieran",
+    "botResponse": "Claro, las abrazaderas que ofrecemos son de acero al carbón e inoxidables en varias medidas. Para obtener información detallada sobre precios y disponibilidad, te recomiendo contactar a nuestro técnico especializado en accesorios automotrices y artículos ferreteros. Puedes hacerlo a través del siguiente enlace: [Contacto Técnico](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar). \n\nSi deseas, también puedo proporcionarte el catálogo de productos. ¿Te gustaría eso?"
+  },
+  {
+    "id": "d1c58567-f217-40aa-9c9b-493cecb69e7f",
+    "timestamp": "2024-11-26T15:38:25.173Z",
+    "userMessage": "user: Hola buen día\nassistant: ¡Hola Kieran! Buen día. ¿En qué puedo ayudarte hoy?\nuser: Buen día\nassistant: ¡Buen día! ¿En qué puedo ayudarte hoy?\nuser: Me gustaría saber del precio de las abrazaderas\nassistant: Claro, las abrazaderas que ofrecemos son de acero al carbón e inoxidables en varias medidas. Para obtener información detallada sobre precios y disponibilidad, te recomiendo contactar a nuestro técnico especializado en accesorios automotrices y artículos ferreteros. Puedes hacerlo a través del siguiente enlace: [Contacto Técnico](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar). \n\nSi deseas, también puedo proporcionarte el catálogo de productos. ¿Te gustaría eso?\nuser: Taurus",
+    "userNumber": "51969033613",
+    "userName": "Kieran",
+    "botResponse": "Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si necesitas información sobre productos o servicios específicos, por favor indícame y estaré encantado de ayudarte."
+  },
+  {
+    "id": "eb5c3d90-f6ad-489f-ab31-f728bd45f032",
+    "timestamp": "2024-11-26T15:38:44.274Z",
+    "userMessage": "user: Hola buen día\nassistant: ¡Hola Kieran! Buen día. ¿En qué puedo ayudarte hoy?\nuser: Buen día\nassistant: ¡Buen día! ¿En qué puedo ayudarte hoy?\nuser: Me gustaría saber del precio de las abrazaderas\nassistant: Claro, las abrazaderas que ofrecemos son de acero al carbón e inoxidables en varias medidas. Para obtener información detallada sobre precios y disponibilidad, te recomiendo contactar a nuestro técnico especializado en accesorios automotrices y artículos ferreteros. Puedes hacerlo a través del siguiente enlace: [Contacto Técnico](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar). \n\nSi deseas, también puedo proporcionarte el catálogo de productos. ¿Te gustaría eso?\nuser: Taurus\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si necesitas información sobre productos o servicios específicos, por favor indícame y estaré encantado de ayudarte.\nuser: Gracias",
+    "userNumber": "51969033613",
+    "userName": "Kieran",
+    "botResponse": "¡De nada! Si necesitas más información o ayuda en el futuro, no dudes en contactarme. ¡Que tengas un excelente día!"
+  },
+  {
+    "id": "42c45593-e27b-49c9-bb1d-b779c1d7da4e",
+    "timestamp": "2024-11-26T17:10:50.099Z",
+    "userMessage": "user: ",
+    "userNumber": "51947339985",
+    "userName": "Ray-vs",
+    "botResponse": "¡Hola Ray! Es un placer saludarte. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "451251c4-8d37-4d28-a762-dd3d83b6de4c",
+    "timestamp": "2024-11-26T17:11:12.060Z",
+    "userMessage": "user: \nassistant: ¡Hola Ray! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nuser: realizar una cotización",
+    "userNumber": "51947339985",
+    "userName": "Ray-vs",
+    "botResponse": "Claro, estaré encantado de ayudarte con la cotización. ¿Podrías especificar qué tipo de producto o servicio necesitas cotizar? Esto me permitirá dirigirte al contacto adecuado y proporcionarte la información necesaria."
+  },
+  {
+    "id": "fd10da9d-b544-46aa-8443-ee537ed1e443",
+    "timestamp": "2024-11-26T17:12:09.216Z",
+    "userMessage": "user: \nassistant: ¡Hola Ray! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nuser: realizar una cotización\nassistant: Claro, estaré encantado de ayudarte con la cotización. ¿Podrías especificar qué tipo de producto o servicio necesitas cotizar? Esto me permitirá dirigirte al contacto adecuado y proporcionarte la información necesaria.\nuser: productos de cobre tuberias y uniones soldables",
+    "userNumber": "51947339985",
+    "userName": "Ray-vs",
+    "botResponse": "Para tuberías de cobre y uniones soldables, puedo ofrecerte la siguiente información:\n\n- **Tuberías de cobre tipo “L”** y sus conexiones en codos y uniones, disponibles en medidas desde 3/8” a 2”.\n\nPara obtener una cotización más detallada, puedes contactar a nuestro técnico especializado a través del siguiente enlace: [Cotización Tuberías de Cobre](https://wa.me/+51914173592?text=Buen%20dia%20quiero%20cotizar).\n\nSi deseas ver el catálogo completo, por favor házmelo saber."
+  },
+  {
+    "id": "e548d039-5576-483d-a6e4-0f95475424cd",
+    "timestamp": "2024-11-26T17:54:10.964Z",
+    "userMessage": "user: Buenos días",
+    "userNumber": "51908871393",
+    "userName": "INGTHI SAC",
+    "botResponse": "¡Buenos días! ¿En qué puedo ayudarle hoy?"
+  },
+  {
+    "id": "d1fc8f41-b7fa-4e37-9121-c6587f05eba0",
+    "timestamp": "2024-11-26T17:54:19.121Z",
+    "userMessage": "user: Buenos días\nassistant: ¡Buenos días! ¿En qué puedo ayudarle hoy?\nuser: Tienes accesorios para tubería ped",
+    "userNumber": "51908871393",
+    "userName": "INGTHI SAC",
+    "botResponse": "Contamos con una amplia variedad de accesorios para tuberías, incluyendo productos para sistemas PPR. Esto incluye codos, manifolds, acoplamientos macho y hembra, entre otros.\n\nSi desea más información técnica o necesita una cotización, puede contactar a nuestro especialista a través de este enlace: [Asesoría técnica](https://wa.me/+51914173592?text=Buen%20dia%20requiero%20info).\n\nAdemás, le comparto nuestro catálogo de tuberías para agua: [Catálogo](https://ememsa.com/wp-content/uploads/2024/01/Catalogo-Rifeng.pdf). ¿Hay algo más en lo que pueda ayudarle?"
+  },
+  {
+    "id": "bac26a06-1cf2-49e2-99ab-471e8b90cccf",
+    "timestamp": "2024-11-26T17:54:22.501Z",
+    "userMessage": "user: Buenos días\nassistant: ¡Buenos días! ¿En qué puedo ayudarle hoy?\nuser: Tienes accesorios para tubería ped\nassistant: Contamos con una amplia variedad de accesorios para tuberías, incluyendo productos para sistemas PPR. Esto incluye codos, manifolds, acoplamientos macho y hembra, entre otros.\n\nSi desea más información técnica o necesita una cotización, puede contactar a nuestro especialista a través de este enlace: [Asesoría técnica](https://wa.me/+51914173592?text=Buen%20dia%20requiero%20info).\n\nAdemás, le comparto nuestro catálogo de tuberías para agua: [Catálogo](https://ememsa.com/wp-content/uploads/2024/01/Catalogo-Rifeng.pdf). ¿Hay algo más en lo que pueda ayudarle?\nuser: Pex",
+    "userNumber": "51908871393",
+    "userName": "INGTHI SAC",
+    "botResponse": "Contamos con tuberías y conexiones para sistemas PEX AL PEX, que son ideales para instalaciones de agua y gas. Para obtener información más detallada o realizar una cotización, le recomiendo contactar a nuestro técnico especializado en tuberías:\n\n[Asesoría técnica](https://wa.me/+51978585422?text=Buen%20dia%20requiero%20info).\n\nSi necesita más información sobre nuestros productos, no dude en preguntar. ¿Hay algo más en lo que pueda ayudarle?"
+  },
+  {
+    "id": "fcc44f9e-cdb3-40b2-b796-7139e73bca47",
+    "timestamp": "2024-11-26T17:54:25.871Z",
+    "userMessage": "user: Somo de la empres icalu le escribo para comparar",
+    "userNumber": "51952197499",
+    "userName": "Lichaa",
+    "botResponse": "¡Hola, Lichaa! Es un placer atenderte. ¿Podrías indicarme qué productos o servicios de Ememsa estás interesado en comparar? Estoy aquí para ayudarte."
+  },
+  {
+    "id": "7db16949-1c62-4d6b-9907-a802f300c72c",
+    "timestamp": "2024-11-26T17:54:37.212Z",
+    "userMessage": "user: Somo de la empres icalu le escribo para comparar\nassistant: ¡Hola, Lichaa! Es un placer atenderte. ¿Podrías indicarme qué productos o servicios de Ememsa estás interesado en comparar? Estoy aquí para ayudarte.\nuser: Codos de bronce",
+    "userNumber": "51952197499",
+    "userName": "Lichaa",
+    "botResponse": "Gracias por tu consulta sobre codos de bronce. En Ememsa ofrecemos una variedad de productos en esta categoría. Para obtener más información y ver el catálogo completo, puedes visitar el siguiente enlace: [Codos de bronce](https://ememsa.com/laton/).\n\nSi necesitas asesoría técnica o tienes dudas específicas, no dudes en avisarme. ¡Estoy aquí para ayudarte!"
+  },
+  {
+    "id": "fa654632-5d8a-4450-ae71-10f59b5a61b6",
+    "timestamp": "2024-11-26T17:54:54.772Z",
+    "userMessage": "user: Buenos días\nassistant: ¡Buenos días! ¿En qué puedo ayudarle hoy?\nuser: Tienes accesorios para tubería ped\nassistant: Contamos con una amplia variedad de accesorios para tuberías, incluyendo productos para sistemas PPR. Esto incluye codos, manifolds, acoplamientos macho y hembra, entre otros.\n\nSi desea más información técnica o necesita una cotización, puede contactar a nuestro especialista a través de este enlace: [Asesoría técnica](https://wa.me/+51914173592?text=Buen%20dia%20requiero%20info).\n\nAdemás, le comparto nuestro catálogo de tuberías para agua: [Catálogo](https://ememsa.com/wp-content/uploads/2024/01/Catalogo-Rifeng.pdf). ¿Hay algo más en lo que pueda ayudarle?\nuser: Pex\nassistant: Contamos con tuberías y conexiones para sistemas PEX AL PEX, que son ideales para instalaciones de agua y gas. Para obtener información más detallada o realizar una cotización, le recomiendo contactar a nuestro técnico especializado en tuberías:\n\n[Asesoría técnica](https://wa.me/+51978585422?text=Buen%20dia%20requiero%20info).\n\nSi necesita más información sobre nuestros productos, no dude en preguntar. ¿Hay algo más en lo que pueda ayudarle?\nuser: Tienes accesorios para tubería Pex de 1\"",
+    "userNumber": "51908871393",
+    "userName": "INGTHI SAC",
+    "botResponse": "Sí, contamos con accesorios para tuberías PEX AL PEX de 1\". Esto incluye conexiones, codos y otros componentes necesarios para su instalación. \n\nPara obtener más detalles técnicos o realizar una cotización específica, le sugiero que se comunique con nuestro especialista en tuberías a través del siguiente enlace: [Asesoría técnica](https://wa.me/+51978585422?text=Buen%20dia%20requiero%20info).\n\nSi necesita algo más o tiene otra consulta, estoy aquí para ayudarle."
+  },
+  {
+    "id": "c5f864de-cc10-4f07-8e6e-f727f16c9823",
+    "timestamp": "2024-11-26T17:55:17.377Z",
+    "userMessage": "user: Somo de la empres icalu le escribo para comparar\nassistant: ¡Hola, Lichaa! Es un placer atenderte. ¿Podrías indicarme qué productos o servicios de Ememsa estás interesado en comparar? Estoy aquí para ayudarte.\nuser: Codos de bronce\nassistant: Gracias por tu consulta sobre codos de bronce. En Ememsa ofrecemos una variedad de productos en esta categoría. Para obtener más información y ver el catálogo completo, puedes visitar el siguiente enlace: [Codos de bronce](https://ememsa.com/laton/).\n\nSi necesitas asesoría técnica o tienes dudas específicas, no dudes en avisarme. ¡Estoy aquí para ayudarte!\nuser: Estamos c ate alguna tienda cerca",
+    "userNumber": "51952197499",
+    "userName": "Lichaa",
+    "botResponse": "Lamentablemente, Ememsa no cuenta con una tienda abierta al público. Todos los despachos se realizan desde nuestra planta de fabricación y almacenes en Lurín, directamente al punto de entrega indicado por el cliente. \n\nSi necesitas más información sobre nuestros productos o servicios, estaré encantado de ayudarte."
+  },
+  {
+    "id": "00b202dc-7b60-41b8-a583-d9b3c140c003",
+    "timestamp": "2024-11-26T17:55:41.266Z",
+    "userMessage": "user: Buenos días\nassistant: ¡Buenos días! ¿En qué puedo ayudarle hoy?\nuser: Tienes accesorios para tubería ped\nassistant: Contamos con una amplia variedad de accesorios para tuberías, incluyendo productos para sistemas PPR. Esto incluye codos, manifolds, acoplamientos macho y hembra, entre otros.\n\nSi desea más información técnica o necesita una cotización, puede contactar a nuestro especialista a través de este enlace: [Asesoría técnica](https://wa.me/+51914173592?text=Buen%20dia%20requiero%20info).\n\nAdemás, le comparto nuestro catálogo de tuberías para agua: [Catálogo](https://ememsa.com/wp-content/uploads/2024/01/Catalogo-Rifeng.pdf). ¿Hay algo más en lo que pueda ayudarle?\nuser: Pex\nassistant: Contamos con tuberías y conexiones para sistemas PEX AL PEX, que son ideales para instalaciones de agua y gas. Para obtener información más detallada o realizar una cotización, le recomiendo contactar a nuestro técnico especializado en tuberías:\n\n[Asesoría técnica](https://wa.me/+51978585422?text=Buen%20dia%20requiero%20info).\n\nSi necesita más información sobre nuestros productos, no dude en preguntar. ¿Hay algo más en lo que pueda ayudarle?\nuser: Tienes accesorios para tubería Pex de 1\"\nassistant: Sí, contamos con accesorios para tuberías PEX AL PEX de 1\". Esto incluye conexiones, codos y otros componentes necesarios para su instalación. \n\nPara obtener más detalles técnicos o realizar una cotización específica, le sugiero que se comunique con nuestro especialista en tuberías a través del siguiente enlace: [Asesoría técnica](https://wa.me/+51978585422?text=Buen%20dia%20requiero%20info).\n\nSi necesita algo más o tiene otra consulta, estoy aquí para ayudarle.\nuser: Puede enviar su dirección y ubicar",
+    "userNumber": "51908871393",
+    "userName": "INGTHI SAC",
+    "botResponse": "Lamentablemente, no contamos con una tienda abierta al público. Nuestra planta de fabricación y almacenes se encuentran en Lurín, y realizamos despachos al punto de entrega indicado por el cliente. \n\nSi necesita más información sobre nuestros productos o servicios, no dude en preguntar. Estoy aquí para ayudarle."
+  },
+  {
+    "id": "fa211e25-bc7c-4a33-a8d9-01ea51aa1e12",
+    "timestamp": "2024-11-26T17:56:42.514Z",
+    "userMessage": "user: Somo de la empres icalu le escribo para comparar\nassistant: ¡Hola, Lichaa! Es un placer atenderte. ¿Podrías indicarme qué productos o servicios de Ememsa estás interesado en comparar? Estoy aquí para ayudarte.\nuser: Codos de bronce\nassistant: Gracias por tu consulta sobre codos de bronce. En Ememsa ofrecemos una variedad de productos en esta categoría. Para obtener más información y ver el catálogo completo, puedes visitar el siguiente enlace: [Codos de bronce](https://ememsa.com/laton/).\n\nSi necesitas asesoría técnica o tienes dudas específicas, no dudes en avisarme. ¡Estoy aquí para ayudarte!\nuser: Estamos c ate alguna tienda cerca\nassistant: Lamentablemente, Ememsa no cuenta con una tienda abierta al público. Todos los despachos se realizan desde nuestra planta de fabricación y almacenes en Lurín, directamente al punto de entrega indicado por el cliente. \n\nSi necesitas más información sobre nuestros productos o servicios, estaré encantado de ayudarte.\nuser: Codo de bronce",
+    "userNumber": "51952197499",
+    "userName": "Lichaa",
+    "botResponse": "Para codos de bronce, puedes consultar nuestro catálogo completo en el siguiente enlace: [Codos de bronce](https://ememsa.com/laton/). Allí encontrarás diferentes opciones y especificaciones.\n\nSi deseas más información o asesoría técnica, por favor házmelo saber. Estoy aquí para ayudarte."
+  },
+  {
+    "id": "b2bd87f5-8789-42ae-927d-d1444b4e8098",
+    "timestamp": "2024-11-26T17:56:46.191Z",
+    "userMessage": "assistant: ¡Buenos días! ¿En qué puedo ayudarle hoy?\nuser: Tienes accesorios para tubería ped\nassistant: Contamos con una amplia variedad de accesorios para tuberías, incluyendo productos para sistemas PPR. Esto incluye codos, manifolds, acoplamientos macho y hembra, entre otros.\n\nSi desea más información técnica o necesita una cotización, puede contactar a nuestro especialista a través de este enlace: [Asesoría técnica](https://wa.me/+51914173592?text=Buen%20dia%20requiero%20info).\n\nAdemás, le comparto nuestro catálogo de tuberías para agua: [Catálogo](https://ememsa.com/wp-content/uploads/2024/01/Catalogo-Rifeng.pdf). ¿Hay algo más en lo que pueda ayudarle?\nuser: Pex\nassistant: Contamos con tuberías y conexiones para sistemas PEX AL PEX, que son ideales para instalaciones de agua y gas. Para obtener información más detallada o realizar una cotización, le recomiendo contactar a nuestro técnico especializado en tuberías:\n\n[Asesoría técnica](https://wa.me/+51978585422?text=Buen%20dia%20requiero%20info).\n\nSi necesita más información sobre nuestros productos, no dude en preguntar. ¿Hay algo más en lo que pueda ayudarle?\nuser: Tienes accesorios para tubería Pex de 1\"\nassistant: Sí, contamos con accesorios para tuberías PEX AL PEX de 1\". Esto incluye conexiones, codos y otros componentes necesarios para su instalación. \n\nPara obtener más detalles técnicos o realizar una cotización específica, le sugiero que se comunique con nuestro especialista en tuberías a través del siguiente enlace: [Asesoría técnica](https://wa.me/+51978585422?text=Buen%20dia%20requiero%20info).\n\nSi necesita algo más o tiene otra consulta, estoy aquí para ayudarle.\nuser: Puede enviar su dirección y ubicar\nassistant: Lamentablemente, no contamos con una tienda abierta al público. Nuestra planta de fabricación y almacenes se encuentran en Lurín, y realizamos despachos al punto de entrega indicado por el cliente. \n\nSi necesita más información sobre nuestros productos o servicios, no dude en preguntar. Estoy aquí para ayudarle.\nuser: Necesito 4 adaptadores con 10 anillos para tubos Pex de 1\"",
+    "userNumber": "51908871393",
+    "userName": "INGTHI SAC",
+    "botResponse": "Para su solicitud de 4 adaptadores y 10 anillos para tubos PEX de 1\", le recomiendo que se comunique con nuestro especialista en tuberías para obtener una cotización precisa y verificar la disponibilidad. Puede hacerlo a través del siguiente enlace: [Asesoría técnica](https://wa.me/+51978585422?text=Buen%20dia%20requiero%20info).\n\nSi necesita más ayuda o información adicional, no dude en decírmelo. Estoy aquí para ayudarle."
+  },
+  {
+    "id": "52b55f3d-b9ee-47d0-930b-0a9ec0dff3e2",
+    "timestamp": "2024-11-26T17:57:25.152Z",
+    "userMessage": "user: Somo de la empres icalu le escribo para comparar\nassistant: ¡Hola, Lichaa! Es un placer atenderte. ¿Podrías indicarme qué productos o servicios de Ememsa estás interesado en comparar? Estoy aquí para ayudarte.\nuser: Codos de bronce\nassistant: Gracias por tu consulta sobre codos de bronce. En Ememsa ofrecemos una variedad de productos en esta categoría. Para obtener más información y ver el catálogo completo, puedes visitar el siguiente enlace: [Codos de bronce](https://ememsa.com/laton/).\n\nSi necesitas asesoría técnica o tienes dudas específicas, no dudes en avisarme. ¡Estoy aquí para ayudarte!\nuser: Estamos c ate alguna tienda cerca\nassistant: Lamentablemente, Ememsa no cuenta con una tienda abierta al público. Todos los despachos se realizan desde nuestra planta de fabricación y almacenes en Lurín, directamente al punto de entrega indicado por el cliente. \n\nSi necesitas más información sobre nuestros productos o servicios, estaré encantado de ayudarte.\nuser: Codo de bronce\nassistant: Para codos de bronce, puedes consultar nuestro catálogo completo en el siguiente enlace: [Codos de bronce](https://ememsa.com/laton/). Allí encontrarás diferentes opciones y especificaciones.\n\nSi deseas más información o asesoría técnica, por favor házmelo saber. Estoy aquí para ayudarte.\nuser: 1/2 npt para cañeria de 12 mm",
+    "userNumber": "51952197499",
+    "userName": "Lichaa",
+    "botResponse": "Para una cañería de 12 mm, necesitarías un codo de bronce con rosca NPT de 1/2\". Te recomiendo consultar el catálogo específico para verificar disponibilidad y características. \n\nPuedes acceder al catálogo de codos de bronce en este enlace: [Codos de bronce](https://ememsa.com/laton/). Si requieres asesoría técnica, no dudes en avisarme. ¡Estoy aquí para ayudarte!"
+  },
+  {
+    "id": "38d63c39-f2f0-42ff-ba3b-39b1f31dc1fa",
+    "timestamp": "2024-11-26T20:28:55.708Z",
+    "userMessage": "user: Hola buena s tafes",
+    "userNumber": "51938103513",
+    "userName": "🌻💗De La Mano De DIOS 💗🌻",
+    "botResponse": "¡Hola! Buenas tardes. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "6c6ca180-5095-4b8e-ae6c-19d2982aecb8",
+    "timestamp": "2024-11-26T20:29:03.278Z",
+    "userMessage": "user: Hola buena s tafes\nassistant: ¡Hola! Buenas tardes. ¿En qué puedo ayudarte hoy?\nuser: Disculpe venden este material ustedes",
+    "userNumber": "51938103513",
+    "userName": "🌻💗De La Mano De DIOS 💗🌻",
+    "botResponse": "Soy un bot diseñado exclusivamente para responder mensajes de texto, así que no puedo ver imágenes ni otros formatos. Sin embargo, estaré encantado de ayudarte si me indicas qué material necesitas. ¿Te refieres a alguna de nuestras líneas de productos?"
+  },
+  {
+    "id": "8887e7fb-3b28-4e22-b763-28b30bc41c1f",
+    "timestamp": "2024-11-26T20:29:12.301Z",
+    "userMessage": "user: Hola buena s tafes\nassistant: ¡Hola! Buenas tardes. ¿En qué puedo ayudarte hoy?\nuser: Disculpe venden este material ustedes\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto, así que no puedo ver imágenes ni otros formatos. Sin embargo, estaré encantado de ayudarte si me indicas qué material necesitas. ¿Te refieres a alguna de nuestras líneas de productos?\nuser: _event_media_",
+    "userNumber": "51938103513",
+    "userName": "🌻💗De La Mano De DIOS 💗🌻",
+    "botResponse": "Lamento informarte que no puedo procesar imágenes ni otros formatos. Sin embargo, si me indicas el material que buscas, estaré encantado de ayudarte a encontrarlo en nuestras líneas de productos."
+  },
+  {
+    "id": "a95a779a-a159-4114-9f68-c8a149a61f2f",
+    "timestamp": "2024-11-26T20:32:44.126Z",
+    "userMessage": "user: Hola buena s tafes\nassistant: ¡Hola! Buenas tardes. ¿En qué puedo ayudarte hoy?\nuser: Disculpe venden este material ustedes\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto, así que no puedo ver imágenes ni otros formatos. Sin embargo, estaré encantado de ayudarte si me indicas qué material necesitas. ¿Te refieres a alguna de nuestras líneas de productos?\nuser: _event_media_\nassistant: Lamento informarte que no puedo procesar imágenes ni otros formatos. Sin embargo, si me indicas el material que buscas, estaré encantado de ayudarte a encontrarlo en nuestras líneas de productos.\nuser: Manifold de descarga de acero sch40 Galv en caliente dn400 L: 5.92m, 1 Salida Dn 300mm L:0.21m, 3 salida Dn200 L:0.33m",
+    "userNumber": "51938103513",
+    "userName": "🌻💗De La Mano De DIOS 💗🌻",
+    "botResponse": "Parece que estás buscando un manifold de descarga de acero. En Ememsa ofrecemos una variedad de tuberías y accesorios. Sin embargo, para obtener información más específica y asesoría técnica, te recomiendo contactar a nuestro especialista en tuberías.\n\nPuedes hacerlo a través del siguiente enlace: [Técnico especializado en tuberías](https://wa.me/+51914173592?text=Buen%20dia%20requiero%20info).\n\nSi deseas ver el catálogo de tuberías, aquí tienes el enlace: [Catálogo de Tuberías para Agua](https://ememsa.com/wp-content/uploads/2024/01/Catalogo-Rifeng.pdf). ¿Hay algo más en lo que pueda ayudarte?"
+  },
+  {
+    "id": "bc924609-c726-402f-abcb-3709002aed58",
+    "timestamp": "2024-11-26T20:32:47.186Z",
+    "userMessage": "user: Hola buena s tafes\nassistant: ¡Hola! Buenas tardes. ¿En qué puedo ayudarte hoy?\nuser: Disculpe venden este material ustedes\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto, así que no puedo ver imágenes ni otros formatos. Sin embargo, estaré encantado de ayudarte si me indicas qué material necesitas. ¿Te refieres a alguna de nuestras líneas de productos?\nuser: _event_media_\nassistant: Lamento informarte que no puedo procesar imágenes ni otros formatos. Sin embargo, si me indicas el material que buscas, estaré encantado de ayudarte a encontrarlo en nuestras líneas de productos.\nuser: Manifold de descarga de acero sch40 Galv en caliente dn400 L: 5.92m, 1 Salida Dn 300mm L:0.21m, 3 salida Dn200 L:0.33m\nassistant: Parece que estás buscando un manifold de descarga de acero. En Ememsa ofrecemos una variedad de tuberías y accesorios. Sin embargo, para obtener información más específica y asesoría técnica, te recomiendo contactar a nuestro especialista en tuberías.\n\nPuedes hacerlo a través del siguiente enlace: [Técnico especializado en tuberías](https://wa.me/+51914173592?text=Buen%20dia%20requiero%20info).\n\nSi deseas ver el catálogo de tuberías, aquí tienes el enlace: [Catálogo de Tuberías para Agua](https://ememsa.com/wp-content/uploads/2024/01/Catalogo-Rifeng.pdf). ¿Hay algo más en lo que pueda ayudarte?\nuser: Eso me pide.",
+    "userNumber": "51938103513",
+    "userName": "🌻💗De La Mano De DIOS 💗🌻",
+    "botResponse": "Entiendo, si necesitas más información sobre el manifold de descarga de acero o asesoría técnica específica, te recomiendo que contactes a nuestro especialista en tuberías utilizando este enlace: [Técnico especializado en tuberías](https://wa.me/+51914173592?text=Buen%20dia%20requiero%20info).\n\nSi tienes alguna otra pregunta o necesitas asistencia adicional, no dudes en decírmelo. Estoy aquí para ayudarte."
+  },
+  {
+    "id": "afbc9682-1155-444c-9f21-308245831431",
+    "timestamp": "2024-11-26T21:22:44.717Z",
+    "userMessage": "user: Buenas tardes",
+    "userNumber": "51995988282",
+    "userName": "Nathaly Paulini",
+    "botResponse": "¡Buenas tardes, Nathaly! ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "76998717-67fc-4bef-936d-3f37c8bfceda",
+    "timestamp": "2024-11-26T21:23:25.722Z",
+    "userMessage": "user: Buenas tardes\nassistant: ¡Buenas tardes, Nathaly! ¿En qué puedo ayudarte hoy?\nuser: Mi nombre es Nathaly Paulini y soy Ejecutiva Comercial del Grupo Ventura, quien es una empresa líder en soluciones tecnológicas, con más de 11 años de experiencia en el mercado en ventas de productos tecnológicos ( como impresoras, escaner, servicios de digitalización) somos representantes autorizados de las macas Canon, Oki, Pantum en línea de impresión, la línea de digitalización, las marcas RICOH, Canon, Colortrac, Contex e Inotec.",
+    "userNumber": "51995988282",
+    "userName": "Nathaly Paulini",
+    "botResponse": "¡Encantado de conocerte, Nathaly! ¿En qué puedo ayudarte hoy en relación a los productos o servicios que ofrecemos en Ememsa? Si necesitas información sobre alguna línea específica, estaré encantado de asistirte."
+  },
+  {
+    "id": "e6c79a6b-6c0f-4a56-823f-414a2fef4574",
+    "timestamp": "2024-11-26T21:23:49.251Z",
+    "userMessage": "user: HOLA BUENAS TARDES",
+    "userNumber": "51945675307",
+    "userName": "Rodamientos Del Oriente S.A.C",
+    "botResponse": "¡Buenas tardes! Gracias por contactarte con Ememsa. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "bae9b191-2663-494d-b82d-b57638360c9a",
+    "timestamp": "2024-11-26T21:24:05.160Z",
+    "userMessage": "user: Buenas tardes\nassistant: ¡Buenas tardes, Nathaly! ¿En qué puedo ayudarte hoy?\nuser: Mi nombre es Nathaly Paulini y soy Ejecutiva Comercial del Grupo Ventura, quien es una empresa líder en soluciones tecnológicas, con más de 11 años de experiencia en el mercado en ventas de productos tecnológicos ( como impresoras, escaner, servicios de digitalización) somos representantes autorizados de las macas Canon, Oki, Pantum en línea de impresión, la línea de digitalización, las marcas RICOH, Canon, Colortrac, Contex e Inotec.\nassistant: ¡Encantado de conocerte, Nathaly! ¿En qué puedo ayudarte hoy en relación a los productos o servicios que ofrecemos en Ememsa? Si necesitas información sobre alguna línea específica, estaré encantado de asistirte.\nuser: ",
+    "userNumber": "51995988282",
+    "userName": "Nathaly Paulini",
+    "botResponse": "Parece que tu mensaje no se ha enviado. Si tienes alguna consulta o necesitas información sobre nuestros productos o servicios, no dudes en decírmelo. Estoy aquí para ayudarte."
+  },
+  {
+    "id": "5566530e-7a08-45ab-a229-ac40eb4b8bbd",
+    "timestamp": "2024-11-26T21:56:33.632Z",
+    "userMessage": "user: _event_media_",
+    "userNumber": "51973625267",
+    "userName": "Jhos",
+    "botResponse": "¡Hola Jhos! Es un placer saludarte. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "478a7c46-d901-44e4-b02b-31cfd7aa3eff",
+    "timestamp": "2024-11-26T22:06:21.577Z",
+    "userMessage": "user: _event_media_\nassistant: ¡Hola Jhos! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nuser: GLOBAL BUILDERS PERU SAC - RUC 20600085205. Una cotización por 7 unidades, me confirma. Gracias.",
+    "userNumber": "51973625267",
+    "userName": "Jhos",
+    "botResponse": "Para poder ayudarte con la cotización, necesitaría saber qué tipo de productos estás interesado en adquirir. Ememsa ofrece varias líneas de negocio, como llaves metálicas, accesorios automotrices, tuberías y más. Por favor, indícame el producto específico para proceder con la cotización. ¡Gracias!"
+  },
+  {
+    "id": "a7e21d40-9365-44c2-84bb-b604363290fb",
+    "timestamp": "2024-11-26T22:07:01.807Z",
+    "userMessage": "user: _event_media_\nassistant: ¡Hola Jhos! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nuser: GLOBAL BUILDERS PERU SAC - RUC 20600085205. Una cotización por 7 unidades, me confirma. Gracias.\nassistant: Para poder ayudarte con la cotización, necesitaría saber qué tipo de productos estás interesado en adquirir. Ememsa ofrece varias líneas de negocio, como llaves metálicas, accesorios automotrices, tuberías y más. Por favor, indícame el producto específico para proceder con la cotización. ¡Gracias!\nuser: Acople reducción para manguera bombero.",
+    "userNumber": "51973625267",
+    "userName": "Jhos",
+    "botResponse": "Los acoples de reducción para manguera bombero son parte de nuestra línea de accesorios automotrices y artículos ferreteros. Te recomiendo que contactes a nuestro técnico especializado para obtener una cotización precisa. Puedes hacerlo a través del siguiente enlace: [Contacto Técnico](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar).\n\nSi necesitas más información sobre otros productos, no dudes en decírmelo. ¡Gracias!"
+  },
+  {
+    "id": "1b8fc298-5525-4134-98f3-de69dea85f2c",
+    "timestamp": "2024-11-26T22:08:14.201Z",
+    "userMessage": "user: _event_media_\nassistant: ¡Hola Jhos! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nuser: GLOBAL BUILDERS PERU SAC - RUC 20600085205. Una cotización por 7 unidades, me confirma. Gracias.\nassistant: Para poder ayudarte con la cotización, necesitaría saber qué tipo de productos estás interesado en adquirir. Ememsa ofrece varias líneas de negocio, como llaves metálicas, accesorios automotrices, tuberías y más. Por favor, indícame el producto específico para proceder con la cotización. ¡Gracias!\nuser: Acople reducción para manguera bombero.\nassistant: Los acoples de reducción para manguera bombero son parte de nuestra línea de accesorios automotrices y artículos ferreteros. Te recomiendo que contactes a nuestro técnico especializado para obtener una cotización precisa. Puedes hacerlo a través del siguiente enlace: [Contacto Técnico](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar).\n\nSi necesitas más información sobre otros productos, no dudes en decírmelo. ¡Gracias!\nuser: Gracias.",
+    "userNumber": "51973625267",
+    "userName": "Jhos",
+    "botResponse": "¡De nada, Jhos! Si tienes más preguntas o necesitas ayuda en el futuro, no dudes en contactarme. ¡Que tengas un excelente día!"
   }
 ]
