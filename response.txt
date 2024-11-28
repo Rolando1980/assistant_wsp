@@ -9390,5 +9390,349 @@
     "userNumber": "51973625267",
     "userName": "Jhos",
     "botResponse": "¡De nada, Jhos! Si tienes más preguntas o necesitas ayuda en el futuro, no dudes en contactarme. ¡Que tengas un excelente día!"
+  },
+  {
+    "id": "bebcb33b-5a20-4bf8-9bc5-f28f08430f50",
+    "timestamp": "2024-11-27T13:49:34.055Z",
+    "userMessage": "user: Buenos días deseo adquirir  la máquina termofusora",
+    "userNumber": "51924569206",
+    "userName": "G&S",
+    "botResponse": "¡Buenos días, G&S! Lamentablemente, en Ememsa no ofrecemos máquinas termofusoras. Sin embargo, si estás interesado en otros productos como tuberías o accesorios para instalaciones, puedo ayudarte a encontrar lo que necesites. ¿Te gustaría explorar alguna de nuestras líneas de negocio?"
+  },
+  {
+    "id": "7303a62d-251b-41e8-9e69-9c371c3c5c11",
+    "timestamp": "2024-11-27T13:50:43.265Z",
+    "userMessage": "user: Buenos días deseo adquirir  la máquina termofusora\nassistant: ¡Buenos días, G&S! Lamentablemente, en Ememsa no ofrecemos máquinas termofusoras. Sin embargo, si estás interesado en otros productos como tuberías o accesorios para instalaciones, puedo ayudarte a encontrar lo que necesites. ¿Te gustaría explorar alguna de nuestras líneas de negocio?\nuser: En una capacitación de vainsa en ica indicaron que si vendían la máquina",
+    "userNumber": "51924569206",
+    "userName": "G&S",
+    "botResponse": "Lamento la confusión, pero en Ememsa no contamos con máquinas termofusoras en nuestro catálogo. Sin embargo, ofrecemos una amplia variedad de productos relacionados con tuberías y conexiones. Si necesitas información sobre otros artículos o servicios, estaré encantado de ayudarte. ¿Te gustaría saber más sobre alguna de nuestras líneas de negocio?"
+  },
+  {
+    "id": "05709697-c7ef-4a36-81bb-6700d0c5f8ca",
+    "timestamp": "2024-11-27T13:52:10.111Z",
+    "userMessage": "user: Buenos días deseo adquirir  la máquina termofusora\nassistant: ¡Buenos días, G&S! Lamentablemente, en Ememsa no ofrecemos máquinas termofusoras. Sin embargo, si estás interesado en otros productos como tuberías o accesorios para instalaciones, puedo ayudarte a encontrar lo que necesites. ¿Te gustaría explorar alguna de nuestras líneas de negocio?\nuser: En una capacitación de vainsa en ica indicaron que si vendían la máquina\nassistant: Lamento la confusión, pero en Ememsa no contamos con máquinas termofusoras en nuestro catálogo. Sin embargo, ofrecemos una amplia variedad de productos relacionados con tuberías y conexiones. Si necesitas información sobre otros artículos o servicios, estaré encantado de ayudarte. ¿Te gustaría saber más sobre alguna de nuestras líneas de negocio?\nuser: Ok entiendo si hay un proyecto que se va hacer según los planos le hago llegar el listado para una cotización  de materiales",
+    "userNumber": "51924569206",
+    "userName": "G&S",
+    "botResponse": "Perfecto, estaré encantado de ayudarte con la cotización de materiales. Puedes enviarme el listado de productos que necesitas y me aseguraré de brindarte la información correspondiente. También, si prefieres, puedes contactar directamente a nuestro equipo de ventas para una atención más personalizada. ¿Te gustaría que te proporcione el enlace para hacerlo?"
+  },
+  {
+    "id": "d004614f-ef58-43c4-8af3-7a40df8c9dcb",
+    "timestamp": "2024-11-27T13:52:27.369Z",
+    "userMessage": "user: Buenos días deseo adquirir  la máquina termofusora\nassistant: ¡Buenos días, G&S! Lamentablemente, en Ememsa no ofrecemos máquinas termofusoras. Sin embargo, si estás interesado en otros productos como tuberías o accesorios para instalaciones, puedo ayudarte a encontrar lo que necesites. ¿Te gustaría explorar alguna de nuestras líneas de negocio?\nuser: En una capacitación de vainsa en ica indicaron que si vendían la máquina\nassistant: Lamento la confusión, pero en Ememsa no contamos con máquinas termofusoras en nuestro catálogo. Sin embargo, ofrecemos una amplia variedad de productos relacionados con tuberías y conexiones. Si necesitas información sobre otros artículos o servicios, estaré encantado de ayudarte. ¿Te gustaría saber más sobre alguna de nuestras líneas de negocio?\nuser: Ok entiendo si hay un proyecto que se va hacer según los planos le hago llegar el listado para una cotización  de materiales\nassistant: Perfecto, estaré encantado de ayudarte con la cotización de materiales. Puedes enviarme el listado de productos que necesitas y me aseguraré de brindarte la información correspondiente. También, si prefieres, puedes contactar directamente a nuestro equipo de ventas para una atención más personalizada. ¿Te gustaría que te proporcione el enlace para hacerlo?\nuser: Pero conoce alguien que me pueda vender la máquina",
+    "userNumber": "51924569206",
+    "userName": "G&S",
+    "botResponse": "Lamento no poder ayudarte con la venta de máquinas termofusoras, ya que no tenemos ese producto en nuestro catálogo. Te recomendaría buscar proveedores especializados en maquinaria para instalaciones. Si necesitas asesoría sobre otros productos de Ememsa, estaré aquí para ayudarte. ¿Te gustaría explorar alguna de nuestras líneas de negocio?"
+  },
+  {
+    "id": "70b99351-eb5c-416a-b8a9-991add261252",
+    "timestamp": "2024-11-27T13:52:50.349Z",
+    "userMessage": "user: Buenos días deseo adquirir  la máquina termofusora\nassistant: ¡Buenos días, G&S! Lamentablemente, en Ememsa no ofrecemos máquinas termofusoras. Sin embargo, si estás interesado en otros productos como tuberías o accesorios para instalaciones, puedo ayudarte a encontrar lo que necesites. ¿Te gustaría explorar alguna de nuestras líneas de negocio?\nuser: En una capacitación de vainsa en ica indicaron que si vendían la máquina\nassistant: Lamento la confusión, pero en Ememsa no contamos con máquinas termofusoras en nuestro catálogo. Sin embargo, ofrecemos una amplia variedad de productos relacionados con tuberías y conexiones. Si necesitas información sobre otros artículos o servicios, estaré encantado de ayudarte. ¿Te gustaría saber más sobre alguna de nuestras líneas de negocio?\nuser: Ok entiendo si hay un proyecto que se va hacer según los planos le hago llegar el listado para una cotización  de materiales\nassistant: Perfecto, estaré encantado de ayudarte con la cotización de materiales. Puedes enviarme el listado de productos que necesitas y me aseguraré de brindarte la información correspondiente. También, si prefieres, puedes contactar directamente a nuestro equipo de ventas para una atención más personalizada. ¿Te gustaría que te proporcione el enlace para hacerlo?\nuser: Pero conoce alguien que me pueda vender la máquina\nassistant: Lamento no poder ayudarte con la venta de máquinas termofusoras, ya que no tenemos ese producto en nuestro catálogo. Te recomendaría buscar proveedores especializados en maquinaria para instalaciones. Si necesitas asesoría sobre otros productos de Ememsa, estaré aquí para ayudarte. ¿Te gustaría explorar alguna de nuestras líneas de negocio?\nuser: Ok gracias",
+    "userNumber": "51924569206",
+    "userName": "G&S",
+    "botResponse": "¡De nada! Agradezco tu comprensión. Si en el futuro necesitas información sobre nuestros productos o servicios, no dudes en contactarme. ¡Que tengas un excelente día!"
+  },
+  {
+    "id": "7a02f098-5516-4416-92c6-2c51b5c47722",
+    "timestamp": "2024-11-27T14:28:16.994Z",
+    "userMessage": "user: Bb DIAS",
+    "userNumber": "51926821671",
+    "userName": "JULCARIMA MP",
+    "botResponse": "¡Hola, JULCARIMA MP! Espero que estés teniendo un buen día. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "f8ec3138-3c82-412f-8561-6cc693132bdc",
+    "timestamp": "2024-11-27T14:29:00.036Z",
+    "userMessage": "user: Bb DIAS\nassistant: ¡Hola, JULCARIMA MP! Espero que estés teniendo un buen día. ¿En qué puedo ayudarte hoy?\nuser: Dónde compro los accesorios de válvulas para instalación de Gnv",
+    "userNumber": "51926821671",
+    "userName": "JULCARIMA MP",
+    "botResponse": "Los accesorios de válvulas para la instalación de GNV están disponibles en nuestra tienda en línea. Te invito a visitar el siguiente enlace para explorar los productos: https://tienda.ememsa.com. \n\nSi necesitas asesoría técnica específica, puedes contactar a nuestro técnico especializado aquí: https://wa.me/+51967020770?text=Buen%20dia%20requiero%20info. \n\n¿Hay algo más en lo que pueda ayudarte?"
+  },
+  {
+    "id": "a4bfd165-a496-42b5-901b-d6ba439ff2d7",
+    "timestamp": "2024-11-27T14:39:36.384Z",
+    "userMessage": "user: Buen dia la empresa emensa?",
+    "userNumber": "51923215868",
+    "userName": "Stefano",
+    "botResponse": "¡Buen día, Stefano! Soy el asistente virtual de Ememsa. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "74f62437-60d5-46ca-9026-10d126ab3e49",
+    "timestamp": "2024-11-27T14:39:53.634Z",
+    "userMessage": "user: Buen dia la empresa emensa?\nassistant: ¡Buen día, Stefano! Soy el asistente virtual de Ememsa. ¿En qué puedo ayudarte hoy?\nuser: podrias derivarme al area logistica?",
+    "userNumber": "51923215868",
+    "userName": "Stefano",
+    "botResponse": "Lamentablemente, no puedo transferirte a otras áreas. Sin embargo, si necesitas información específica sobre logística, estaré encantado de ayudarte. Si requieres asistencia directa, puedes contactar a la administración al 998125169. ¿Hay algo más en lo que pueda asistirte?"
+  },
+  {
+    "id": "d959cb08-86dd-4d80-b1b5-32c38a994c99",
+    "timestamp": "2024-11-27T14:55:49.403Z",
+    "userMessage": "user: Buenos días mi estimado para poder postular a un puesto OPERARIO ALBAÑIL para Quellaveco me podría brindar más información",
+    "userNumber": "51920387356",
+    "userName": "Santos",
+    "botResponse": "¡Buenos días, Santos! Para consultas sobre empleo y reclutamiento, te recomiendo contactar directamente al número 963127831. Ellos podrán brindarte toda la información necesaria sobre la postulación para el puesto de operario albañil en Quellaveco. \n\nSi necesitas ayuda con algo más, no dudes en decírmelo. ¡Gracias por tu interés en Ememsa!"
+  },
+  {
+    "id": "888ee9f6-8d43-4615-81a1-20771fd51a40",
+    "timestamp": "2024-11-27T14:56:14.226Z",
+    "userMessage": "user: Buenos días mi estimado para poder postular a un puesto OPERARIO ALBAÑIL para Quellaveco me podría brindar más información\nassistant: ¡Buenos días, Santos! Para consultas sobre empleo y reclutamiento, te recomiendo contactar directamente al número 963127831. Ellos podrán brindarte toda la información necesaria sobre la postulación para el puesto de operario albañil en Quellaveco. \n\nSi necesitas ayuda con algo más, no dudes en decírmelo. ¡Gracias por tu interés en Ememsa!\nuser: Ok gracias",
+    "userNumber": "51920387356",
+    "userName": "Santos",
+    "botResponse": "¡De nada, Santos! Si tienes más preguntas o necesitas asistencia en el futuro, no dudes en contactarme. ¡Que tengas un excelente día!"
+  },
+  {
+    "id": "fcd7adde-b4a8-4f70-94e9-4cd5b15c001e",
+    "timestamp": "2024-11-27T15:07:21.410Z",
+    "userMessage": "user: Bb DIAS\nassistant: ¡Hola, JULCARIMA MP! Espero que estés teniendo un buen día. ¿En qué puedo ayudarte hoy?\nuser: Dónde compro los accesorios de válvulas para instalación de Gnv\nassistant: Los accesorios de válvulas para la instalación de GNV están disponibles en nuestra tienda en línea. Te invito a visitar el siguiente enlace para explorar los productos: https://tienda.ememsa.com. \n\nSi necesitas asesoría técnica específica, puedes contactar a nuestro técnico especializado aquí: https://wa.me/+51967020770?text=Buen%20dia%20requiero%20info. \n\n¿Hay algo más en lo que pueda ayudarte?\nuser: La válvula de bola de lujo.",
+    "userNumber": "51926821671",
+    "userName": "JULCARIMA MP",
+    "botResponse": "La válvula de bola de lujo también está disponible en nuestra tienda en línea. Puedes encontrarla y explorar más detalles sobre este producto en el siguiente enlace: https://tienda.ememsa.com.\n\nSi necesitas más información técnica o asesoría especializada, no dudes en contactar a nuestro técnico aquí: https://wa.me/+51967020770?text=Buen%20dia%20requiero%20info.\n\n¿Hay algo más que te gustaría saber?"
+  },
+  {
+    "id": "87048947-b8a2-418a-9549-5f4aa37ef756",
+    "timestamp": "2024-11-27T15:07:31.075Z",
+    "userMessage": "user: Bb DIAS\nassistant: ¡Hola, JULCARIMA MP! Espero que estés teniendo un buen día. ¿En qué puedo ayudarte hoy?\nuser: Dónde compro los accesorios de válvulas para instalación de Gnv\nassistant: Los accesorios de válvulas para la instalación de GNV están disponibles en nuestra tienda en línea. Te invito a visitar el siguiente enlace para explorar los productos: https://tienda.ememsa.com. \n\nSi necesitas asesoría técnica específica, puedes contactar a nuestro técnico especializado aquí: https://wa.me/+51967020770?text=Buen%20dia%20requiero%20info. \n\n¿Hay algo más en lo que pueda ayudarte?\nuser: La válvula de bola de lujo.\nassistant: La válvula de bola de lujo también está disponible en nuestra tienda en línea. Puedes encontrarla y explorar más detalles sobre este producto en el siguiente enlace: https://tienda.ememsa.com.\n\nSi necesitas más información técnica o asesoría especializada, no dudes en contactar a nuestro técnico aquí: https://wa.me/+51967020770?text=Buen%20dia%20requiero%20info.\n\n¿Hay algo más que te gustaría saber?\nuser: Su precio",
+    "userNumber": "51926821671",
+    "userName": "JULCARIMA MP",
+    "botResponse": "Lamentablemente, no tengo acceso a información sobre precios específicos. Te recomiendo visitar nuestra tienda en línea en https://tienda.ememsa.com, donde podrás encontrar los precios actualizados de la válvula de bola de lujo y otros productos.\n\nSi necesitas más asistencia o asesoría técnica, no dudes en contactarnos. ¿Hay algo más en lo que pueda ayudarte?"
+  },
+  {
+    "id": "4e00e8f3-78ff-41aa-825a-c204a57a7f0f",
+    "timestamp": "2024-11-27T15:19:37.814Z",
+    "userMessage": "user: HOLA",
+    "userNumber": "51962500182",
+    "userName": "METAL STYLE",
+    "botResponse": "¡Hola! Bienvenido a Ememsa. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "23e7b134-a2dd-4bd9-8e54-a092e1553846",
+    "timestamp": "2024-11-27T15:19:56.957Z",
+    "userMessage": "user: HOLA\nassistant: ¡Hola! Bienvenido a Ememsa. ¿En qué puedo ayudarte hoy?\nuser: POR FAVOR ME PODRIA CPOTIZAR ELLO",
+    "userNumber": "51962500182",
+    "userName": "METAL STYLE",
+    "botResponse": "Lamentablemente, no puedo procesar solicitudes de cotización directamente. Sin embargo, puedo ayudarte a encontrar el producto que necesitas. ¿Podrías especificar qué tipo de producto o servicio estás buscando?"
+  },
+  {
+    "id": "ebf63dea-a5e6-4373-acc8-dd1b9004e8ee",
+    "timestamp": "2024-11-27T15:20:12.392Z",
+    "userMessage": "user: HOLA\nassistant: ¡Hola! Bienvenido a Ememsa. ¿En qué puedo ayudarte hoy?\nuser: POR FAVOR ME PODRIA CPOTIZAR ELLO\nassistant: Lamentablemente, no puedo procesar solicitudes de cotización directamente. Sin embargo, puedo ayudarte a encontrar el producto que necesitas. ¿Podrías especificar qué tipo de producto o servicio estás buscando?\nuser: _event_media_",
+    "userNumber": "51962500182",
+    "userName": "METAL STYLE",
+    "botResponse": "Soy un bot diseñado exclusivamente para responder mensajes de texto. Por favor, indícame tus necesidades en texto y estaré encantado de ayudarte."
+  },
+  {
+    "id": "451d85b9-7d51-4c86-b9a2-8cc9e0e76b09",
+    "timestamp": "2024-11-27T15:20:35.957Z",
+    "userMessage": "user: HOLA\nassistant: ¡Hola! Bienvenido a Ememsa. ¿En qué puedo ayudarte hoy?\nuser: POR FAVOR ME PODRIA CPOTIZAR ELLO\nassistant: Lamentablemente, no puedo procesar solicitudes de cotización directamente. Sin embargo, puedo ayudarte a encontrar el producto que necesitas. ¿Podrías especificar qué tipo de producto o servicio estás buscando?\nuser: _event_media_\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. Por favor, indícame tus necesidades en texto y estaré encantado de ayudarte.\nuser: _event_media_",
+    "userNumber": "51962500182",
+    "userName": "METAL STYLE",
+    "botResponse": "Soy un bot diseñado exclusivamente para responder mensajes de texto. Por favor, indícame tus necesidades en texto y estaré encantado de ayudarte."
+  },
+  {
+    "id": "c9261e1b-95d7-4ef4-aae2-b70f4430f807",
+    "timestamp": "2024-11-27T15:20:55.140Z",
+    "userMessage": "user: HOLA\nassistant: ¡Hola! Bienvenido a Ememsa. ¿En qué puedo ayudarte hoy?\nuser: POR FAVOR ME PODRIA CPOTIZAR ELLO\nassistant: Lamentablemente, no puedo procesar solicitudes de cotización directamente. Sin embargo, puedo ayudarte a encontrar el producto que necesitas. ¿Podrías especificar qué tipo de producto o servicio estás buscando?\nuser: _event_media_\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. Por favor, indícame tus necesidades en texto y estaré encantado de ayudarte.\nuser: _event_media_\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. Por favor, indícame tus necesidades en texto y estaré encantado de ayudarte.\nuser: TUBO PPR 1\" X 6M",
+    "userNumber": "51962500182",
+    "userName": "METAL STYLE",
+    "botResponse": "Ofrecemos tuberías para agua en sistema PPR, ideales para la distribución de agua potable. Puedes encontrar codos, manifolds y otros accesorios. \n\nPara más información y un catálogo completo, visita: [Catálogo Rifeng](https://ememsa.com/wp-content/uploads/2024/01/Catalogo-Rifeng.pdf). \n\nSi necesitas asesoría técnica, puedes contactar a nuestro especialista aquí: [Asesor Técnico](https://wa.me/+51914173592?text=Buen%20dia%20requiero%20info). ¿Hay algo más en lo que pueda ayudarte?"
+  },
+  {
+    "id": "63564c22-383a-4470-b44d-33c2e853e90b",
+    "timestamp": "2024-11-27T15:21:54.676Z",
+    "userMessage": "assistant: ¡Hola! Bienvenido a Ememsa. ¿En qué puedo ayudarte hoy?\nuser: POR FAVOR ME PODRIA CPOTIZAR ELLO\nassistant: Lamentablemente, no puedo procesar solicitudes de cotización directamente. Sin embargo, puedo ayudarte a encontrar el producto que necesitas. ¿Podrías especificar qué tipo de producto o servicio estás buscando?\nuser: _event_media_\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. Por favor, indícame tus necesidades en texto y estaré encantado de ayudarte.\nuser: _event_media_\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. Por favor, indícame tus necesidades en texto y estaré encantado de ayudarte.\nuser: TUBO PPR 1\" X 6M\nassistant: Ofrecemos tuberías para agua en sistema PPR, ideales para la distribución de agua potable. Puedes encontrar codos, manifolds y otros accesorios. \n\nPara más información y un catálogo completo, visita: [Catálogo Rifeng](https://ememsa.com/wp-content/uploads/2024/01/Catalogo-Rifeng.pdf). \n\nSi necesitas asesoría técnica, puedes contactar a nuestro especialista aquí: [Asesor Técnico](https://wa.me/+51914173592?text=Buen%20dia%20requiero%20info). ¿Hay algo más en lo que pueda ayudarte?\nuser: PARA VENTA ?",
+    "userNumber": "51962500182",
+    "userName": "METAL STYLE",
+    "botResponse": "No vendemos directamente a través de este canal, ya que no contamos con una tienda abierta al público. Sin embargo, puedes realizar tus compras en nuestra tienda en línea. Te invito a visitar: [Tienda Ememsa](https://tienda.ememsa.com) para ver los productos disponibles.\n\nSi necesitas más información o asesoría técnica, no dudes en preguntar. ¿Hay algo más que te gustaría saber?"
+  },
+  {
+    "id": "6e76fd7f-36eb-4606-b010-a0db922beb0c",
+    "timestamp": "2024-11-27T16:24:00.117Z",
+    "userMessage": "user: Buenos días, tendrán estas abrazaderas en material inoxidable?",
+    "userNumber": "51943163069",
+    "userName": "Luis",
+    "botResponse": "¡Buenos días, Luis! Sí, contamos con abrazaderas en material inoxidable. Puedes encontrar nuestras abrazaderas, en distintas medidas y precios, en nuestra tienda en línea: [Abrazaderas Ememsa](https://tienda.ememsa.com/abrazaderas?_q=abrazaderas&map=ft).\n\nSi necesitas más información o asesoría técnica, no dudes en decírmelo. También puedo proporcionarte el catálogo de productos."
+  },
+  {
+    "id": "3a998ee2-7b30-4eb5-879e-50df884f241d",
+    "timestamp": "2024-11-27T16:24:06.227Z",
+    "userMessage": "user: Buenos días, tendrán estas abrazaderas en material inoxidable?\nassistant: ¡Buenos días, Luis! Sí, contamos con abrazaderas en material inoxidable. Puedes encontrar nuestras abrazaderas, en distintas medidas y precios, en nuestra tienda en línea: [Abrazaderas Ememsa](https://tienda.ememsa.com/abrazaderas?_q=abrazaderas&map=ft).\n\nSi necesitas más información o asesoría técnica, no dudes en decírmelo. También puedo proporcionarte el catálogo de productos.\nuser: _event_media_",
+    "userNumber": "51943163069",
+    "userName": "Luis",
+    "botResponse": "Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna pregunta o consulta, estaré encantado de ayudarte."
+  },
+  {
+    "id": "c397f935-98dc-47e5-bfaa-55d27d6d7519",
+    "timestamp": "2024-11-27T16:24:27.211Z",
+    "userMessage": "user: Buenos días, tendrán estas abrazaderas en material inoxidable?\nassistant: ¡Buenos días, Luis! Sí, contamos con abrazaderas en material inoxidable. Puedes encontrar nuestras abrazaderas, en distintas medidas y precios, en nuestra tienda en línea: [Abrazaderas Ememsa](https://tienda.ememsa.com/abrazaderas?_q=abrazaderas&map=ft).\n\nSi necesitas más información o asesoría técnica, no dudes en decírmelo. También puedo proporcionarte el catálogo de productos.\nuser: _event_media_\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna pregunta o consulta, estaré encantado de ayudarte.\nuser: 1.- 104-112 (4)\n2.- 87-95     (4)\n3.- 52-57     (4)",
+    "userNumber": "51943163069",
+    "userName": "Luis",
+    "botResponse": "Entiendo que estás buscando información sobre abrazaderas. Sin embargo, necesitaría un poco más de contexto para poder ayudarte de manera adecuada. \n\nSi deseas, puedo dirigirte a nuestra tienda en línea para que explores las opciones disponibles o proporcionarte el catálogo de productos. ¿Te gustaría eso?"
+  },
+  {
+    "id": "7e064fe4-1993-44c7-82b9-ddb0e4fa53b2",
+    "timestamp": "2024-11-27T16:25:10.463Z",
+    "userMessage": "user: Buenos días, tendrán estas abrazaderas en material inoxidable?\nassistant: ¡Buenos días, Luis! Sí, contamos con abrazaderas en material inoxidable. Puedes encontrar nuestras abrazaderas, en distintas medidas y precios, en nuestra tienda en línea: [Abrazaderas Ememsa](https://tienda.ememsa.com/abrazaderas?_q=abrazaderas&map=ft).\n\nSi necesitas más información o asesoría técnica, no dudes en decírmelo. También puedo proporcionarte el catálogo de productos.\nuser: _event_media_\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna pregunta o consulta, estaré encantado de ayudarte.\nuser: 1.- 104-112 (4)\n2.- 87-95     (4)\n3.- 52-57     (4)\nassistant: Entiendo que estás buscando información sobre abrazaderas. Sin embargo, necesitaría un poco más de contexto para poder ayudarte de manera adecuada. \n\nSi deseas, puedo dirigirte a nuestra tienda en línea para que explores las opciones disponibles o proporcionarte el catálogo de productos. ¿Te gustaría eso?\nuser: Si, favor de dirigirme a una tienda en linea",
+    "userNumber": "51943163069",
+    "userName": "Luis",
+    "botResponse": "Claro, puedes explorar nuestras abrazaderas en distintas medidas y precios en nuestra tienda en línea a través del siguiente enlace: [Tienda Ememsa - Abrazaderas](https://tienda.ememsa.com/abrazaderas?_q=abrazaderas&map=ft).\n\nSi necesitas más información o asesoría técnica, no dudes en decírmelo. ¡Estoy aquí para ayudarte!"
+  },
+  {
+    "id": "9f270fee-fb40-4f2d-826f-5ca94c6d4877",
+    "timestamp": "2024-11-27T16:30:09.983Z",
+    "userMessage": "user: Buenos dias",
+    "userNumber": "51907499166",
+    "userName": "Miguel",
+    "botResponse": "¡Buenos días, Miguel! ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "81dc6ea0-e551-4eff-aff2-ada0f23e288f",
+    "timestamp": "2024-11-27T16:30:20.273Z",
+    "userMessage": "user: Buenos dias\nassistant: ¡Buenos días, Miguel! ¿En qué puedo ayudarte hoy?\nuser: Tengo mi tienda de repuestos en Arequipa",
+    "userNumber": "51907499166",
+    "userName": "Miguel",
+    "botResponse": "¡Excelente, Miguel! ¿Qué tipo de productos o repuestos estás buscando para tu tienda en Arequipa? Estoy aquí para ayudarte a encontrar lo que necesites."
+  },
+  {
+    "id": "caa6a05e-3c6f-4f69-b811-8b0947f162d4",
+    "timestamp": "2024-11-27T16:30:31.077Z",
+    "userMessage": "user: BUEN DIA",
+    "userNumber": "51938514346",
+    "userName": "marketingperfectpump",
+    "botResponse": "¡Buen día! ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "fbfd0e25-59e9-4a90-a2c8-8bf90754b8bc",
+    "timestamp": "2024-11-27T16:30:31.399Z",
+    "userMessage": "user: Buenos dias\nassistant: ¡Buenos días, Miguel! ¿En qué puedo ayudarte hoy?\nuser: Tengo mi tienda de repuestos en Arequipa\nassistant: ¡Excelente, Miguel! ¿Qué tipo de productos o repuestos estás buscando para tu tienda en Arequipa? Estoy aquí para ayudarte a encontrar lo que necesites.\nuser: Busco abrazaderas de 8mm",
+    "userNumber": "51907499166",
+    "userName": "Miguel",
+    "botResponse": "Puedes encontrar nuestras abrazaderas, en distintas medidas y precios, en nuestra tienda en línea: [Abrazaderas Ememsa](https://tienda.ememsa.com/abrazaderas?_q=abrazaderas&map=ft). \n\nSi necesitas asesoría especializada, aquí tienes el enlace de contacto con nuestro técnico: [Contacto Técnico](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar). \n\n¿Te gustaría ver el catálogo de productos?"
+  },
+  {
+    "id": "93f5a8b7-a574-44b8-b3b2-6868f548d823",
+    "timestamp": "2024-11-27T16:30:42.644Z",
+    "userMessage": "user: BUEN DIA\nassistant: ¡Buen día! ¿En qué puedo ayudarte hoy?\nuser: TENDRAS CAÑERIAS PARA SISTEMA DE INYECCION",
+    "userNumber": "51938514346",
+    "userName": "marketingperfectpump",
+    "botResponse": "Contamos con accesorios automotrices, que incluyen componentes para sistemas de inyección. Puedes explorar nuestra oferta en nuestra tienda en línea. \n\nSi necesitas más información o asesoría técnica, te puedo proporcionar un enlace para contactar a nuestro especialista. ¿Te gustaría eso?"
+  },
+  {
+    "id": "031086b0-ea10-4e55-92be-16268c0fc358",
+    "timestamp": "2024-11-27T16:31:06.617Z",
+    "userMessage": "user: BUEN DIA\nassistant: ¡Buen día! ¿En qué puedo ayudarte hoy?\nuser: TENDRAS CAÑERIAS PARA SISTEMA DE INYECCION\nassistant: Contamos con accesorios automotrices, que incluyen componentes para sistemas de inyección. Puedes explorar nuestra oferta en nuestra tienda en línea. \n\nSi necesitas más información o asesoría técnica, te puedo proporcionar un enlace para contactar a nuestro especialista. ¿Te gustaría eso?\nuser: SI",
+    "userNumber": "51938514346",
+    "userName": "marketingperfectpump",
+    "botResponse": "Perfecto. Puedes contactar a nuestro técnico especializado en accesorios automotrices a través del siguiente enlace: [Contacto Técnico](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar). \n\nSi necesitas más información o un catálogo de productos, no dudes en decírmelo. ¡Estoy aquí para ayudarte!"
+  },
+  {
+    "id": "cf329f6b-baf4-4350-b860-df3a13c9b1f0",
+    "timestamp": "2024-11-27T16:31:10.638Z",
+    "userMessage": "user: BUEN DIA\nassistant: ¡Buen día! ¿En qué puedo ayudarte hoy?\nuser: TENDRAS CAÑERIAS PARA SISTEMA DE INYECCION\nassistant: Contamos con accesorios automotrices, que incluyen componentes para sistemas de inyección. Puedes explorar nuestra oferta en nuestra tienda en línea. \n\nSi necesitas más información o asesoría técnica, te puedo proporcionar un enlace para contactar a nuestro especialista. ¿Te gustaría eso?\nuser: SI\nassistant: Perfecto. Puedes contactar a nuestro técnico especializado en accesorios automotrices a través del siguiente enlace: [Contacto Técnico](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar). \n\nSi necesitas más información o un catálogo de productos, no dudes en decírmelo. ¡Estoy aquí para ayudarte!\nuser: POR FAVO R",
+    "userNumber": "51938514346",
+    "userName": "marketingperfectpump",
+    "botResponse": "Claro, aquí tienes el enlace para contactar a nuestro técnico especializado en accesorios automotrices: [Contacto Técnico](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar). \n\nAdemás, si deseas, puedo proporcionarte un catálogo de nuestros productos. ¿Te gustaría recibirlo?"
+  },
+  {
+    "id": "b6747959-b3e8-40b9-af95-ff4c7ad2f0ac",
+    "timestamp": "2024-11-27T16:32:27.628Z",
+    "userMessage": "user: BUEN DIA\nassistant: ¡Buen día! ¿En qué puedo ayudarte hoy?\nuser: TENDRAS CAÑERIAS PARA SISTEMA DE INYECCION\nassistant: Contamos con accesorios automotrices, que incluyen componentes para sistemas de inyección. Puedes explorar nuestra oferta en nuestra tienda en línea. \n\nSi necesitas más información o asesoría técnica, te puedo proporcionar un enlace para contactar a nuestro especialista. ¿Te gustaría eso?\nuser: SI\nassistant: Perfecto. Puedes contactar a nuestro técnico especializado en accesorios automotrices a través del siguiente enlace: [Contacto Técnico](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar). \n\nSi necesitas más información o un catálogo de productos, no dudes en decírmelo. ¡Estoy aquí para ayudarte!\nuser: POR FAVO R\nassistant: Claro, aquí tienes el enlace para contactar a nuestro técnico especializado en accesorios automotrices: [Contacto Técnico](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar). \n\nAdemás, si deseas, puedo proporcionarte un catálogo de nuestros productos. ¿Te gustaría recibirlo?\nuser: SI",
+    "userNumber": "51938514346",
+    "userName": "marketingperfectpump",
+    "botResponse": "Aquí tienes el catálogo de accesorios automotrices, que incluye mangueras, cañerías y otros componentes:\n\n- [Mangueras y cañerías](https://ememsa.com/wp-content/uploads/2024/08/CATALOGO-MANGUERAS-AUTOMOTRICES_0824.pdf)\n- [Graseras, arandelas y abrazaderas](https://ememsa.com/wp-content/uploads/2024/08/CATALOGO-FASTENERS_0824.pdf)\n- [Niples ferreteros](https://ememsa.com/wp-content/uploads/2024/08/CATALOGO-NIPLERIA-UNIVERSAL_0824.pdf)\n- [Niples automotrices]("
+  },
+  {
+    "id": "2f436dd0-1f29-46d1-adc2-abaaac15ce96",
+    "timestamp": "2024-11-27T17:39:50.829Z",
+    "userMessage": "user: Buenos días mi estimado para poder postular a un puesto OPERARIO ALBAÑIL para Quellaveco me podría brindar más información\nassistant: ¡Buenos días, Santos! Para consultas sobre empleo y reclutamiento, te recomiendo contactar directamente al número 963127831. Ellos podrán brindarte toda la información necesaria sobre la postulación para el puesto de operario albañil en Quellaveco. \n\nSi necesitas ayuda con algo más, no dudes en decírmelo. ¡Gracias por tu interés en Ememsa!\nuser: Ok gracias\nassistant: ¡De nada, Santos! Si tienes más preguntas o necesitas asistencia en el futuro, no dudes en contactarme. ¡Que tengas un excelente día!\nuser: Gracias mi estimado ya lo escribí a ese número aún no me responde",
+    "userNumber": "51920387356",
+    "userName": "Santos",
+    "botResponse": "Entiendo, Santos. A veces puede tomar un poco de tiempo recibir respuesta. Te sugiero que tengas paciencia y, si no obtienes respuesta en un tiempo razonable, puedes intentar comunicarte nuevamente. \n\nSi necesitas información sobre nuestros productos o servicios, aquí estoy para ayudarte. ¡Gracias por tu comprensión!"
+  },
+  {
+    "id": "ed2fd423-95be-4966-ac8c-7456e92f2705",
+    "timestamp": "2024-11-27T17:40:23.710Z",
+    "userMessage": "user: Buenos días mi estimado para poder postular a un puesto OPERARIO ALBAÑIL para Quellaveco me podría brindar más información\nassistant: ¡Buenos días, Santos! Para consultas sobre empleo y reclutamiento, te recomiendo contactar directamente al número 963127831. Ellos podrán brindarte toda la información necesaria sobre la postulación para el puesto de operario albañil en Quellaveco. \n\nSi necesitas ayuda con algo más, no dudes en decírmelo. ¡Gracias por tu interés en Ememsa!\nuser: Ok gracias\nassistant: ¡De nada, Santos! Si tienes más preguntas o necesitas asistencia en el futuro, no dudes en contactarme. ¡Que tengas un excelente día!\nuser: Gracias mi estimado ya lo escribí a ese número aún no me responde\nassistant: Entiendo, Santos. A veces puede tomar un poco de tiempo recibir respuesta. Te sugiero que tengas paciencia y, si no obtienes respuesta en un tiempo razonable, puedes intentar comunicarte nuevamente. \n\nSi necesitas información sobre nuestros productos o servicios, aquí estoy para ayudarte. ¡Gracias por tu comprensión!\nuser: 👍",
+    "userNumber": "51920387356",
+    "userName": "Santos",
+    "botResponse": "¡Gracias por tu comprensión, Santos! Si en algún momento necesitas asistencia adicional o información sobre nuestros productos y servicios, no dudes en contactarme. ¡Que tengas un excelente día!"
+  },
+  {
+    "id": "6d750275-b5c5-4760-9cf3-083b14f372fc",
+    "timestamp": "2024-11-27T21:17:38.278Z",
+    "userMessage": "user: buenas tardes",
+    "userNumber": "51952197499",
+    "userName": "Lichaa",
+    "botResponse": "¡Buenas tardes, Lichaa! ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "18733ba9-1a51-445e-a364-fbb6f4b0b411",
+    "timestamp": "2024-11-27T21:17:42.880Z",
+    "userMessage": "user: buenas tardes\nassistant: ¡Buenas tardes, Lichaa! ¿En qué puedo ayudarte hoy?\nuser: por favor necesito cotize",
+    "userNumber": "51952197499",
+    "userName": "Lichaa",
+    "botResponse": "Claro, Lichaa. Para poder ayudarte mejor, ¿podrías especificar qué tipo de producto o servicio necesitas cotizar?"
+  },
+  {
+    "id": "622ba721-024c-4496-b19b-e7e38029c739",
+    "timestamp": "2024-11-27T21:20:08.578Z",
+    "userMessage": "user: buenas tardes\nassistant: ¡Buenas tardes, Lichaa! ¿En qué puedo ayudarte hoy?\nuser: por favor necesito cotize\nassistant: Claro, Lichaa. Para poder ayudarte mejor, ¿podrías especificar qué tipo de producto o servicio necesitas cotizar?\nuser: 00110015128codo  12   NPT 1/2",
+    "userNumber": "51952197499",
+    "userName": "Lichaa",
+    "botResponse": "Entiendo que necesitas un codo NPT de 1/2\". Te recomiendo que revises nuestra tienda en línea para ver la disponibilidad y precios. Puedes encontrar más información aquí: [Tuberías para agua](https://ememsa.com/wp-content/uploads/2024/01/Catalogo-Rifeng.pdf).\n\nSi necesitas asesoría técnica, aquí tienes el enlace para contactar a nuestro especialista: [Asesoría técnica](https://wa.me/+51914173592?text=Buen%20dia%20requiero%20info). \n\n¿Hay algo más en lo que pueda asistirte?"
+  },
+  {
+    "id": "d162d009-4c0d-4b22-8371-3a3246b68aaa",
+    "timestamp": "2024-11-27T21:24:48.675Z",
+    "userMessage": "user: buenas tardes\nassistant: ¡Buenas tardes, Lichaa! ¿En qué puedo ayudarte hoy?\nuser: por favor necesito cotize\nassistant: Claro, Lichaa. Para poder ayudarte mejor, ¿podrías especificar qué tipo de producto o servicio necesitas cotizar?\nuser: 00110015128codo  12   NPT 1/2\nassistant: Entiendo que necesitas un codo NPT de 1/2\". Te recomiendo que revises nuestra tienda en línea para ver la disponibilidad y precios. Puedes encontrar más información aquí: [Tuberías para agua](https://ememsa.com/wp-content/uploads/2024/01/Catalogo-Rifeng.pdf).\n\nSi necesitas asesoría técnica, aquí tienes el enlace para contactar a nuestro especialista: [Asesoría técnica](https://wa.me/+51914173592?text=Buen%20dia%20requiero%20info). \n\n¿Hay algo más en lo que pueda asistirte?\nuser: 00102102080 TUERCA EXAGONAL",
+    "userNumber": "51952197499",
+    "userName": "Lichaa",
+    "botResponse": "Para la tuerca hexagonal que mencionas, te sugiero visitar nuestra tienda en línea donde podrás encontrar diferentes medidas y precios. Aquí tienes el enlace: [Accesorios automotriz y artículos ferreteros](https://ememsa.com/wp-content/uploads/2024/08/CATALOGO-FASTENERS_0824.pdf).\n\nSi requieres asesoría técnica específica, puedes contactar a nuestro especialista aquí: [Asesoría técnica](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar).\n\n¿Puedo ayudarte con algo más?"
+  },
+  {
+    "id": "1ba03931-dd7b-4266-a646-ca1ecf96c7db",
+    "timestamp": "2024-11-27T21:26:44.775Z",
+    "userMessage": "user: buenas tardes\nassistant: ¡Buenas tardes, Lichaa! ¿En qué puedo ayudarte hoy?\nuser: por favor necesito cotize\nassistant: Claro, Lichaa. Para poder ayudarte mejor, ¿podrías especificar qué tipo de producto o servicio necesitas cotizar?\nuser: 00110015128codo  12   NPT 1/2\nassistant: Entiendo que necesitas un codo NPT de 1/2\". Te recomiendo que revises nuestra tienda en línea para ver la disponibilidad y precios. Puedes encontrar más información aquí: [Tuberías para agua](https://ememsa.com/wp-content/uploads/2024/01/Catalogo-Rifeng.pdf).\n\nSi necesitas asesoría técnica, aquí tienes el enlace para contactar a nuestro especialista: [Asesoría técnica](https://wa.me/+51914173592?text=Buen%20dia%20requiero%20info). \n\n¿Hay algo más en lo que pueda asistirte?\nuser: 00102102080 TUERCA EXAGONAL\nassistant: Para la tuerca hexagonal que mencionas, te sugiero visitar nuestra tienda en línea donde podrás encontrar diferentes medidas y precios. Aquí tienes el enlace: [Accesorios automotriz y artículos ferreteros](https://ememsa.com/wp-content/uploads/2024/08/CATALOGO-FASTENERS_0824.pdf).\n\nSi requieres asesoría técnica específica, puedes contactar a nuestro especialista aquí: [Asesoría técnica](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar).\n\n¿Puedo ayudarte con algo más?\nuser: 00102103120",
+    "userNumber": "51952197499",
+    "userName": "Lichaa",
+    "botResponse": "Parece que estás buscando un producto específico, pero no has mencionado de qué se trata. Por favor, ¿podrías darme más detalles sobre el tipo de producto o servicio que necesitas? Esto me ayudará a asistirte mejor."
+  },
+  {
+    "id": "3c9bef2c-176b-4989-b39a-42b0661e4e20",
+    "timestamp": "2024-11-27T21:27:36.851Z",
+    "userMessage": "assistant: ¡Buenas tardes, Lichaa! ¿En qué puedo ayudarte hoy?\nuser: por favor necesito cotize\nassistant: Claro, Lichaa. Para poder ayudarte mejor, ¿podrías especificar qué tipo de producto o servicio necesitas cotizar?\nuser: 00110015128codo  12   NPT 1/2\nassistant: Entiendo que necesitas un codo NPT de 1/2\". Te recomiendo que revises nuestra tienda en línea para ver la disponibilidad y precios. Puedes encontrar más información aquí: [Tuberías para agua](https://ememsa.com/wp-content/uploads/2024/01/Catalogo-Rifeng.pdf).\n\nSi necesitas asesoría técnica, aquí tienes el enlace para contactar a nuestro especialista: [Asesoría técnica](https://wa.me/+51914173592?text=Buen%20dia%20requiero%20info). \n\n¿Hay algo más en lo que pueda asistirte?\nuser: 00102102080 TUERCA EXAGONAL\nassistant: Para la tuerca hexagonal que mencionas, te sugiero visitar nuestra tienda en línea donde podrás encontrar diferentes medidas y precios. Aquí tienes el enlace: [Accesorios automotriz y artículos ferreteros](https://ememsa.com/wp-content/uploads/2024/08/CATALOGO-FASTENERS_0824.pdf).\n\nSi requieres asesoría técnica específica, puedes contactar a nuestro especialista aquí: [Asesoría técnica](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar).\n\n¿Puedo ayudarte con algo más?\nuser: 00102103120\nassistant: Parece que estás buscando un producto específico, pero no has mencionado de qué se trata. Por favor, ¿podrías darme más detalles sobre el tipo de producto o servicio que necesitas? Esto me ayudará a asistirte mejor.\nuser: 00102103120 TUERCA EXAGONAL  12",
+    "userNumber": "51952197499",
+    "userName": "Lichaa",
+    "botResponse": "Gracias por la aclaración. Para la tuerca hexagonal de 12 que mencionas, te recomiendo revisar nuestra tienda en línea, donde podrás encontrar diferentes medidas y precios. Aquí tienes el enlace: [Accesorios automotriz y artículos ferreteros](https://ememsa.com/wp-content/uploads/2024/08/CATALOGO-FASTENERS_0824.pdf).\n\nSi necesitas asesoría técnica o una cotización específica, puedes contactar a nuestro especialista aquí: [Asesoría técnica](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar).\n\n¿Hay algo más en lo que pueda ayudarte?"
+  },
+  {
+    "id": "1b99a8cf-28d9-43a8-bad5-8e6dbe09b512",
+    "timestamp": "2024-11-27T21:46:30.291Z",
+    "userMessage": "user: Buenas tardes",
+    "userNumber": "51994173755",
+    "userName": "~Zarai Jeronimo~✨",
+    "botResponse": "¡Buenas tardes, Zarai Jeronimo! ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "86c73d46-d2ed-4379-9838-8514d1f782a6",
+    "timestamp": "2024-11-27T21:46:34.541Z",
+    "userMessage": "user: Buenas tardes\nassistant: ¡Buenas tardes, Zarai Jeronimo! ¿En qué puedo ayudarte hoy?\nuser: Me puedes cotizar estos producto",
+    "userNumber": "51994173755",
+    "userName": "~Zarai Jeronimo~✨",
+    "botResponse": "Claro, estaré encantado de ayudarte. Por favor, indícame qué productos deseas cotizar para poder asistirte de la mejor manera."
+  },
+  {
+    "id": "da81cb11-de4a-404d-9960-e3456bf7177a",
+    "timestamp": "2024-11-27T21:46:51.430Z",
+    "userMessage": "user: Buenas tardes\nassistant: ¡Buenas tardes, Zarai Jeronimo! ¿En qué puedo ayudarte hoy?\nuser: Me puedes cotizar estos producto\nassistant: Claro, estaré encantado de ayudarte. Por favor, indícame qué productos deseas cotizar para poder asistirte de la mejor manera.\nuser: _event_media_",
+    "userNumber": "51994173755",
+    "userName": "~Zarai Jeronimo~✨",
+    "botResponse": "Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Por favor, indícame los productos que deseas cotizar y con gusto te ayudaré."
+  },
+  {
+    "id": "1537936a-09d4-4c9c-9905-d1bda78ddf95",
+    "timestamp": "2024-11-27T21:47:19.108Z",
+    "userMessage": "user: Buenas tardes\nassistant: ¡Buenas tardes, Zarai Jeronimo! ¿En qué puedo ayudarte hoy?\nuser: Me puedes cotizar estos producto\nassistant: Claro, estaré encantado de ayudarte. Por favor, indícame qué productos deseas cotizar para poder asistirte de la mejor manera.\nuser: _event_media_\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Por favor, indícame los productos que deseas cotizar y con gusto te ayudaré.\nuser: ACOPLE RAPIDO 3/8\" - 5 und",
+    "userNumber": "51994173755",
+    "userName": "~Zarai Jeronimo~✨",
+    "botResponse": "Los acoples rápidos de 3/8\" están disponibles en nuestra línea de accesorios automotrices y artículos ferreteros. Para obtener más detalles sobre precios y disponibilidad, te recomendaría visitar nuestra tienda en línea: [Tienda Ememsa](https://tienda.ememsa.com).\n\nAdemás, si necesitas asesoría técnica específica, puedes contactar a nuestro especialista aquí: [Asesor Técnico](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar). \n\n¿Te gustaría recibir el catálogo de productos relacionados?"
   }
 ]
