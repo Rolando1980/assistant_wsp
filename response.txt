@@ -9734,5 +9734,373 @@
     "userNumber": "51994173755",
     "userName": "~Zarai Jeronimo~✨",
     "botResponse": "Los acoples rápidos de 3/8\" están disponibles en nuestra línea de accesorios automotrices y artículos ferreteros. Para obtener más detalles sobre precios y disponibilidad, te recomendaría visitar nuestra tienda en línea: [Tienda Ememsa](https://tienda.ememsa.com).\n\nAdemás, si necesitas asesoría técnica específica, puedes contactar a nuestro especialista aquí: [Asesor Técnico](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar). \n\n¿Te gustaría recibir el catálogo de productos relacionados?"
+  },
+  {
+    "id": "9022326a-c603-41b2-b3df-a01ce2632771",
+    "timestamp": "2024-11-28T14:14:50.620Z",
+    "userMessage": "user: Buenos dias",
+    "userNumber": "51941828770",
+    "userName": "Thalía Pasache",
+    "botResponse": "¡Buenos días, Thalía! ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "d7e2421f-5ea4-4ca6-ab0a-6bf340b3385f",
+    "timestamp": "2024-11-28T14:14:55.394Z",
+    "userMessage": "user: Buenos dias\nassistant: ¡Buenos días, Thalía! ¿En qué puedo ayudarte hoy?\nuser: me podrias cotizar lo siguiente",
+    "userNumber": "51941828770",
+    "userName": "Thalía Pasache",
+    "botResponse": "Soy un bot diseñado exclusivamente para responder mensajes de texto. Por favor, indícame qué productos o servicios necesitas cotizar y con gusto te ayudaré."
+  },
+  {
+    "id": "c2d3a2c1-53a6-48fe-81af-7e08aa9e55b5",
+    "timestamp": "2024-11-28T14:14:57.021Z",
+    "userMessage": "user: Buenos dias\nassistant: ¡Buenos días, Thalía! ¿En qué puedo ayudarte hoy?\nuser: me podrias cotizar lo siguiente\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. Por favor, indícame qué productos o servicios necesitas cotizar y con gusto te ayudaré.\nuser: _event_media_",
+    "userNumber": "51941828770",
+    "userName": "Thalía Pasache",
+    "botResponse": "Lamento informarte que no puedo procesar imágenes ni otros formatos. Por favor, indícame los productos o servicios que deseas cotizar mediante texto, y estaré encantado de ayudarte."
+  },
+  {
+    "id": "5a5f7ab5-adc8-444f-a844-8228620ab48a",
+    "timestamp": "2024-11-28T14:16:39.011Z",
+    "userMessage": "user: Buenos dias\nassistant: ¡Buenos días, Thalía! ¿En qué puedo ayudarte hoy?\nuser: me podrias cotizar lo siguiente\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. Por favor, indícame qué productos o servicios necesitas cotizar y con gusto te ayudaré.\nuser: _event_media_\nassistant: Lamento informarte que no puedo procesar imágenes ni otros formatos. Por favor, indícame los productos o servicios que deseas cotizar mediante texto, y estaré encantado de ayudarte.\nuser: * GRASERA RECTA DE 180° ROSCA DE 1/4\"     - 30 UND \n* GRASERA CODO DE 135° ROSCA DE 1/4\"     - 30 UND \n* GRASERA CODO DE 90° ROSCA DE 1/4\"       - 30 UND",
+    "userNumber": "51941828770",
+    "userName": "Thalía Pasache",
+    "botResponse": "Puedes encontrar nuestras graseras rectas y codos en distintas medidas y precios en nuestra tienda en línea: [Graseras Ememsa](https://tienda.ememsa.com/graseras?_q=graseras&map=ft&page=2).\n\nSi necesitas asesoría técnica, puedes contactar a nuestro especialista aquí: [Asesoría Técnica](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar).\n\n¿Te gustaría recibir el catálogo de productos o más información sobre otro tema?"
+  },
+  {
+    "id": "dec47b48-3d49-4e3b-857b-61d8d38b534c",
+    "timestamp": "2024-11-28T14:16:56.668Z",
+    "userMessage": "user: Buenos dias\nassistant: ¡Buenos días, Thalía! ¿En qué puedo ayudarte hoy?\nuser: me podrias cotizar lo siguiente\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. Por favor, indícame qué productos o servicios necesitas cotizar y con gusto te ayudaré.\nuser: _event_media_\nassistant: Lamento informarte que no puedo procesar imágenes ni otros formatos. Por favor, indícame los productos o servicios que deseas cotizar mediante texto, y estaré encantado de ayudarte.\nuser: * GRASERA RECTA DE 180° ROSCA DE 1/4\"     - 30 UND \n* GRASERA CODO DE 135° ROSCA DE 1/4\"     - 30 UND \n* GRASERA CODO DE 90° ROSCA DE 1/4\"       - 30 UND\nassistant: Puedes encontrar nuestras graseras rectas y codos en distintas medidas y precios en nuestra tienda en línea: [Graseras Ememsa](https://tienda.ememsa.com/graseras?_q=graseras&map=ft&page=2).\n\nSi necesitas asesoría técnica, puedes contactar a nuestro especialista aquí: [Asesoría Técnica](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar).\n\n¿Te gustaría recibir el catálogo de productos o más información sobre otro tema?\nuser: si",
+    "userNumber": "51941828770",
+    "userName": "Thalía Pasache",
+    "botResponse": "Aquí tienes el catálogo de graseras y abrazaderas: [Catálogo de Graseras y Abrazaderas](https://ememsa.com/wp-content/uploads/2024/08/CATALOGO-FASTENERS_0824.pdf).\n\nSi necesitas más información o ayuda con otro producto, no dudes en decírmelo. ¡Estoy aquí para ayudarte!"
+  },
+  {
+    "id": "36c24593-574c-4e87-845d-0c7fbb443c96",
+    "timestamp": "2024-11-28T14:32:17.149Z",
+    "userMessage": "user: Buenas días",
+    "userNumber": "51987912764",
+    "userName": "JJ",
+    "botResponse": "¡Buenos días, JJ! ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "6a72c6e6-6be5-4b32-b3ef-57f9d7ae9125",
+    "timestamp": "2024-11-28T14:38:20.892Z",
+    "userMessage": "user: Buenas días\nassistant: ¡Buenos días, JJ! ¿En qué puedo ayudarte hoy?\nuser: Cómo me puedo contactar con sshh para solicitar mis boletas de pago ya que soy una ex trabajadora de la Empresa Emensa",
+    "userNumber": "51987912764",
+    "userName": "JJ",
+    "botResponse": "Para solicitar tus boletas de pago como ex trabajadora de Ememsa, te recomiendo que contactes al área de Facturación al número 998130792. Ellos podrán asistirte con tu solicitud. Si necesitas algo más, no dudes en decírmelo."
+  },
+  {
+    "id": "1485baac-d694-42db-8a8a-6e1ce5103c39",
+    "timestamp": "2024-11-28T14:38:57.141Z",
+    "userMessage": "user: Buenas días\nassistant: ¡Buenos días, JJ! ¿En qué puedo ayudarte hoy?\nuser: Cómo me puedo contactar con sshh para solicitar mis boletas de pago ya que soy una ex trabajadora de la Empresa Emensa\nuser: O un teléfono para consultar gracias",
+    "userNumber": "51987912764",
+    "userName": "JJ",
+    "botResponse": "Para consultas sobre facturación y boletas de pago, puedes contactar al número 998130792. Ellos podrán asistirte con tu solicitud. Si necesitas más ayuda, no dudes en preguntar. ¡Gracias!"
+  },
+  {
+    "id": "9c05efbd-120e-4c6c-81db-a95f4648ffd0",
+    "timestamp": "2024-11-28T14:40:38.093Z",
+    "userMessage": "user: Buenas días\nassistant: ¡Buenos días, JJ! ¿En qué puedo ayudarte hoy?\nuser: Cómo me puedo contactar con sshh para solicitar mis boletas de pago ya que soy una ex trabajadora de la Empresa Emensa\nuser: O un teléfono para consultar gracias\nassistant: Para solicitar tus boletas de pago como ex trabajadora de Ememsa, te recomiendo que contactes al área de Facturación al número 998130792. Ellos podrán asistirte con tu solicitud. Si necesitas algo más, no dudes en decírmelo.\nassistant: Para consultas sobre facturación y boletas de pago, puedes contactar al número 998130792. Ellos podrán asistirte con tu solicitud. Si necesitas más ayuda, no dudes en preguntar. ¡Gracias!\nuser: No muchísimas gracias",
+    "userNumber": "51987912764",
+    "userName": "JJ",
+    "botResponse": "¡De nada! Agradezco tu interés en Ememsa. Si necesitas más ayuda en el futuro, no dudes en contactarme. ¡Que tengas un excelente día!"
+  },
+  {
+    "id": "401e9bc3-c4c5-40d8-85b5-36f9c313c649",
+    "timestamp": "2024-11-28T14:42:56.285Z",
+    "userMessage": "user: Buenas días\nassistant: ¡Buenos días, JJ! ¿En qué puedo ayudarte hoy?\nuser: Cómo me puedo contactar con sshh para solicitar mis boletas de pago ya que soy una ex trabajadora de la Empresa Emensa\nuser: O un teléfono para consultar gracias\nassistant: Para solicitar tus boletas de pago como ex trabajadora de Ememsa, te recomiendo que contactes al área de Facturación al número 998130792. Ellos podrán asistirte con tu solicitud. Si necesitas algo más, no dudes en decírmelo.\nassistant: Para consultas sobre facturación y boletas de pago, puedes contactar al número 998130792. Ellos podrán asistirte con tu solicitud. Si necesitas más ayuda, no dudes en preguntar. ¡Gracias!\nuser: No muchísimas gracias\nassistant: ¡De nada! Agradezco tu interés en Ememsa. Si necesitas más ayuda en el futuro, no dudes en contactarme. ¡Que tengas un excelente día!\nuser: Gracias",
+    "userNumber": "51987912764",
+    "userName": "JJ",
+    "botResponse": "¡A ti! Si necesitas algo más, aquí estaré. ¡Que tengas un gran día!"
+  },
+  {
+    "id": "43eb2cc5-5cf3-4670-ac8e-1c28840019fe",
+    "timestamp": "2024-11-28T14:52:47.688Z",
+    "userMessage": "assistant: ¡Buenos días, JJ! ¿En qué puedo ayudarte hoy?\nuser: Cómo me puedo contactar con sshh para solicitar mis boletas de pago ya que soy una ex trabajadora de la Empresa Emensa\nuser: O un teléfono para consultar gracias\nassistant: Para solicitar tus boletas de pago como ex trabajadora de Ememsa, te recomiendo que contactes al área de Facturación al número 998130792. Ellos podrán asistirte con tu solicitud. Si necesitas algo más, no dudes en decírmelo.\nassistant: Para consultas sobre facturación y boletas de pago, puedes contactar al número 998130792. Ellos podrán asistirte con tu solicitud. Si necesitas más ayuda, no dudes en preguntar. ¡Gracias!\nuser: No muchísimas gracias\nassistant: ¡De nada! Agradezco tu interés en Ememsa. Si necesitas más ayuda en el futuro, no dudes en contactarme. ¡Que tengas un excelente día!\nuser: Gracias\nassistant: ¡A ti! Si necesitas algo más, aquí estaré. ¡Que tengas un gran día!\nuser: Buenos días disculpe me podrías brindar el teléfono de SS HH",
+    "userNumber": "51987912764",
+    "userName": "JJ",
+    "botResponse": "Para consultas relacionadas con Recursos Humanos (SS HH), puedes contactar al número 963127831. Si necesitas más información, no dudes en preguntar. ¡Estoy aquí para ayudarte!"
+  },
+  {
+    "id": "c9723278-91c7-4af1-ba57-0bcaf0dd5b61",
+    "timestamp": "2024-11-28T14:56:13.027Z",
+    "userMessage": "user: undefined",
+    "userNumber": "51927520456",
+    "userName": "leonelbayonarecines1",
+    "botResponse": "¡Hola, Leonel! Es un placer saludarte. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "f611c2d1-b1f5-4ca0-9b2c-77eefb252cfc",
+    "timestamp": "2024-11-28T14:58:13.111Z",
+    "userMessage": "user: undefined\nassistant: ¡Hola, Leonel! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nuser: Necesito  una manguera hidráulica",
+    "userNumber": "51927520456",
+    "userName": "leonelbayonarecines1",
+    "botResponse": "Contamos con una amplia gama de accesorios automotrices, incluidas mangueras hidráulicas. Puedes explorar nuestras opciones en la tienda en línea. \n\nAquí tienes el enlace para que puedas ver el catálogo: [Mangueras industriales](https://ememsa.com/wp-content/uploads/2024/08/CATALOGO-MANGUERAS-CONEXIONES-Y-EQUIPOS-HIDRAULICOS_0824.pdf).\n\nSi necesitas asesoría técnica, no dudes en contactarnos a través de este enlace: [Contacto técnico](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar). \n\n¿Hay algo más en lo que pueda asistirte?"
+  },
+  {
+    "id": "e0a83bda-dcf3-46c1-80df-9e5bec992933",
+    "timestamp": "2024-11-28T14:58:23.626Z",
+    "userMessage": "user: undefined\nassistant: ¡Hola, Leonel! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nuser: Necesito  una manguera hidráulica\nuser: De 4 pulgadas y media  de diámetro",
+    "userNumber": "51927520456",
+    "userName": "leonelbayonarecines1",
+    "botResponse": "Las mangueras hidráulicas que ofrecemos están disponibles en varias medidas y especificaciones. Te recomiendo visitar nuestra tienda en línea para explorar las opciones disponibles. \n\nAquí tienes el enlace: [Mangueras Hidráulicas](https://ememsa.com/wp-content/uploads/2024/08/CATALOGO-MANGUERAS-CONEXIONES-Y-EQUIPOS-HIDRAULICOS_0824.pdf).\n\nSi necesitas asesoría técnica, no dudes en contactarnos a través de este enlace: [Contacto Técnico](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar). \n\n¿Hay algo más en lo que pueda asistirte?"
+  },
+  {
+    "id": "ada8e047-b25f-49f1-8e82-d95fbe2e087c",
+    "timestamp": "2024-11-28T15:00:36.235Z",
+    "userMessage": "user: undefined\nassistant: ¡Hola, Leonel! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nuser: Necesito  una manguera hidráulica\nuser: De 4 pulgadas y media  de diámetro\nuser: _event_media_\nassistant: Contamos con una amplia gama de accesorios automotrices, incluidas mangueras hidráulicas. Puedes explorar nuestras opciones en la tienda en línea. \n\nAquí tienes el enlace para que puedas ver el catálogo: [Mangueras industriales](https://ememsa.com/wp-content/uploads/2024/08/CATALOGO-MANGUERAS-CONEXIONES-Y-EQUIPOS-HIDRAULICOS_0824.pdf).\n\nSi necesitas asesoría técnica, no dudes en contactarnos a través de este enlace: [Contacto técnico](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar). \n\n¿Hay algo más en lo que pueda asistirte?\nassistant: Las mangueras hidráulicas que ofrecemos están disponibles en varias medidas y especificaciones. Te recomiendo visitar nuestra tienda en línea para explorar las opciones disponibles. \n\nAquí tienes el enlace: [Mangueras Hidráulicas](https://ememsa.com/wp-content/uploads/2024/08/CATALOGO-MANGUERAS-CONEXIONES-Y-EQUIPOS-HIDRAULICOS_0824.pdf).\n\nSi necesitas asesoría técnica, no dudes en contactarnos a través de este enlace: [Contacto Técnico](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar). \n\n¿Hay algo más en lo que pueda asistirte?\nuser: Quiero sabes si tiene o no la medida",
+    "userNumber": "51927520456",
+    "userName": "leonelbayonarecines1",
+    "botResponse": "Lamentablemente, no tengo acceso a información en tiempo real sobre el inventario. Te recomiendo que consultes directamente en nuestra tienda en línea para verificar la disponibilidad de mangueras hidráulicas de 4 pulgadas y media. \n\nAquí tienes el enlace para que puedas revisarlo: [Mangueras Hidráulicas](https://ememsa.com/wp-content/uploads/2024/08/CATALOGO-MANGUERAS-CONEXIONES-Y-EQUIPOS-HIDRAULICOS_0824.pdf).\n\nSi necesitas más asistencia, puedes contactar a nuestro técnico especializado aquí: [Contacto Técnico](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar). \n\n¿Puedo ayudarte"
+  },
+  {
+    "id": "b80c6915-fdd2-473f-83a8-513ef9905f5c",
+    "timestamp": "2024-11-28T15:24:41.102Z",
+    "userMessage": "user: Hola buenos días",
+    "userNumber": "51994841046",
+    "userName": "Mariana Rosales - A3DTEC",
+    "botResponse": "¡Hola, Mariana! Buenos días. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "d90b0a88-864d-48fd-bda1-a1f7cc46400f",
+    "timestamp": "2024-11-28T15:32:56.889Z",
+    "userMessage": "user: Hola buenos días\nassistant: ¡Hola, Mariana! Buenos días. ¿En qué puedo ayudarte hoy?\nuser: Soy Mariana Rosales de A3DTEC. Ofrecemos soluciones de Metrología Industrial 3D. Soluciones de Escane3D.",
+    "userNumber": "51994841046",
+    "userName": "Mariana Rosales - A3DTEC",
+    "botResponse": "Gracias por compartir información sobre A3DTEC, Mariana. En Ememsa, ofrecemos una variedad de productos y servicios industriales. ¿Hay algo específico que estés buscando o en lo que pueda asistirte?"
+  },
+  {
+    "id": "3c2419be-ec55-4645-8874-56f6b3a663df",
+    "timestamp": "2024-11-28T15:33:06.430Z",
+    "userMessage": "user: Hola buenos días\nassistant: ¡Hola, Mariana! Buenos días. ¿En qué puedo ayudarte hoy?\nuser: Soy Mariana Rosales de A3DTEC. Ofrecemos soluciones de Metrología Industrial 3D. Soluciones de Escane3D.\nassistant: Gracias por compartir información sobre A3DTEC, Mariana. En Ememsa, ofrecemos una variedad de productos y servicios industriales. ¿Hay algo específico que estés buscando o en lo que pueda asistirte?\nuser: Queremos ser sus proveedores, que debemos hacer?",
+    "userNumber": "51994841046",
+    "userName": "Mariana Rosales - A3DTEC",
+    "botResponse": "Para convertirte en proveedor de Ememsa, te recomiendo contactar directamente al departamento de Compras o Logística. Puedes hacerlo llamando al 980292435. Ellos te guiarán sobre el proceso y los requisitos necesarios. ¡Gracias por tu interés en colaborar con nosotros!"
+  },
+  {
+    "id": "43f452cc-f6d3-48cc-8d5f-fbfe58ef8207",
+    "timestamp": "2024-11-28T15:33:35.278Z",
+    "userMessage": "user: Hola buenos días\nassistant: ¡Hola, Mariana! Buenos días. ¿En qué puedo ayudarte hoy?\nuser: Soy Mariana Rosales de A3DTEC. Ofrecemos soluciones de Metrología Industrial 3D. Soluciones de Escane3D.\nassistant: Gracias por compartir información sobre A3DTEC, Mariana. En Ememsa, ofrecemos una variedad de productos y servicios industriales. ¿Hay algo específico que estés buscando o en lo que pueda asistirte?\nuser: Queremos ser sus proveedores, que debemos hacer?\nassistant: Para convertirte en proveedor de Ememsa, te recomiendo contactar directamente al departamento de Compras o Logística. Puedes hacerlo llamando al 980292435. Ellos te guiarán sobre el proceso y los requisitos necesarios. ¡Gracias por tu interés en colaborar con nosotros!\nuser: Muchas gracias!",
+    "userNumber": "51994841046",
+    "userName": "Mariana Rosales - A3DTEC",
+    "botResponse": "¡De nada, Mariana! Si tienes más preguntas o necesitas asistencia adicional, no dudes en contactarme. ¡Que tengas un excelente día!"
+  },
+  {
+    "id": "7c6b82a5-2e40-499a-8807-eea8fb8bf988",
+    "timestamp": "2024-11-28T15:40:21.521Z",
+    "userMessage": "user: Buen dia",
+    "userNumber": "51931081889",
+    "userName": "María Alejandra",
+    "botResponse": "¡Buen día, María Alejandra! ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "4c6aa71c-6274-482b-a53e-676ee8a0b4f9",
+    "timestamp": "2024-11-28T15:41:03.283Z",
+    "userMessage": "user: Buen dia\nassistant: ¡Buen día, María Alejandra! ¿En qué puedo ayudarte hoy?\nuser: Para hacer envio de paquete a Lima",
+    "userNumber": "51931081889",
+    "userName": "María Alejandra",
+    "botResponse": "Lamentablemente, no contamos con una tienda abierta al público. Sin embargo, realizamos despachos al punto de entrega que indiques en Lima. Si necesitas información sobre nuestros productos o servicios, estaré encantado de ayudarte. ¿Qué tipo de productos estás buscando?"
+  },
+  {
+    "id": "e57d415e-a766-4b28-abee-a1b44380b56c",
+    "timestamp": "2024-11-28T16:24:46.266Z",
+    "userMessage": "user: undefined",
+    "userNumber": "51940774600",
+    "userName": "Corporación Marines",
+    "botResponse": "¡Hola! Bienvenido a Ememsa. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "94e537ca-6187-4c5e-92fe-89a87a10c53c",
+    "timestamp": "2024-11-28T16:27:16.811Z",
+    "userMessage": "user: undefined\nassistant: ¡Hola! Bienvenido a Ememsa. ¿En qué puedo ayudarte hoy?\nuser: vende niples?",
+    "userNumber": "51940774600",
+    "userName": "Corporación Marines",
+    "botResponse": "Sí, ofrecemos niples en nuestra línea de accesorios automotrices y artículos ferreteros. Puedes encontrar más información sobre nuestros niples en el siguiente catálogo: [Niples ferreteros](https://ememsa.com/wp-content/uploads/2024/08/CATALOGO-NIPLERIA-UNIVERSAL_0824.pdf) y [Niples automotrices](https://ememsa.com/wp-content/uploads/2024/08/CATALOGO-NIPLERIA-AUTOMOTRIZ_0824.pdf).\n\nSi necesitas asesoría técnica, aquí tienes el enlace para contactar a nuestro especialista: [Contacto Técnico](https://wa.me/+51949688368?text=Buen%20dia%20quiero%"
+  },
+  {
+    "id": "61f3ef26-b46d-499c-84e3-9ed64b4a9648",
+    "timestamp": "2024-11-28T16:27:58.729Z",
+    "userMessage": "user: undefined\nassistant: ¡Hola! Bienvenido a Ememsa. ¿En qué puedo ayudarte hoy?\nuser: vende niples?\nuser: _event_media_",
+    "userNumber": "51940774600",
+    "userName": "Corporación Marines",
+    "botResponse": "Lamentablemente, soy un bot diseñado exclusivamente para responder mensajes de texto. En cuanto a tu consulta, sí, contamos con niples en nuestra línea de accesorios automotrices y artículos ferreteros. \n\nPuedes encontrar nuestros niples en distintas medidas y precios en nuestra tienda en línea: https://ememsa.com/wp-content/uploads/2024/08/CATALOGO-NIPLERIA-UNIVERSAL_0824.pdf.\n\nSi necesitas más información o asesoría técnica, puedo proporcionarte el enlace de contacto con nuestro especialista. ¿Te gustaría eso?"
+  },
+  {
+    "id": "3b446496-4cee-48cb-b460-63e5b784e402",
+    "timestamp": "2024-11-28T16:31:00.611Z",
+    "userMessage": "user: undefined\nassistant: ¡Hola! Bienvenido a Ememsa. ¿En qué puedo ayudarte hoy?\nuser: vende niples?\nuser: _event_media_\nassistant: Sí, ofrecemos niples en nuestra línea de accesorios automotrices y artículos ferreteros. Puedes encontrar más información sobre nuestros niples en el siguiente catálogo: [Niples ferreteros](https://ememsa.com/wp-content/uploads/2024/08/CATALOGO-NIPLERIA-UNIVERSAL_0824.pdf) y [Niples automotrices](https://ememsa.com/wp-content/uploads/2024/08/CATALOGO-NIPLERIA-AUTOMOTRIZ_0824.pdf).\n\nSi necesitas asesoría técnica, aquí tienes el enlace para contactar a nuestro especialista: [Contacto Técnico](https://wa.me/+51949688368?text=Buen%20dia%20quiero%\nassistant: Lamentablemente, soy un bot diseñado exclusivamente para responder mensajes de texto. En cuanto a tu consulta, sí, contamos con niples en nuestra línea de accesorios automotrices y artículos ferreteros. \n\nPuedes encontrar nuestros niples en distintas medidas y precios en nuestra tienda en línea: https://ememsa.com/wp-content/uploads/2024/08/CATALOGO-NIPLERIA-UNIVERSAL_0824.pdf.\n\nSi necesitas más información o asesoría técnica, puedo proporcionarte el enlace de contacto con nuestro especialista. ¿Te gustaría eso?\nuser: si",
+    "userNumber": "51940774600",
+    "userName": "Corporación Marines",
+    "botResponse": "Perfecto. Puedes contactar a nuestro técnico especializado en accesorios automotrices y artículos ferreteros a través del siguiente enlace: [Contacto Técnico](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar).\n\nSi necesitas algo más, no dudes en decírmelo. ¡Estoy aquí para ayudar!"
+  },
+  {
+    "id": "2b9ff2de-8fc9-4e97-86e2-edefc264a1b5",
+    "timestamp": "2024-11-28T17:28:33.498Z",
+    "userMessage": "user: undefined\nuser: Hola buenas tardes",
+    "userNumber": "51910157996",
+    "userName": "",
+    "botResponse": "¡Buenas tardes! ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "951a86ca-2a8f-472b-8916-4e07373c629b",
+    "timestamp": "2024-11-28T17:45:01.074Z",
+    "userMessage": "user: _event_voice_note_",
+    "userNumber": "51963329207",
+    "userName": "Kevin Medina L.",
+    "botResponse": "¡Hola, Kevin! ¿Cómo puedo ayudarte hoy?"
+  },
+  {
+    "id": "f60e8410-4be5-4901-a9b1-a351c4b9471b",
+    "timestamp": "2024-11-28T17:45:03.364Z",
+    "userMessage": "user: _event_voice_note_\nassistant: ¡Hola, Kevin! ¿Cómo puedo ayudarte hoy?\nuser: ",
+    "userNumber": "51963329207",
+    "userName": "Kevin Medina L.",
+    "botResponse": "Parece que no has enviado un mensaje de texto. Estoy aquí para ayudarte con cualquier consulta que tengas sobre nuestros productos o servicios. ¿En qué puedo asistirte?"
+  },
+  {
+    "id": "bed009a3-53f9-4b6c-ab63-788177e2a3e1",
+    "timestamp": "2024-11-28T17:45:03.502Z",
+    "userMessage": "user: _event_voice_note_\nassistant: ¡Hola, Kevin! ¿Cómo puedo ayudarte hoy?\nuser: \nuser: _event_media_",
+    "userNumber": "51963329207",
+    "userName": "Kevin Medina L.",
+    "botResponse": "Soy un bot diseñado exclusivamente para responder mensajes de texto. Por favor, escribe tu consulta y estaré encantado de ayudarte."
+  },
+  {
+    "id": "c00916b4-cc21-4b01-baf7-260b9323c0a7",
+    "timestamp": "2024-11-28T17:45:17.222Z",
+    "userMessage": "user: _event_voice_note_\nassistant: ¡Hola, Kevin! ¿Cómo puedo ayudarte hoy?\nuser: \nuser: _event_media_\nassistant: Parece que no has enviado un mensaje de texto. Estoy aquí para ayudarte con cualquier consulta que tengas sobre nuestros productos o servicios. ¿En qué puedo asistirte?\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. Por favor, escribe tu consulta y estaré encantado de ayudarte.\nuser: _event_media_",
+    "userNumber": "51963329207",
+    "userName": "Kevin Medina L.",
+    "botResponse": "Parece que no has enviado un mensaje de texto. Estoy aquí para ayudarte con cualquier consulta que tengas sobre nuestros productos o servicios. Por favor, escribe tu pregunta y estaré encantado de asistirte."
+  },
+  {
+    "id": "2408972c-9a2c-4f27-84be-e67ee06cdd05",
+    "timestamp": "2024-11-28T17:45:19.490Z",
+    "userMessage": "user: _event_voice_note_\nassistant: ¡Hola, Kevin! ¿Cómo puedo ayudarte hoy?\nuser: \nuser: _event_media_\nassistant: Parece que no has enviado un mensaje de texto. Estoy aquí para ayudarte con cualquier consulta que tengas sobre nuestros productos o servicios. ¿En qué puedo asistirte?\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. Por favor, escribe tu consulta y estaré encantado de ayudarte.\nuser: _event_media_\nassistant: Parece que no has enviado un mensaje de texto. Estoy aquí para ayudarte con cualquier consulta que tengas sobre nuestros productos o servicios. Por favor, escribe tu pregunta y estaré encantado de asistirte.\nuser: ",
+    "userNumber": "51963329207",
+    "userName": "Kevin Medina L.",
+    "botResponse": "Estoy aquí para ayudarte. Si tienes alguna consulta sobre nuestros productos o servicios, por favor escríbela y con gusto te asistiré."
+  },
+  {
+    "id": "211ed489-b921-4dd9-9105-6088db5b5add",
+    "timestamp": "2024-11-28T17:45:23.514Z",
+    "userMessage": "assistant: ¡Hola, Kevin! ¿Cómo puedo ayudarte hoy?\nuser: \nuser: _event_media_\nassistant: Parece que no has enviado un mensaje de texto. Estoy aquí para ayudarte con cualquier consulta que tengas sobre nuestros productos o servicios. ¿En qué puedo asistirte?\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. Por favor, escribe tu consulta y estaré encantado de ayudarte.\nuser: _event_media_\nassistant: Parece que no has enviado un mensaje de texto. Estoy aquí para ayudarte con cualquier consulta que tengas sobre nuestros productos o servicios. Por favor, escribe tu pregunta y estaré encantado de asistirte.\nuser: \nassistant: Estoy aquí para ayudarte. Si tienes alguna consulta sobre nuestros productos o servicios, por favor escríbela y con gusto te asistiré.\nuser: Tengo un paquetes",
+    "userNumber": "51963329207",
+    "userName": "Kevin Medina L.",
+    "botResponse": "Para poder ayudarte mejor, ¿podrías especificar qué tipo de paquete o producto estás consultando? Estoy aquí para brindarte la información que necesites sobre nuestros productos o servicios."
+  },
+  {
+    "id": "6ae7c5f9-e024-40a4-897a-d549843f445a",
+    "timestamp": "2024-11-28T17:45:26.393Z",
+    "userMessage": "user: \nuser: _event_media_\nassistant: Parece que no has enviado un mensaje de texto. Estoy aquí para ayudarte con cualquier consulta que tengas sobre nuestros productos o servicios. ¿En qué puedo asistirte?\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. Por favor, escribe tu consulta y estaré encantado de ayudarte.\nuser: _event_media_\nassistant: Parece que no has enviado un mensaje de texto. Estoy aquí para ayudarte con cualquier consulta que tengas sobre nuestros productos o servicios. Por favor, escribe tu pregunta y estaré encantado de asistirte.\nuser: \nassistant: Estoy aquí para ayudarte. Si tienes alguna consulta sobre nuestros productos o servicios, por favor escríbela y con gusto te asistiré.\nuser: Tengo un paquetes\nassistant: Para poder ayudarte mejor, ¿podrías especificar qué tipo de paquete o producto estás consultando? Estoy aquí para brindarte la información que necesites sobre nuestros productos o servicios.\nuser: ",
+    "userNumber": "51963329207",
+    "userName": "Kevin Medina L.",
+    "botResponse": "Parece que no has enviado un mensaje. Estoy aquí para ayudarte con cualquier consulta que tengas sobre nuestros productos o servicios. Por favor, escribe tu pregunta y estaré encantado de asistirte."
+  },
+  {
+    "id": "d28341c4-07e8-4ed1-ae5c-5ec7242b3922",
+    "timestamp": "2024-11-28T17:45:27.179Z",
+    "userMessage": "user: _event_media_\nassistant: Parece que no has enviado un mensaje de texto. Estoy aquí para ayudarte con cualquier consulta que tengas sobre nuestros productos o servicios. ¿En qué puedo asistirte?\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. Por favor, escribe tu consulta y estaré encantado de ayudarte.\nuser: _event_media_\nassistant: Parece que no has enviado un mensaje de texto. Estoy aquí para ayudarte con cualquier consulta que tengas sobre nuestros productos o servicios. Por favor, escribe tu pregunta y estaré encantado de asistirte.\nuser: \nassistant: Estoy aquí para ayudarte. Si tienes alguna consulta sobre nuestros productos o servicios, por favor escríbela y con gusto te asistiré.\nuser: Tengo un paquetes\nassistant: Para poder ayudarte mejor, ¿podrías especificar qué tipo de paquete o producto estás consultando? Estoy aquí para brindarte la información que necesites sobre nuestros productos o servicios.\nuser: \nuser: Para recoger",
+    "userNumber": "51963329207",
+    "userName": "Kevin Medina L.",
+    "botResponse": "Lamentablemente, no contamos con una tienda abierta al público para recoger productos. Todos nuestros despachos se realizan al punto de entrega que indiques. Si necesitas información sobre algún producto en específico o realizar un pedido, por favor házmelo saber y estaré encantado de ayudarte."
+  },
+  {
+    "id": "68b7f325-8ef8-4d89-b009-fd9a2178ed8b",
+    "timestamp": "2024-11-28T17:45:29.364Z",
+    "userMessage": "assistant: Parece que no has enviado un mensaje de texto. Estoy aquí para ayudarte con cualquier consulta que tengas sobre nuestros productos o servicios. ¿En qué puedo asistirte?\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. Por favor, escribe tu consulta y estaré encantado de ayudarte.\nuser: _event_media_\nassistant: Parece que no has enviado un mensaje de texto. Estoy aquí para ayudarte con cualquier consulta que tengas sobre nuestros productos o servicios. Por favor, escribe tu pregunta y estaré encantado de asistirte.\nuser: \nassistant: Estoy aquí para ayudarte. Si tienes alguna consulta sobre nuestros productos o servicios, por favor escríbela y con gusto te asistiré.\nuser: Tengo un paquetes\nassistant: Para poder ayudarte mejor, ¿podrías especificar qué tipo de paquete o producto estás consultando? Estoy aquí para brindarte la información que necesites sobre nuestros productos o servicios.\nuser: \nuser: Para recoger\nassistant: Parece que no has enviado un mensaje. Estoy aquí para ayudarte con cualquier consulta que tengas sobre nuestros productos o servicios. Por favor, escribe tu pregunta y estaré encantado de asistirte.\nassistant: Lamentablemente, no contamos con una tienda abierta al público para recoger productos. Todos nuestros despachos se realizan al punto de entrega que indiques. Si necesitas información sobre algún producto en específico o realizar un pedido, por favor házmelo saber y estaré encantado de ayudarte.\nuser: ",
+    "userNumber": "51963329207",
+    "userName": "Kevin Medina L.",
+    "botResponse": "Estoy aquí para ayudarte. Si tienes alguna consulta sobre nuestros productos o servicios, por favor escríbela y con gusto te asistiré."
+  },
+  {
+    "id": "2382ddd4-683e-437b-b3e2-dc27ca3ad158",
+    "timestamp": "2024-11-28T18:20:08.434Z",
+    "userMessage": "user: Hola",
+    "userNumber": "51930248397",
+    "userName": "Erick HG",
+    "botResponse": "¡Hola, Erick! Es un placer saludarte. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "9ad52bf1-2bac-4827-9554-3b19c0b9242b",
+    "timestamp": "2024-11-28T18:20:23.795Z",
+    "userMessage": "user: Hola\nassistant: ¡Hola, Erick! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nuser: _event_media_",
+    "userNumber": "51930248397",
+    "userName": "Erick HG",
+    "botResponse": "Soy un bot diseñado exclusivamente para responder mensajes de texto. Si necesitas ayuda, por favor escríbeme tu consulta y estaré encantado de asistirte."
+  },
+  {
+    "id": "8faf67f0-18d8-4221-b73c-4b77655e301a",
+    "timestamp": "2024-11-28T18:20:41.704Z",
+    "userMessage": "user: Hola\nassistant: ¡Hola, Erick! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nuser: _event_media_\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. Si necesitas ayuda, por favor escríbeme tu consulta y estaré encantado de asistirte.\nuser: Buen día disculpa, tendrás esta cerradura industrial en inox para sala de proceso",
+    "userNumber": "51930248397",
+    "userName": "Erick HG",
+    "botResponse": "En Ememsa ofrecemos llaves metálicas y accesorios, pero no tenemos cerraduras industriales específicas en inox. Te recomiendo que explores nuestra tienda en línea para ver los productos disponibles: https://tienda.ememsa.com. \n\nSi necesitas asesoría técnica, puedo proporcionarte el enlace de contacto correspondiente. ¿Te gustaría más información o asistencia en otro tema?"
+  },
+  {
+    "id": "158ccda7-9e82-456a-9402-6480c3af5c76",
+    "timestamp": "2024-11-28T19:39:04.054Z",
+    "userMessage": "user: Test",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "¡Hola, Rolando Martinez! Es un placer ayudarte. ¿En qué puedo asistirte hoy?"
+  },
+  {
+    "id": "2d7ddf35-5b67-400a-8569-bde484d71340",
+    "timestamp": "2024-11-28T20:00:53.416Z",
+    "userMessage": "user: Buenas tardes",
+    "userNumber": "51955451846",
+    "userName": "Manuel Cornejo InProcess",
+    "botResponse": "¡Buenas tardes, Manuel! ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "8d033d74-d429-45ec-b2c8-58c0ccce8030",
+    "timestamp": "2024-11-28T20:00:57.448Z",
+    "userMessage": "user: Buenas tardes\nassistant: ¡Buenas tardes, Manuel! ¿En qué puedo ayudarte hoy?\nuser: ",
+    "userNumber": "51955451846",
+    "userName": "Manuel Cornejo InProcess",
+    "botResponse": "Soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta o necesitas información sobre nuestros productos o servicios, estaré encantado de ayudarte."
+  },
+  {
+    "id": "9ed7ce3e-9bb6-4f68-b5fe-ef7a9bdeb5bf",
+    "timestamp": "2024-11-28T20:01:04.783Z",
+    "userMessage": "user: Buenas tardes\nassistant: ¡Buenas tardes, Manuel! ¿En qué puedo ayudarte hoy?\nuser: \nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta o necesitas información sobre nuestros productos o servicios, estaré encantado de ayudarte.\nuser: Necesito cotizar un servicio",
+    "userNumber": "51955451846",
+    "userName": "Manuel Cornejo InProcess",
+    "botResponse": "Claro, ¿podrías especificar qué tipo de servicio necesitas cotizar? Ememsa ofrece servicios de maestranza especializada, como fabricación y mantenimiento de maquinaria pesada. Estoy aquí para ayudarte con la información que necesites."
+  },
+  {
+    "id": "d330cbb6-4423-4177-a4ec-0b315328cd9e",
+    "timestamp": "2024-11-28T20:01:07.341Z",
+    "userMessage": "user: Buenas tardes\nassistant: ¡Buenas tardes, Manuel! ¿En qué puedo ayudarte hoy?\nuser: \nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta o necesitas información sobre nuestros productos o servicios, estaré encantado de ayudarte.\nuser: Necesito cotizar un servicio\nassistant: Claro, ¿podrías especificar qué tipo de servicio necesitas cotizar? Ememsa ofrece servicios de maestranza especializada, como fabricación y mantenimiento de maquinaria pesada. Estoy aquí para ayudarte con la información que necesites.\nuser: ",
+    "userNumber": "51955451846",
+    "userName": "Manuel Cornejo InProcess",
+    "botResponse": "Soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta o necesitas información sobre nuestros productos o servicios, estaré encantado de ayudarte."
+  },
+  {
+    "id": "7b946251-7ed1-4e36-8dda-e7c958d58705",
+    "timestamp": "2024-11-28T20:01:15.405Z",
+    "userMessage": "user: Buenas tardes\nassistant: ¡Buenas tardes, Manuel! ¿En qué puedo ayudarte hoy?\nuser: \nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta o necesitas información sobre nuestros productos o servicios, estaré encantado de ayudarte.\nuser: Necesito cotizar un servicio\nassistant: Claro, ¿podrías especificar qué tipo de servicio necesitas cotizar? Ememsa ofrece servicios de maestranza especializada, como fabricación y mantenimiento de maquinaria pesada. Estoy aquí para ayudarte con la información que necesites.\nuser: \nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta o necesitas información sobre nuestros productos o servicios, estaré encantado de ayudarte.\nuser: MECANIZADO DE PIEZAS",
+    "userNumber": "51955451846",
+    "userName": "Manuel Cornejo InProcess",
+    "botResponse": "Para el mecanizado de piezas, ofrecemos servicios de maestranza especializada, que incluyen fabricación y mantenimiento de maquinaria pesada. Si deseas más información o una cotización, puedes contactar a nuestro técnico especializado a través del siguiente enlace: [Técnico Especializado](https://wa.me/+51967020770?text=Buen%20dia%20requiero%20info). \n\n¿Te gustaría recibir un catálogo de nuestros servicios?"
+  },
+  {
+    "id": "a47f156b-8b0a-4a96-9662-8c1aad27c0a9",
+    "timestamp": "2024-11-28T20:01:17.835Z",
+    "userMessage": "assistant: ¡Buenas tardes, Manuel! ¿En qué puedo ayudarte hoy?\nuser: \nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta o necesitas información sobre nuestros productos o servicios, estaré encantado de ayudarte.\nuser: Necesito cotizar un servicio\nassistant: Claro, ¿podrías especificar qué tipo de servicio necesitas cotizar? Ememsa ofrece servicios de maestranza especializada, como fabricación y mantenimiento de maquinaria pesada. Estoy aquí para ayudarte con la información que necesites.\nuser: \nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta o necesitas información sobre nuestros productos o servicios, estaré encantado de ayudarte.\nuser: MECANIZADO DE PIEZAS\nassistant: Para el mecanizado de piezas, ofrecemos servicios de maestranza especializada, que incluyen fabricación y mantenimiento de maquinaria pesada. Si deseas más información o una cotización, puedes contactar a nuestro técnico especializado a través del siguiente enlace: [Técnico Especializado](https://wa.me/+51967020770?text=Buen%20dia%20requiero%20info). \n\n¿Te gustaría recibir un catálogo de nuestros servicios?\nuser: ",
+    "userNumber": "51955451846",
+    "userName": "Manuel Cornejo InProcess",
+    "botResponse": "Soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta o necesitas información sobre nuestros productos o servicios, estaré encantado de ayudarte."
+  },
+  {
+    "id": "1188d0bb-485a-4ca4-b189-5782f72c9fde",
+    "timestamp": "2024-11-28T20:40:05.062Z",
+    "userMessage": "user: Hola",
+    "userNumber": "51988177118",
+    "userName": "kelvinsantiagoquiquiaguad",
+    "botResponse": "¡Hola, Kelvinsantiagoquiquiaguad! ¿En qué puedo ayudarte hoy?"
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
-    "ref": "ans_8cbb7dee-2fdf-43a9-b189-5d18f9159314",
-    "keyword": "key_975a099b-8c42-4796-97b9-64200621956a",
+    "ref": "ans_f6691530-4ae9-43ba-a57e-dfc5cb6fe0e9",
+    "keyword": "key_f2721196-20f2-46c4-b9aa-3df9394d1a7d",
     "answer": "¡Hola! ¿Cómo puedo ayudarte hoy?",
     "options": {
       "media": null,
@@ -15,39 +15,39 @@
       "keyword": {},
       "callback": false
     },
-    "refSerialize": "3e07c639472be3ab79c20849a3ff2a4b",
-    "from": "51940937902"
+    "refSerialize": "7220d87b1afd7676c64d2fdde95a7540",
+    "from": "51927520456"
   },
   {
-    "ref": "9fab8f55-c2e8-45bc-8d6b-0f9b060d9fee",
-    "keyword": "3e07c639472be3ab79c20849a3ff2a4b",
-    "answer": "Estamos iniciando un concurso",
+    "ref": "f52e4bc4-ac41-4113-9143-9243ce9f1473",
+    "keyword": "7220d87b1afd7676c64d2fdde95a7540",
+    "answer": "De 4 pulgadas y media  de diámetro",
     "options": {},
-    "from": "51940937902",
-    "refSerialize": "35058544d5cbcda863158f3fb74da3be"
+    "from": "51927520456",
+    "refSerialize": "7649d6e417f9774e1c64f834879de881"
   },
   {
-    "ref": "d73b217c-b547-4e1a-a618-77e4f22c7cda",
-    "keyword": "35058544d5cbcda863158f3fb74da3be",
-    "answer": "Y les estamos considerando",
+    "ref": "f1e5fccb-e420-4734-b1dd-4ff3465238a6",
+    "keyword": "7649d6e417f9774e1c64f834879de881",
+    "answer": "_event_media_",
     "options": {},
-    "from": "51940937902",
-    "refSerialize": "dce3f8a7c954d70982dcaf119c1db1a1"
+    "from": "51927520456",
+    "refSerialize": "d79f8989fb0b35097e0cef43182763af"
   },
   {
-    "ref": "0d817d76-1251-4393-aa2c-3aad97debcc7",
-    "keyword": "dce3f8a7c954d70982dcaf119c1db1a1",
-    "answer": "Cómo postor",
+    "ref": "5965c524-dae3-451a-b79b-3373c1117b2c",
+    "keyword": "d79f8989fb0b35097e0cef43182763af",
+    "answer": "Quiero sabes si tiene o no la medida",
     "options": {},
-    "from": "51940937902",
-    "refSerialize": "ff73d0384920c294b26cfb358498337c"
+    "from": "51927520456",
+    "refSerialize": "fd76e3c3ecb0c5abf2b5e03d36c39742"
   },
   {
-    "ref": "f11e3ec2-e908-41a7-bfff-6296cde664ff",
-    "keyword": "ff73d0384920c294b26cfb358498337c",
-    "answer": "Me podría facilitar",
+    "ref": "be6b4a55-c5a5-4108-b996-1a4f74c30e33",
+    "keyword": "fd76e3c3ecb0c5abf2b5e03d36c39742",
+    "answer": "Para pedir",
     "options": {},
-    "from": "51940937902",
-    "refSerialize": "dd91116bd265c848d3bdc0ff7a8e9a0d"
+    "from": "51927520456",
+    "refSerialize": "5b8edfe497db25a9b1e7e99930f829c3"
   }
 ]
