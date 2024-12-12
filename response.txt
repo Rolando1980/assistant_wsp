@@ -13022,5 +13022,45 @@
     "userNumber": "51967266603",
     "userName": "compras1maqpower",
     "botResponse": "Puedes contactar a nuestro técnico especializado para obtener más información sobre las graseras a través del siguiente enlace: [Contacto Técnico](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar).\n\nAdemás, aquí tienes el catálogo de productos relacionado: [Catálogo de Graseras](https://ememsa.com/wp-content/uploads/2024/08/CATALOGO-FASTENERS_0824.pdf).\n\nSi necesitas algo más, no dudes en decírmelo."
+  },
+  {
+    "id": "4ddaff1a-59ce-4495-b74a-6e155c639405",
+    "timestamp": "2024-12-12T17:07:26.544Z",
+    "userMessage": "user: Hola",
+    "userNumber": "51913496683",
+    "userName": "Compras Maqpower",
+    "botResponse": "¡Hola! Gracias por comunicarte con Ememsa. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "a795fe83-f97f-4cce-a45e-a2cbf3f531cf",
+    "timestamp": "2024-12-12T17:07:28.541Z",
+    "userMessage": "user: Hola\nassistant: ¡Hola! Gracias por comunicarte con Ememsa. ¿En qué puedo ayudarte hoy?\nuser: buenas tardes",
+    "userNumber": "51913496683",
+    "userName": "Compras Maqpower",
+    "botResponse": "¡Buenas tardes! ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "ff7b917f-7d52-497a-bcd7-c0cc580dcc74",
+    "timestamp": "2024-12-12T17:07:30.424Z",
+    "userMessage": "user: Hola\nassistant: ¡Hola! Gracias por comunicarte con Ememsa. ¿En qué puedo ayudarte hoy?\nuser: buenas tardes\nassistant: ¡Buenas tardes! ¿En qué puedo ayudarte hoy?\nuser: por favor cotizar",
+    "userNumber": "51913496683",
+    "userName": "Compras Maqpower",
+    "botResponse": "Claro, con gusto te ayudo. ¿Podrías especificar qué productos o servicios te gustaría cotizar? Esto me permitirá ofrecerte la información más precisa."
+  },
+  {
+    "id": "5b149d48-e561-4f1b-b3c3-f39f93b9400c",
+    "timestamp": "2024-12-12T17:07:32.267Z",
+    "userMessage": "user: Hola\nassistant: ¡Hola! Gracias por comunicarte con Ememsa. ¿En qué puedo ayudarte hoy?\nuser: buenas tardes\nassistant: ¡Buenas tardes! ¿En qué puedo ayudarte hoy?\nuser: por favor cotizar\nassistant: Claro, con gusto te ayudo. ¿Podrías especificar qué productos o servicios te gustaría cotizar? Esto me permitirá ofrecerte la información más precisa.\nuser: esta barra",
+    "userNumber": "51913496683",
+    "userName": "Compras Maqpower",
+    "botResponse": "Para poder ayudarte mejor, ¿podrías especificar el tipo de barra que necesitas? En Ememsa ofrecemos barras de latón o bronce dulce. Si es alguna de estas, puedo proporcionarte más información o un catálogo."
+  },
+  {
+    "id": "25c204ad-0d50-44af-8626-ede98fa2d5e9",
+    "timestamp": "2024-12-12T17:08:05.902Z",
+    "userMessage": "user: Hola\nassistant: ¡Hola! Gracias por comunicarte con Ememsa. ¿En qué puedo ayudarte hoy?\nuser: buenas tardes\nassistant: ¡Buenas tardes! ¿En qué puedo ayudarte hoy?\nuser: por favor cotizar\nassistant: Claro, con gusto te ayudo. ¿Podrías especificar qué productos o servicios te gustaría cotizar? Esto me permitirá ofrecerte la información más precisa.\nuser: esta barra\nassistant: Para poder ayudarte mejor, ¿podrías especificar el tipo de barra que necesitas? En Ememsa ofrecemos barras de latón o bronce dulce. Si es alguna de estas, puedo proporcionarte más información o un catálogo.\nuser: _event_media_",
+    "userNumber": "51913496683",
+    "userName": "Compras Maqpower",
+    "botResponse": "Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. No puedo procesar imágenes ni otros formatos. Por favor, indícame el tipo de barra que necesitas y estaré encantado de ayudarte."
   }
 ]
