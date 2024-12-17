@@ -1,7 +1,7 @@
 [
   {
-    "ref": "ans_e2a32330-e482-412c-aa98-e5eae1135879",
-    "keyword": "key_22142a96-01ab-41d8-935a-18c79cd0e5f7",
+    "ref": "ans_5fff0acf-c69a-4b8c-bf97-772606d0829f",
+    "keyword": "key_56de7b32-1f70-42c3-be7f-96f2787f0f9b",
     "answer": "¡Hola! ¿Cómo puedo ayudarte hoy?",
     "options": {
       "media": null,
@@ -15,15 +15,7 @@
       "keyword": {},
       "callback": false
     },
-    "refSerialize": "ee08a3eeb1f46e3f904a7e6b09a8ac49",
-    "from": "8615097955201"
-  },
-  {
-    "ref": "5322d45f-d8b1-432e-a0d1-c33309a73481",
-    "keyword": "ee08a3eeb1f46e3f904a7e6b09a8ac49",
-    "answer": "Te envié nuestros nuevos precios antes, puedes echar un vistazo.",
-    "options": {},
-    "from": "8615097955201",
-    "refSerialize": "15e269bebf02d087d1287bae3f02c602"
+    "refSerialize": "633b77d7f01ebdac84942a90a8883e60",
+    "from": "8618375743262"
   }
 ]

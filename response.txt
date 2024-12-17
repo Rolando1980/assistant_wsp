@@ -13062,5 +13062,549 @@
     "userNumber": "51913496683",
     "userName": "Compras Maqpower",
     "botResponse": "Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. No puedo procesar imágenes ni otros formatos. Por favor, indícame el tipo de barra que necesitas y estaré encantado de ayudarte."
+  },
+  {
+    "id": "3af67bbc-687b-4991-b71b-492f1bb5f28a",
+    "timestamp": "2024-12-12T17:56:41.902Z",
+    "userMessage": "user: Test",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "¡Hola, Rolando! Es un placer saludarte. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "5017e601-5144-4139-b676-ba5455d67113",
+    "timestamp": "2024-12-12T17:57:07.224Z",
+    "userMessage": "user: Test\nassistant: ¡Hola, Rolando! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nuser: Graseras?",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "Puedes encontrar nuestras graseras, en distintas medidas y precios, en nuestra tienda en línea: [Graseras Ememsa](https://tienda.ememsa.com/graseras?_q=graseras&map=ft&page=2). \n\nSi necesitas más información, puedo ofrecerte un enlace de contacto con un técnico especializado o un catálogo del producto. ¿Te gustaría alguna de estas opciones?"
+  },
+  {
+    "id": "4aa6480b-0c92-4255-a037-cf8aef323e48",
+    "timestamp": "2024-12-12T17:57:21.431Z",
+    "userMessage": "user: Test\nassistant: ¡Hola, Rolando! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nuser: Graseras?\nassistant: Puedes encontrar nuestras graseras, en distintas medidas y precios, en nuestra tienda en línea: [Graseras Ememsa](https://tienda.ememsa.com/graseras?_q=graseras&map=ft&page=2). \n\nSi necesitas más información, puedo ofrecerte un enlace de contacto con un técnico especializado o un catálogo del producto. ¿Te gustaría alguna de estas opciones?\nuser: Gracias",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "¡De nada, Rolando! Si necesitas más ayuda o información adicional, no dudes en preguntar. Gracias por comunicarte con Ememsa. ¡Que tengas un excelente día!"
+  },
+  {
+    "id": "63cd0082-a103-46bb-adfc-a654ed254f69",
+    "timestamp": "2024-12-12T18:13:49.550Z",
+    "userMessage": "user: _event_media_",
+    "userNumber": "51982073752",
+    "userName": "juelix",
+    "botResponse": "¡Hola, Juelix! Es un placer saludarte. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "574a7a19-d2ea-4568-8b52-5cfa5440ba34",
+    "timestamp": "2024-12-12T18:15:48.316Z",
+    "userMessage": "user: _event_media_\nassistant: ¡Hola, Juelix! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nuser: Estoy buscando esto",
+    "userNumber": "51982073752",
+    "userName": "juelix",
+    "botResponse": "Lamentablemente, soy un bot diseñado exclusivamente para responder mensajes de texto. Por favor, proporciona más detalles sobre lo que estás buscando y con gusto te ayudaré."
+  },
+  {
+    "id": "2c5ff0be-e620-4a1c-8ec6-ecc9859e7de8",
+    "timestamp": "2024-12-12T18:16:21.720Z",
+    "userMessage": "user: _event_media_\nassistant: ¡Hola, Juelix! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nuser: Estoy buscando esto\nuser: _event_media_\nassistant: Lamentablemente, soy un bot diseñado exclusivamente para responder mensajes de texto. Por favor, proporciona más detalles sobre lo que estás buscando y con gusto te ayudaré.\nuser: Abrazaderas para amdamios",
+    "userNumber": "51982073752",
+    "userName": "juelix",
+    "botResponse": "Puedes encontrar nuestras abrazaderas, en distintas medidas y precios, en nuestra tienda en línea: [Abrazaderas Ememsa](https://tienda.ememsa.com/abrazaderas?_q=abrazaderas&map=ft). \n\nSi necesitas más información, puedo ofrecerte un enlace de contacto con un técnico especializado o un catálogo del producto. ¿Te gustaría alguna de estas opciones?"
+  },
+  {
+    "id": "056579e0-857c-4c53-b796-9d76212f5ffb",
+    "timestamp": "2024-12-12T18:16:25.100Z",
+    "userMessage": "user: _event_media_\nassistant: ¡Hola, Juelix! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nuser: Estoy buscando esto\nuser: _event_media_\nassistant: Lamentablemente, soy un bot diseñado exclusivamente para responder mensajes de texto. Por favor, proporciona más detalles sobre lo que estás buscando y con gusto te ayudaré.\nuser: Abrazaderas para amdamios\nassistant: Puedes encontrar nuestras abrazaderas, en distintas medidas y precios, en nuestra tienda en línea: [Abrazaderas Ememsa](https://tienda.ememsa.com/abrazaderas?_q=abrazaderas&map=ft). \n\nSi necesitas más información, puedo ofrecerte un enlace de contacto con un técnico especializado o un catálogo del producto. ¿Te gustaría alguna de estas opciones?\nuser: Tienen",
+    "userNumber": "51982073752",
+    "userName": "juelix",
+    "botResponse": "Sí, tenemos abrazaderas disponibles. Puedes ver las diferentes opciones en nuestra tienda en línea: [Abrazaderas Ememsa](https://tienda.ememsa.com/abrazaderas?_q=abrazaderas&map=ft). \n\nSi necesitas asesoría técnica, aquí tienes el enlace para contactar a un técnico especializado: [Contactar Técnico](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar). \n\n¿Te gustaría que te envíe el catálogo de productos también?"
+  },
+  {
+    "id": "d2f9e5e0-4f60-4b87-9ee5-ea7a0ff39670",
+    "timestamp": "2024-12-12T18:35:45.401Z",
+    "userMessage": "user: Buenas tardes, quisiera hacer pedido pero no se quien es el asesor que puede tomar mi pedido",
+    "userNumber": "51970571109",
+    "userName": "Shirley",
+    "botResponse": "¡Buenas tardes, Shirley! Estoy aquí para ayudarte. Para poder dirigirte al asesor adecuado, ¿podrías indicarme qué tipo de producto o servicio deseas pedir? Esto me permitirá proporcionarte el contacto correcto."
+  },
+  {
+    "id": "c437b40a-4c68-468d-b733-0f60b359098a",
+    "timestamp": "2024-12-12T19:27:27.919Z",
+    "userMessage": "user: Test",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "¡Hola, Rolando Martinez! Es un placer atenderte. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "efd7a02c-abee-4b4a-90de-3fa2440657e2",
+    "timestamp": "2024-12-12T19:28:20.293Z",
+    "userMessage": "user: Test\nassistant: ¡Hola, Rolando Martinez! Es un placer atenderte. ¿En qué puedo ayudarte hoy?\nuser: Muéstrame tu catálogo",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "Claro, puedo proporcionarte el catálogo según la línea de productos que te interese. ¿Te gustaría ver el catálogo de llaves metálicas, accesorios automotrices, tuberías, válvulas, o algún otro producto específico?"
+  },
+  {
+    "id": "cb9b7333-f683-4f51-8d91-9c448fc9928e",
+    "timestamp": "2024-12-12T20:05:25.314Z",
+    "userMessage": "user: ESTIMADOS BUENAS TARDES MI NOMBRE ES CESAR VILCHEZ EMPRESA SOLUCIONES EL VEINTIUNO SRL",
+    "userNumber": "51915130555",
+    "userName": "Gesu",
+    "botResponse": "¡Buenas tardes, César Vilchez! Es un placer atenderte. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "ce81c12e-f092-49a2-8132-9b3f72ab5297",
+    "timestamp": "2024-12-12T20:05:38.239Z",
+    "userMessage": "user: ESTIMADOS BUENAS TARDES MI NOMBRE ES CESAR VILCHEZ EMPRESA SOLUCIONES EL VEINTIUNO SRL\nassistant: ¡Buenas tardes, César Vilchez! Es un placer atenderte. ¿En qué puedo ayudarte hoy?\nuser: FAJA DUNLOP BX110",
+    "userNumber": "51915130555",
+    "userName": "Gesu",
+    "botResponse": "La faja Dunlop BX110 es parte de nuestra línea de accesorios automotrices. Puedes encontrarla en nuestra tienda en línea. Te recomiendo visitar el siguiente enlace para explorar las opciones disponibles: https://tienda.ememsa.com.\n\nSi necesitas asesoría técnica o más información, no dudes en contactarme. También puedo proporcionarte el catálogo de productos relacionados. ¿Te gustaría eso?"
+  },
+  {
+    "id": "604895b7-9228-4331-b7e1-c1be983aae38",
+    "timestamp": "2024-12-12T20:05:40.266Z",
+    "userMessage": "user: ESTIMADOS BUENAS TARDES MI NOMBRE ES CESAR VILCHEZ EMPRESA SOLUCIONES EL VEINTIUNO SRL\nassistant: ¡Buenas tardes, César Vilchez! Es un placer atenderte. ¿En qué puedo ayudarte hoy?\nuser: FAJA DUNLOP BX110\nassistant: La faja Dunlop BX110 es parte de nuestra línea de accesorios automotrices. Puedes encontrarla en nuestra tienda en línea. Te recomiendo visitar el siguiente enlace para explorar las opciones disponibles: https://tienda.ememsa.com.\n\nSi necesitas asesoría técnica o más información, no dudes en contactarme. También puedo proporcionarte el catálogo de productos relacionados. ¿Te gustaría eso?\nuser: CONTARAN",
+    "userNumber": "51915130555",
+    "userName": "Gesu",
+    "botResponse": "Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si deseas más información sobre la faja Dunlop o cualquier otro producto, por favor házmelo saber. Estoy aquí para ayudarte."
+  },
+  {
+    "id": "9e6df008-4223-452f-97ce-1788da820072",
+    "timestamp": "2024-12-12T20:05:57.032Z",
+    "userMessage": "user: ESTIMADOS BUENAS TARDES MI NOMBRE ES CESAR VILCHEZ EMPRESA SOLUCIONES EL VEINTIUNO SRL\nassistant: ¡Buenas tardes, César Vilchez! Es un placer atenderte. ¿En qué puedo ayudarte hoy?\nuser: FAJA DUNLOP BX110\nassistant: La faja Dunlop BX110 es parte de nuestra línea de accesorios automotrices. Puedes encontrarla en nuestra tienda en línea. Te recomiendo visitar el siguiente enlace para explorar las opciones disponibles: https://tienda.ememsa.com.\n\nSi necesitas asesoría técnica o más información, no dudes en contactarme. También puedo proporcionarte el catálogo de productos relacionados. ¿Te gustaría eso?\nuser: CONTARAN\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si deseas más información sobre la faja Dunlop o cualquier otro producto, por favor házmelo saber. Estoy aquí para ayudarte.\nuser: _event_media_",
+    "userNumber": "51915130555",
+    "userName": "Gesu",
+    "botResponse": "Lamento informarte que no puedo procesar imágenes, audios u otros formatos. Estoy aquí para responder a tus consultas a través de mensajes de texto. ¿En qué más puedo ayudarte?"
+  },
+  {
+    "id": "9d9621bc-c2c7-48d6-9c30-df47fd9b18e6",
+    "timestamp": "2024-12-12T20:06:18.002Z",
+    "userMessage": "user: ESTIMADOS BUENAS TARDES MI NOMBRE ES CESAR VILCHEZ EMPRESA SOLUCIONES EL VEINTIUNO SRL\nassistant: ¡Buenas tardes, César Vilchez! Es un placer atenderte. ¿En qué puedo ayudarte hoy?\nuser: FAJA DUNLOP BX110\nassistant: La faja Dunlop BX110 es parte de nuestra línea de accesorios automotrices. Puedes encontrarla en nuestra tienda en línea. Te recomiendo visitar el siguiente enlace para explorar las opciones disponibles: https://tienda.ememsa.com.\n\nSi necesitas asesoría técnica o más información, no dudes en contactarme. También puedo proporcionarte el catálogo de productos relacionados. ¿Te gustaría eso?\nuser: CONTARAN\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si deseas más información sobre la faja Dunlop o cualquier otro producto, por favor házmelo saber. Estoy aquí para ayudarte.\nuser: _event_media_\nassistant: Lamento informarte que no puedo procesar imágenes, audios u otros formatos. Estoy aquí para responder a tus consultas a través de mensajes de texto. ¿En qué más puedo ayudarte?\nuser: OK",
+    "userNumber": "51915130555",
+    "userName": "Gesu",
+    "botResponse": "¡Perfecto! Si tienes alguna otra consulta o necesitas información sobre nuestros productos o servicios, no dudes en decírmelo. Estoy aquí para ayudarte."
+  },
+  {
+    "id": "fdcb8270-cdac-4285-900b-9e756ab11d2b",
+    "timestamp": "2024-12-12T20:19:13.261Z",
+    "userMessage": "user: hola buenas",
+    "userNumber": "51968293051",
+    "userName": "luisalbertobenitesv",
+    "botResponse": "¡Hola, Luis! Buenas tardes. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "809a604d-5071-4dfe-9bac-b80a1e5990a2",
+    "timestamp": "2024-12-12T20:19:16.694Z",
+    "userMessage": "user: hola buenas\nassistant: ¡Hola, Luis! Buenas tardes. ¿En qué puedo ayudarte hoy?\nuser: ",
+    "userNumber": "51968293051",
+    "userName": "luisalbertobenitesv",
+    "botResponse": "Estoy aquí para ayudarte. Si tienes alguna consulta sobre nuestros productos o servicios, no dudes en preguntar."
+  },
+  {
+    "id": "0e43dd88-6d65-478e-8f6e-267fc4125b7e",
+    "timestamp": "2024-12-12T20:19:45.082Z",
+    "userMessage": "user: hola buenas\nassistant: ¡Hola, Luis! Buenas tardes. ¿En qué puedo ayudarte hoy?\nuser: \nassistant: Estoy aquí para ayudarte. Si tienes alguna consulta sobre nuestros productos o servicios, no dudes en preguntar.\nuser: venden pplatina de cobre",
+    "userNumber": "51968293051",
+    "userName": "luisalbertobenitesv",
+    "botResponse": "En Ememsa ofrecemos tuberías de cobre tipo “L”, pero no específicamente platinas de cobre. Si necesitas información sobre tuberías o conexiones de cobre, puedo ayudarte con eso. \n\nAdemás, si requieres asesoría técnica, aquí tienes el enlace para contactar a nuestro especialista: [Asesoría Técnica](https://wa.me/+51978585422?text=Buen%20dia%20requiero%20info). \n\n¿Te gustaría ver nuestro catálogo de tuberías de cobre?"
+  },
+  {
+    "id": "6521b68f-3d42-4d27-80b1-37c4b2491ec7",
+    "timestamp": "2024-12-12T20:19:45.586Z",
+    "userMessage": "user: hola buenas\nassistant: ¡Hola, Luis! Buenas tardes. ¿En qué puedo ayudarte hoy?\nuser: \nassistant: Estoy aquí para ayudarte. Si tienes alguna consulta sobre nuestros productos o servicios, no dudes en preguntar.\nuser: venden pplatina de cobre\nuser: ??",
+    "userNumber": "51968293051",
+    "userName": "luisalbertobenitesv",
+    "botResponse": "En Ememsa ofrecemos tuberías de cobre tipo \"L\", pero no tenemos platinas de cobre específicas. Si necesitas más información sobre nuestras tuberías, puedo proporcionarte un catálogo o conectar con un técnico especializado. ¿Te gustaría eso?"
+  },
+  {
+    "id": "2cf71b2c-7d9c-4dee-8529-09a3c0bfce4d",
+    "timestamp": "2024-12-12T20:19:47.268Z",
+    "userMessage": "user: hola buenas\nassistant: ¡Hola, Luis! Buenas tardes. ¿En qué puedo ayudarte hoy?\nuser: \nassistant: Estoy aquí para ayudarte. Si tienes alguna consulta sobre nuestros productos o servicios, no dudes en preguntar.\nuser: venden pplatina de cobre\nuser: ??\nassistant: En Ememsa ofrecemos tuberías de cobre tipo “L”, pero no específicamente platinas de cobre. Si necesitas información sobre tuberías o conexiones de cobre, puedo ayudarte con eso. \n\nAdemás, si requieres asesoría técnica, aquí tienes el enlace para contactar a nuestro especialista: [Asesoría Técnica](https://wa.me/+51978585422?text=Buen%20dia%20requiero%20info). \n\n¿Te gustaría ver nuestro catálogo de tuberías de cobre?\nassistant: En Ememsa ofrecemos tuberías de cobre tipo \"L\", pero no tenemos platinas de cobre específicas. Si necesitas más información sobre nuestras tuberías, puedo proporcionarte un catálogo o conectar con un técnico especializado. ¿Te gustaría eso?\nuser: ",
+    "userNumber": "51968293051",
+    "userName": "luisalbertobenitesv",
+    "botResponse": "Estoy aquí para ayudarte. Si tienes alguna consulta o necesitas información sobre nuestros productos, no dudes en decírmelo."
+  },
+  {
+    "id": "ec6ca410-6204-4f1f-b2ea-4078b291e92a",
+    "timestamp": "2024-12-12T20:43:33.708Z",
+    "userMessage": "user: Hola",
+    "userNumber": "51981556876",
+    "userName": "Oscar Zavaleta",
+    "botResponse": "¡Hola, Oscar Zavaleta! ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "c9ed28aa-0ad0-4c1b-9561-93eb1ba92e55",
+    "timestamp": "2024-12-12T20:43:51.247Z",
+    "userMessage": "user: Hola\nassistant: ¡Hola, Oscar Zavaleta! ¿En qué puedo ayudarte hoy?\nuser: Quiero saber el estado de mi pedido",
+    "userNumber": "51981556876",
+    "userName": "Oscar Zavaleta",
+    "botResponse": "Para conocer el estado de tu pedido, por favor contacta al correo: facturacion@ememsa.pe. Recuerda incluir tu número de RUC y la factura o boleta para procesar la consulta. \n\nGracias por comunicarte con Ememsa."
+  },
+  {
+    "id": "54f4ead0-6097-43bc-aa17-7c10ef6b1c77",
+    "timestamp": "2024-12-12T20:46:19.357Z",
+    "userMessage": "user: Hola\nassistant: ¡Hola, Oscar Zavaleta! ¿En qué puedo ayudarte hoy?\nuser: Quiero saber el estado de mi pedido\nassistant: Para conocer el estado de tu pedido, por favor contacta al correo: facturacion@ememsa.pe. Recuerda incluir tu número de RUC y la factura o boleta para procesar la consulta. \n\nGracias por comunicarte con Ememsa.\nuser: Ok",
+    "userNumber": "51981556876",
+    "userName": "Oscar Zavaleta",
+    "botResponse": "¡Perfecto! Si necesitas más ayuda o información sobre nuestros productos y servicios, no dudes en preguntar. Estoy aquí para ayudarte. \n\nGracias por comunicarte con Ememsa."
+  },
+  {
+    "id": "3e324d35-5e15-4c05-9e4d-f0767badb75e",
+    "timestamp": "2024-12-12T22:29:11.446Z",
+    "userMessage": "user: Hola",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "¡Hola, Rolando Martinez! ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "b69d3a99-2eea-4e3c-9c06-07296724b79a",
+    "timestamp": "2024-12-12T22:31:25.147Z",
+    "userMessage": "user: Hola\nassistant: ¡Hola, Rolando Martinez! ¿En qué puedo ayudarte hoy?\nuser: Muéstrame tu catálogo de graseras",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "Puedes encontrar nuestras graseras, en distintas medidas y precios, en nuestra tienda en línea: [Graseras Ememsa](https://tienda.ememsa.com/graseras?_q=graseras&map=ft&page=2). \n\nSi deseas, puedo ofrecerte un enlace de contacto con un técnico especializado o el catálogo del producto. ¿Te gustaría alguna de estas opciones?"
+  },
+  {
+    "id": "0e3eb77d-2199-4dc6-bec6-44f022d4bcae",
+    "timestamp": "2024-12-12T22:33:40.612Z",
+    "userMessage": "user: Hola\nassistant: ¡Hola, Rolando Martinez! ¿En qué puedo ayudarte hoy?\nuser: Muéstrame tu catálogo de graseras\nassistant: Puedes encontrar nuestras graseras, en distintas medidas y precios, en nuestra tienda en línea: [Graseras Ememsa](https://tienda.ememsa.com/graseras?_q=graseras&map=ft&page=2). \n\nSi deseas, puedo ofrecerte un enlace de contacto con un técnico especializado o el catálogo del producto. ¿Te gustaría alguna de estas opciones?\nuser: Con atención al cliente ?",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "Para consultas relacionadas con el estado de un pedido, puedes contactar a atención al cliente a través del correo: facturacion@ememsa.pe. Asegúrate de incluir tu número de RUC y la factura o boleta para que puedan procesar tu consulta adecuadamente.\n\nSi necesitas más información o asistencia, no dudes en decírmelo. ¡Gracias por comunicarte con Ememsa!"
+  },
+  {
+    "id": "611f399d-18f4-4b17-9716-bf8ec0a0f86d",
+    "timestamp": "2024-12-13T16:28:20.647Z",
+    "userMessage": "user: Test",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "¡Hola, Rolando! Es un placer saludarte. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "9ce8315d-2a89-4cc9-b9ae-ff7c367b7a26",
+    "timestamp": "2024-12-13T16:37:19.580Z",
+    "userMessage": "user: Test\nassistant: ¡Hola, Rolando! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nuser: Test",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta o necesitas información sobre nuestros productos o servicios, estaré encantado de ayudarte."
+  },
+  {
+    "id": "28b8a338-a5ca-4f43-9e66-7694163b1878",
+    "timestamp": "2024-12-13T16:48:47.466Z",
+    "userMessage": "user: Test\nassistant: ¡Hola, Rolando! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nuser: Test\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta o necesitas información sobre nuestros productos o servicios, estaré encantado de ayudarte.\nuser: Test",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte."
+  },
+  {
+    "id": "4948fe21-5c34-43c0-916d-3319d7b4422a",
+    "timestamp": "2024-12-13T16:59:34.749Z",
+    "userMessage": "user: buenos dias",
+    "userNumber": "51928760067",
+    "userName": "AnghieOA",
+    "botResponse": "¡Buenos días, AnghieOA! ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "d95eb517-ace8-4457-aa3d-c31ad6feca82",
+    "timestamp": "2024-12-13T16:59:54.608Z",
+    "userMessage": "user: buenos dias\nassistant: ¡Buenos días, AnghieOA! ¿En qué puedo ayudarte hoy?\nuser: Estoy buscando esta BOQUILLA DE ENGRASE MARCA ALEMITE (USA) MODELO 308730-A",
+    "userNumber": "51928760067",
+    "userName": "AnghieOA",
+    "botResponse": "Lamentablemente, no contamos con la boquilla de engrase marca Alemite modelo 308730-A en nuestro catálogo. Sin embargo, ofrecemos una variedad de productos relacionados con engrase y accesorios automotrices.\n\nSi deseas, puedo proporcionarte información sobre nuestras graseras y otros artículos ferreteros. También puedo ofrecerte el contacto de un técnico especializado para asesorarte mejor. ¿Te gustaría eso?"
+  },
+  {
+    "id": "7ac380ea-0d00-4a64-ad27-57c94ce33691",
+    "timestamp": "2024-12-13T17:00:22.957Z",
+    "userMessage": "user: Test\nassistant: ¡Hola, Rolando! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nuser: Test\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta o necesitas información sobre nuestros productos o servicios, estaré encantado de ayudarte.\nuser: Test\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte.\nuser: Test",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte."
+  },
+  {
+    "id": "1c3fb3b5-acb6-4b79-a3f3-2dd0818f76e6",
+    "timestamp": "2024-12-13T17:03:02.421Z",
+    "userMessage": "user: Test\nassistant: ¡Hola, Rolando! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nuser: Test\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta o necesitas información sobre nuestros productos o servicios, estaré encantado de ayudarte.\nuser: Test\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte.\nuser: Test\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte.\nuser: Test",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte."
+  },
+  {
+    "id": "52ee7cd9-5573-40ea-b35e-cd44ad850540",
+    "timestamp": "2024-12-13T17:08:03.108Z",
+    "userMessage": "assistant: ¡Hola, Rolando! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nuser: Test\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta o necesitas información sobre nuestros productos o servicios, estaré encantado de ayudarte.\nuser: Test\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte.\nuser: Test\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte.\nuser: Test\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte.\nuser: Test",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte."
+  },
+  {
+    "id": "1c8a9502-20b9-4ecf-b4e2-1c38f504cd05",
+    "timestamp": "2024-12-13T17:12:36.066Z",
+    "userMessage": "user: Test\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta o necesitas información sobre nuestros productos o servicios, estaré encantado de ayudarte.\nuser: Test\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte.\nuser: Test\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte.\nuser: Test\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte.\nuser: Test\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte.\nuser: Test",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte."
+  },
+  {
+    "id": "4753c1ad-0ea6-4e31-9b7a-734ad6a593da",
+    "timestamp": "2024-12-13T17:24:11.718Z",
+    "userMessage": "assistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta o necesitas información sobre nuestros productos o servicios, estaré encantado de ayudarte.\nuser: Test\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte.\nuser: Test\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte.\nuser: Test\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte.\nuser: Test\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte.\nuser: Test\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte.\nuser: Test",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte."
+  },
+  {
+    "id": "386d9ceb-7e6e-40d8-9895-5a4aebdf9f37",
+    "timestamp": "2024-12-13T17:25:44.601Z",
+    "userMessage": "user: Test\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte.\nuser: Test\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte.\nuser: Test\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte.\nuser: Test\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte.\nuser: Test\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte.\nuser: Test\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte.\nuser: Test",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte."
+  },
+  {
+    "id": "fc520a2a-acd4-4d44-b6a9-151a6aa447a0",
+    "timestamp": "2024-12-13T17:26:17.275Z",
+    "userMessage": "assistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte.\nuser: Test\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte.\nuser: Test\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte.\nuser: Test\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte.\nuser: Test\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte.\nuser: Test\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte.\nuser: Test\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte.\nuser: Test",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte."
+  },
+  {
+    "id": "6706c8ca-fb34-47d0-940b-57e58aec97df",
+    "timestamp": "2024-12-13T17:27:42.844Z",
+    "userMessage": "user: Test\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte.\nuser: Test\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte.\nuser: Test\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte.\nuser: Test\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte.\nuser: Test\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte.\nuser: Test\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte.\nuser: Test\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte.\nuser: Test",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta específica sobre nuestros productos o servicios, por favor házmelo saber y estaré encantado de ayudarte."
+  },
+  {
+    "id": "d2e59a5d-e5c1-4e90-94a1-6079b1ee760c",
+    "timestamp": "2024-12-13T19:28:50.733Z",
+    "userMessage": "user: *¡Buenas tardes!* Le saluda Angelo Aguilar, Ejecutivo de Ventas de la empresa Inversiones Warrior's con Ruc 20511422508.  \n\n*¡COMERCIALIZAMOS RESIDUOS!*\n1. *Compra de residuos sólidos y líquidos* :  Estamos interesados en adquirir metales, material eléctrico, aceite de hidrocarburo y dieléctrico, maquinarias, autos dado de baja, motores de carros en desuso, baterías usadas, materiales ferrosos, plástico, papel, cartón, y más.\n2. *Compra de líquidos peligrosos y no peligrosos del ámbito municipal y no municipal.*\n3. *Compra de chatarra generada por la industria minera, construcción, establecimiento de salud, entre otros y Chatarra en General*\n4. *Transporte residuos sólidos peligrosos y no peligrosos*\n\nContamos con el registro autoritativo del Ministerio del Medio Ambiente *(EO-RS-00065-2020-MINAM/VMGA/DGRS)*\n\nAgradecemos su atención y esperamos poder colaborar con su empresa en el manejo responsable de los residuos.",
+    "userNumber": "51940308155",
+    "userName": "INVERSIONES WARRIOR'S",
+    "botResponse": "¡Buenas tardes, Angelo! Gracias por comunicarte con Ememsa. Lamentablemente, no gestionamos la compra o venta de residuos. Si necesitas información sobre nuestros productos y servicios, estaré encantado de ayudarte.\n\nPara consultas relacionadas con empleo, pagos a proveedores, compras o logística, marketing o atención al cliente, por favor indícalo y te proporcionaré el contacto adecuado.\n\nSi deseas más información sobre nuestros productos, puedes visitar nuestra tienda en línea: https://tienda.ememsa.com. \n\nGracias por tu interés en Ememsa."
+  },
+  {
+    "id": "3bc5d71d-ecb1-4860-8626-87f0c21140ff",
+    "timestamp": "2024-12-13T19:28:53.175Z",
+    "userMessage": "user: *¡Buenas tardes!* Le saluda Angelo Aguilar, Ejecutivo de Ventas de la empresa Inversiones Warrior's con Ruc 20511422508.  \n\n*¡COMERCIALIZAMOS RESIDUOS!*\n1. *Compra de residuos sólidos y líquidos* :  Estamos interesados en adquirir metales, material eléctrico, aceite de hidrocarburo y dieléctrico, maquinarias, autos dado de baja, motores de carros en desuso, baterías usadas, materiales ferrosos, plástico, papel, cartón, y más.\n2. *Compra de líquidos peligrosos y no peligrosos del ámbito municipal y no municipal.*\n3. *Compra de chatarra generada por la industria minera, construcción, establecimiento de salud, entre otros y Chatarra en General*\n4. *Transporte residuos sólidos peligrosos y no peligrosos*\n\nContamos con el registro autoritativo del Ministerio del Medio Ambiente *(EO-RS-00065-2020-MINAM/VMGA/DGRS)*\n\nAgradecemos su atención y esperamos poder colaborar con su empresa en el manejo responsable de los residuos.\nassistant: ¡Buenas tardes, Angelo! Gracias por comunicarte con Ememsa. Lamentablemente, no gestionamos la compra o venta de residuos. Si necesitas información sobre nuestros productos y servicios, estaré encantado de ayudarte.\n\nPara consultas relacionadas con empleo, pagos a proveedores, compras o logística, marketing o atención al cliente, por favor indícalo y te proporcionaré el contacto adecuado.\n\nSi deseas más información sobre nuestros productos, puedes visitar nuestra tienda en línea: https://tienda.ememsa.com. \n\nGracias por tu interés en Ememsa.\nuser: _event_media_",
+    "userNumber": "51940308155",
+    "userName": "INVERSIONES WARRIOR'S",
+    "botResponse": "Soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta, por favor escríbela y estaré encantado de ayudarte."
+  },
+  {
+    "id": "652020d6-5af7-4a52-b7a1-16c366e18e98",
+    "timestamp": "2024-12-13T19:32:10.921Z",
+    "userMessage": "user: *¡Buenas tardes!* Le saluda Angelo Aguilar, Ejecutivo de Ventas de la empresa Inversiones Warrior's con Ruc 20511422508.  \n\n*¡COMERCIALIZAMOS RESIDUOS!*\n1. *Compra de residuos sólidos y líquidos* :  Estamos interesados en adquirir metales, material eléctrico, aceite de hidrocarburo y dieléctrico, maquinarias, autos dado de baja, motores de carros en desuso, baterías usadas, materiales ferrosos, plástico, papel, cartón, y más.\n2. *Compra de líquidos peligrosos y no peligrosos del ámbito municipal y no municipal.*\n3. *Compra de chatarra generada por la industria minera, construcción, establecimiento de salud, entre otros y Chatarra en General*\n4. *Transporte residuos sólidos peligrosos y no peligrosos*\n\nContamos con el registro autoritativo del Ministerio del Medio Ambiente *(EO-RS-00065-2020-MINAM/VMGA/DGRS)*\n\nAgradecemos su atención y esperamos poder colaborar con su empresa en el manejo responsable de los residuos.\nassistant: ¡Buenas tardes, Angelo! Gracias por comunicarte con Ememsa. Lamentablemente, no gestionamos la compra o venta de residuos. Si necesitas información sobre nuestros productos y servicios, estaré encantado de ayudarte.\n\nPara consultas relacionadas con empleo, pagos a proveedores, compras o logística, marketing o atención al cliente, por favor indícalo y te proporcionaré el contacto adecuado.\n\nSi deseas más información sobre nuestros productos, puedes visitar nuestra tienda en línea: https://tienda.ememsa.com. \n\nGracias por tu interés en Ememsa.\nuser: _event_media_\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. Si tienes alguna consulta, por favor escríbela y estaré encantado de ayudarte.\nuser: área de logística",
+    "userNumber": "51940308155",
+    "userName": "INVERSIONES WARRIOR'S",
+    "botResponse": "Para consultas relacionadas con logística, como ingresos de proveedores, adquisiciones o importaciones, puedes contactar al siguiente número: **980292435**. \n\nSi necesitas más información sobre nuestros productos o servicios, no dudes en preguntar. \n\nGracias por comunicarte con Ememsa."
+  },
+  {
+    "id": "7b37a171-374b-4e26-9c1a-0f72db74306c",
+    "timestamp": "2024-12-13T19:59:13.546Z",
+    "userMessage": "user: Buen día",
+    "userNumber": "51958415679",
+    "userName": "🎨🎬",
+    "botResponse": "¡Buen día! ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "66b79628-d645-40bc-b779-7231122cc8bf",
+    "timestamp": "2024-12-13T19:59:21.003Z",
+    "userMessage": "user: Buen día\nassistant: ¡Buen día! ¿En qué puedo ayudarte hoy?\nuser: Me podría dar referencia de la tienda en Arequipa",
+    "userNumber": "51958415679",
+    "userName": "🎨🎬",
+    "botResponse": "Ememsa no cuenta con una tienda abierta al público en Arequipa ni en ninguna otra ubicación. Sin embargo, puedes explorar nuestros productos a través de nuestra tienda en línea en https://tienda.ememsa.com. Si necesitas más información o asesoría, no dudes en preguntar. ¡Estoy aquí para ayudarte!"
+  },
+  {
+    "id": "827f7be5-d5ce-4656-af78-ef2e58cf0fa5",
+    "timestamp": "2024-12-13T19:59:48.964Z",
+    "userMessage": "user: Buen día\nassistant: ¡Buen día! ¿En qué puedo ayudarte hoy?\nuser: Me podría dar referencia de la tienda en Arequipa\nassistant: Ememsa no cuenta con una tienda abierta al público en Arequipa ni en ninguna otra ubicación. Sin embargo, puedes explorar nuestros productos a través de nuestra tienda en línea en https://tienda.ememsa.com. Si necesitas más información o asesoría, no dudes en preguntar. ¡Estoy aquí para ayudarte!\nuser: En internet figura",
+    "userNumber": "51958415679",
+    "userName": "🎨🎬",
+    "botResponse": "Lamento la confusión, pero Ememsa no tiene tiendas físicas abiertas al público. Todas las compras se realizan a través de nuestra tienda en línea, donde puedes encontrar nuestros productos. Si necesitas más información o tienes alguna consulta específica, estaré encantado de ayudarte."
+  },
+  {
+    "id": "2f74e7a6-484d-418b-9dee-a162b00c9580",
+    "timestamp": "2024-12-16T12:56:46.209Z",
+    "userMessage": "user: Buenas tardes tubería negra de 2 pulgada que precio necesito 20 unidades",
+    "userNumber": "51959319222",
+    "userName": "",
+    "botResponse": "Buenas tardes. Lamentablemente, no tengo acceso a precios específicos. Te recomiendo visitar nuestra tienda en línea para consultar la disponibilidad y precios de tuberías negras de 2 pulgadas. Puedes hacerlo en el siguiente enlace: [Tienda Ememsa](https://tienda.ememsa.com).\n\nSi necesitas más información o asesoría técnica, no dudes en decírmelo. Gracias por comunicarte con Ememsa."
+  },
+  {
+    "id": "eb2d5c04-1813-46b2-8985-fe55bae91128",
+    "timestamp": "2024-12-16T13:27:42.803Z",
+    "userMessage": "user: buenos dias estimado",
+    "userNumber": "51983746985",
+    "userName": "Erick",
+    "botResponse": "¡Buenos días, Erick! ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "2b18dd4c-6393-4798-ba29-a5d1031c2ec7",
+    "timestamp": "2024-12-16T13:27:57.169Z",
+    "userMessage": "user: buenos dias estimado\nassistant: ¡Buenos días, Erick! ¿En qué puedo ayudarte hoy?\nuser: mi nombre es erick tarmeño, asistente logistico",
+    "userNumber": "51983746985",
+    "userName": "Erick",
+    "botResponse": "¡Encantado de conocerte, Erick Tarmeño! ¿En qué puedo asistirte hoy?"
+  },
+  {
+    "id": "2e3993d3-a2f4-4bae-b09e-df4816850325",
+    "timestamp": "2024-12-16T13:28:20.098Z",
+    "userMessage": "user: buenos dias estimado\nassistant: ¡Buenos días, Erick! ¿En qué puedo ayudarte hoy?\nuser: mi nombre es erick tarmeño, asistente logistico\nassistant: ¡Encantado de conocerte, Erick Tarmeño! ¿En qué puedo asistirte hoy?\nuser: _event_media_",
+    "userNumber": "51983746985",
+    "userName": "Erick",
+    "botResponse": "Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. ¿Cómo puedo ayudarte hoy?"
+  },
+  {
+    "id": "5ddcde1e-a94a-4b7e-99d8-6992b91bd009",
+    "timestamp": "2024-12-16T13:31:13.899Z",
+    "userMessage": "user: buenos dias estimado\nassistant: ¡Buenos días, Erick! ¿En qué puedo ayudarte hoy?\nuser: mi nombre es erick tarmeño, asistente logistico\nassistant: ¡Encantado de conocerte, Erick Tarmeño! ¿En qué puedo asistirte hoy?\nuser: _event_media_\nassistant: Lamento informarte que soy un bot diseñado exclusivamente para responder mensajes de texto. ¿Cómo puedo ayudarte hoy?\nuser: requiero que me coticen este rollo de tubo de pex al pex",
+    "userNumber": "51983746985",
+    "userName": "Erick",
+    "botResponse": "Para obtener una cotización del tubo PEX AL PEX, te recomiendo contactar a nuestro técnico especializado. Puedes hacerlo a través del siguiente enlace: [Contacto Técnico](https://wa.me/+51978585422?text=Buen%20dia%20requiero%20info). \n\nSi necesitas más información sobre nuestros productos, no dudes en preguntar. ¡Estoy aquí para ayudarte!"
+  },
+  {
+    "id": "30c31c83-0b72-408d-b365-fc0134d4b66e",
+    "timestamp": "2024-12-16T15:37:08.318Z",
+    "userMessage": "user: Hola",
+    "userNumber": "51984733676",
+    "userName": "Armando",
+    "botResponse": "¡Hola, Armando! ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "6429840e-af9c-46c8-9c18-51fb23a40c02",
+    "timestamp": "2024-12-16T15:37:20.617Z",
+    "userMessage": "user: Hola\nassistant: ¡Hola, Armando! ¿En qué puedo ayudarte hoy?\nuser: Buenos dias",
+    "userNumber": "51984733676",
+    "userName": "Armando",
+    "botResponse": "¡Buenos días, Armando! ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "e08a2414-877f-4ea9-88ae-789f42f654cf",
+    "timestamp": "2024-12-16T15:37:52.233Z",
+    "userMessage": "user: Hola\nassistant: ¡Hola, Armando! ¿En qué puedo ayudarte hoy?\nuser: Buenos dias\nassistant: ¡Buenos días, Armando! ¿En qué puedo ayudarte hoy?\nuser: Tendrás manguera de freno delantera lado piloto para dodge caravan del 2006",
+    "userNumber": "51984733676",
+    "userName": "Armando",
+    "botResponse": "Contamos con una amplia gama de accesorios automotrices, incluyendo mangueras para sistemas de freno. Te invito a explorar nuestro catálogo de mangueras y cañerías automotrices en el siguiente enlace: [Catálogo Mangueras Automotrices](https://ememsa.com/wp-content/uploads/2024/08/CATALOGO-MANGUERAS-AUTOMOTRICES_0824.pdf).\n\nSi necesitas asesoría técnica, no dudes en contactar a nuestro especialista aquí: [Contacto Técnico](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar).\n\n¿Te gustaría recibir más información sobre algún otro producto?"
+  },
+  {
+    "id": "a0bc42ce-71c1-42bb-8348-21ecba05cb89",
+    "timestamp": "2024-12-16T16:03:30.032Z",
+    "userMessage": "user: Hola Alejandro.\nVi que te interesó el \"𝐁𝐎𝐀𝐑𝐃 𝐌𝐄𝐌𝐁𝐄𝐑𝐒 𝐒𝐔𝐌𝐌𝐈𝐓\" estamos emocionados de invitarte a ser parte de la 3° 𝘦𝘥𝘪𝘤𝘪ó𝘯 𝘲𝘶𝘦 𝘴𝘦𝘳á 𝘦𝘭 05 𝘥𝘦 𝘮𝘢𝘺𝘰.\n\nSerán 20 𝘗𝘢𝘯𝘦𝘭𝘪𝘴𝘵𝘢𝘴, 3 𝘒𝘦𝘺𝘯𝘰𝘵𝘦 𝘚𝘱𝘦𝘢𝘬𝘦𝘳𝘴 𝘺 𝘮á𝘴 𝘥𝘦 200 participantes lo que brindará una excelente oportunidad para establecer conexiones y compartir experiencias.\n\n¡Asegura tu lugar en el evento que marcará la pauta en gobernanza y liderazgo! 😊",
+    "userNumber": "51907491953",
+    "userName": "Claudia Contreras",
+    "botResponse": "Hola, Claudia. Gracias por tu mensaje. Sin embargo, soy un asistente virtual de Ememsa y no puedo procesar información relacionada con eventos o actividades ajenas a nuestros productos y servicios. \n\nSi necesitas información sobre nuestras líneas de negocio o productos, estaré encantado de ayudarte. Para más detalles, puedes visitar nuestra tienda en línea: https://tienda.ememsa.com.\n\nGracias por comunicarte con Ememsa."
+  },
+  {
+    "id": "c8921234-55e1-4fd9-92d6-70e5ce844dff",
+    "timestamp": "2024-12-16T16:03:32.156Z",
+    "userMessage": "user: Hola Alejandro.\nVi que te interesó el \"𝐁𝐎𝐀𝐑𝐃 𝐌𝐄𝐌𝐁𝐄𝐑𝐒 𝐒𝐔𝐌𝐌𝐈𝐓\" estamos emocionados de invitarte a ser parte de la 3° 𝘦𝘥𝘪𝘤𝘪ó𝘯 𝘲𝘶𝘦 𝘴𝘦𝘳á 𝘦𝘭 05 𝘥𝘦 𝘮𝘢𝘺𝘰.\n\nSerán 20 𝘗𝘢𝘯𝘦𝘭𝘪𝘴𝘵𝘢𝘴, 3 𝘒𝘦𝘺𝘯𝘰𝘵𝘦 𝘚𝘱𝘦𝘢𝘬𝘦𝘳𝘴 𝘺 𝘮á𝘴 𝘥𝘦 200 participantes lo que brindará una excelente oportunidad para establecer conexiones y compartir experiencias.\n\n¡Asegura tu lugar en el evento que marcará la pauta en gobernanza y liderazgo! 😊\nassistant: Hola, Claudia. Gracias por tu mensaje. Sin embargo, soy un asistente virtual de Ememsa y no puedo procesar información relacionada con eventos o actividades ajenas a nuestros productos y servicios. \n\nSi necesitas información sobre nuestras líneas de negocio o productos, estaré encantado de ayudarte. Para más detalles, puedes visitar nuestra tienda en línea: https://tienda.ememsa.com.\n\nGracias por comunicarte con Ememsa.\nuser: ",
+    "userNumber": "51907491953",
+    "userName": "Claudia Contreras",
+    "botResponse": "Hola, ¿en qué puedo ayudarte hoy? Si tienes alguna consulta sobre nuestros productos o servicios, estaré encantado de asistirte."
+  },
+  {
+    "id": "e1464cc7-2bf1-44d0-9233-20ab88c8d9f0",
+    "timestamp": "2024-12-16T16:35:30.210Z",
+    "userMessage": "user: hola",
+    "userNumber": "51964918615",
+    "userName": "Jesus",
+    "botResponse": "¡Hola, Jesús! ¿Cómo puedo ayudarte hoy?"
+  },
+  {
+    "id": "3c87731d-87db-43e8-962a-d2653cd42157",
+    "timestamp": "2024-12-16T16:35:41.736Z",
+    "userMessage": "user: hola\nassistant: ¡Hola, Jesús! ¿Cómo puedo ayudarte hoy?\nuser: ",
+    "userNumber": "51964918615",
+    "userName": "Jesus",
+    "botResponse": "Estoy aquí para ayudarte con cualquier consulta que tengas sobre nuestros productos o servicios en Ememsa. ¿En qué puedo asistirte hoy?"
+  },
+  {
+    "id": "ea8bd349-4925-42e8-8076-558bad4220ca",
+    "timestamp": "2024-12-16T16:35:43.196Z",
+    "userMessage": "user: hola\nassistant: ¡Hola, Jesús! ¿Cómo puedo ayudarte hoy?\nuser: \nassistant: Estoy aquí para ayudarte con cualquier consulta que tengas sobre nuestros productos o servicios en Ememsa. ¿En qué puedo asistirte hoy?\nuser: ",
+    "userNumber": "51964918615",
+    "userName": "Jesus",
+    "botResponse": "Si tienes alguna pregunta o necesitas información específica, no dudes en decírmelo. Estoy aquí para ayudarte."
+  },
+  {
+    "id": "da51f6b3-bfa6-4fdb-b8c2-3750053ce4c8",
+    "timestamp": "2024-12-16T16:37:07.230Z",
+    "userMessage": "user: hola\nassistant: ¡Hola, Jesús! ¿Cómo puedo ayudarte hoy?\nuser: \nassistant: Estoy aquí para ayudarte con cualquier consulta que tengas sobre nuestros productos o servicios en Ememsa. ¿En qué puedo asistirte hoy?\nuser: \nassistant: Si tienes alguna pregunta o necesitas información específica, no dudes en decírmelo. Estoy aquí para ayudarte.\nuser: compran barras de cobre ?",
+    "userNumber": "51964918615",
+    "userName": "Jesus",
+    "botResponse": "Para consultas sobre compras de barras de cobre, te recomiendo contactar directamente a nuestro equipo de compras o logística al número 980292435. Ellos podrán brindarte la información necesaria. \n\nGracias por comunicarte con Ememsa."
+  },
+  {
+    "id": "d5275371-9700-4636-8288-19271b0b2dfd",
+    "timestamp": "2024-12-16T16:37:08.537Z",
+    "userMessage": "user: hola\nassistant: ¡Hola, Jesús! ¿Cómo puedo ayudarte hoy?\nuser: \nassistant: Estoy aquí para ayudarte con cualquier consulta que tengas sobre nuestros productos o servicios en Ememsa. ¿En qué puedo asistirte hoy?\nuser: \nassistant: Si tienes alguna pregunta o necesitas información específica, no dudes en decírmelo. Estoy aquí para ayudarte.\nuser: compran barras de cobre ?\nassistant: Para consultas sobre compras de barras de cobre, te recomiendo contactar directamente a nuestro equipo de compras o logística al número 980292435. Ellos podrán brindarte la información necesaria. \n\nGracias por comunicarte con Ememsa.\nuser: ",
+    "userNumber": "51964918615",
+    "userName": "Jesus",
+    "botResponse": "Para mayor información, consulta nuestra página web: https://ememsa.com. \n\nGracias por comunicarte con Ememsa."
+  },
+  {
+    "id": "780e0cfb-75db-41fa-8059-780c8fff7b09",
+    "timestamp": "2024-12-16T16:56:36.571Z",
+    "userMessage": "user: Buenas tardes, tendra bronce de 3/4\" o 1/2\"",
+    "userNumber": "51904647171",
+    "userName": "Rosario P.P.",
+    "botResponse": "Buenas tardes, Rosario. Sí, contamos con barras de bronce en diferentes medidas, incluyendo 3/4\" y 1/2\". Para más detalles sobre nuestros productos de bronce, puedes consultar nuestro catálogo aquí: [Barras de latón o bronce dulce](https://ememsa.com/laton/).\n\nSi necesitas asesoría técnica especializada, puedes contactar a nuestro técnico en este enlace: [Asesoría Técnica](https://wa.me/+51944453817?text=Buen%20dia%20requiero%20info).\n\n¿Hay algo más en lo que pueda ayudarte?"
+  },
+  {
+    "id": "d1b226d8-395d-461a-a774-8c4106168a55",
+    "timestamp": "2024-12-16T19:16:03.380Z",
+    "userMessage": "user: Buenas tardes",
+    "userNumber": "51992911160",
+    "userName": "Julian Sebastian",
+    "botResponse": "¡Buenas tardes, Julián Sebastián! ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "184bf721-9440-4fe8-bf76-aadeb6aae75f",
+    "timestamp": "2024-12-16T19:16:47.645Z",
+    "userMessage": "user: Buenas tardes\nassistant: ¡Buenas tardes, Julián Sebastián! ¿En qué puedo ayudarte hoy?\nuser: Me pueden dar una cotización de manguera marca dunlop de 3/8",
+    "userNumber": "51992911160",
+    "userName": "Julian Sebastian",
+    "botResponse": "Las mangueras Dunlop son parte de nuestra línea de accesorios automotrices. Para obtener una cotización específica, te recomiendo contactar a nuestro técnico especializado. Puedes hacerlo a través del siguiente enlace: [Cotizar Accesorios Automotrices](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar). \n\nSi necesitas más información o un catálogo, házmelo saber. ¡Estoy aquí para ayudarte!"
+  },
+  {
+    "id": "c8f57772-c3db-411e-9f73-2486ec0f6fa0",
+    "timestamp": "2024-12-16T20:09:48.544Z",
+    "userMessage": "user: Hola buenas tardes consulta",
+    "userNumber": "51942667475",
+    "userName": "Juan Llanos",
+    "botResponse": "¡Buenas tardes, Juan! ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "e145ddc3-9872-4b48-b085-a0c7ffea9bf6",
+    "timestamp": "2024-12-16T20:10:11.239Z",
+    "userMessage": "user: Hola buenas tardes consulta\nassistant: ¡Buenas tardes, Juan! ¿En qué puedo ayudarte hoy?\nuser: Para un repuesto de for f250 año 1982",
+    "userNumber": "51942667475",
+    "userName": "Juan Llanos",
+    "botResponse": "Para poder asistirte mejor, ¿podrías especificar qué tipo de repuesto necesitas para la Ford F250 año 1982? Contamos con accesorios automotrices que podrían ser de tu interés."
+  },
+  {
+    "id": "93ffbe27-8b61-4461-832b-942be9fc6aac",
+    "timestamp": "2024-12-16T20:10:36.872Z",
+    "userMessage": "user: Hola buenas tardes consulta\nassistant: ¡Buenas tardes, Juan! ¿En qué puedo ayudarte hoy?\nuser: Para un repuesto de for f250 año 1982\nassistant: Para poder asistirte mejor, ¿podrías especificar qué tipo de repuesto necesitas para la Ford F250 año 1982? Contamos con accesorios automotrices que podrían ser de tu interés.\nuser: Purgador de freno",
+    "userNumber": "51942667475",
+    "userName": "Juan Llanos",
+    "botResponse": "Puedes encontrar nuestros purgadores de freno en la tienda en línea de Ememsa. Te invito a explorar las opciones disponibles en distintas medidas y precios. Aquí tienes el enlace: [Purgadores de freno](https://ememsa.com/wp-content/uploads/2024/08/CATALOGO-NIPLERIA-AUTOMOTRIZ_0824.pdf).\n\nAdemás, si necesitas asesoría técnica, puedes contactar a nuestro especialista aquí: [Asesoría Técnica](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar). \n\n¿Te gustaría recibir el catálogo completo de nuestros productos automotrices?"
+  },
+  {
+    "id": "cfcbbfb3-c257-4443-81c9-770376514958",
+    "timestamp": "2024-12-16T21:05:44.058Z",
+    "userMessage": "user: _event_media_",
+    "userNumber": "51954756600",
+    "userName": "Williams Miranda",
+    "botResponse": "Hola, Williams Miranda. Es un placer atenderte. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "0e19cef6-1c18-42be-be08-f4160adbadb0",
+    "timestamp": "2024-12-16T21:17:30.163Z",
+    "userMessage": "user: _event_media_\nassistant: Hola, Williams Miranda. Es un placer atenderte. ¿En qué puedo ayudarte hoy?\nuser: Buenas tardes, 👆🏽¿este regulador de gas es compatible con cualquier balon de gas glp (ejm 5kg o 15kg)? ¿Solo para balones q usan actualmente regulador Premiun?",
+    "userNumber": "51954756600",
+    "userName": "Williams Miranda",
+    "botResponse": "Buenas tardes, Williams. Los reguladores de GLP están diseñados para ser compatibles con balones de gas específicos. Para asegurarte de que el regulador que mencionas es adecuado para tus balones (5 kg o 15 kg), te recomendaría consultar la información técnica del producto o contactar a un técnico especializado.\n\nPuedes comunicarte con nuestro técnico especializado en válvulas para GLP a través del siguiente enlace: [Técnico Válvulas GLP](https://wa.me/+51967020770?text=Buen%20dia%20requiero%20info).\n\nSi necesitas más información, no dudes en preguntar. Gracias por comunicarte con Ememsa."
   }
 ]
