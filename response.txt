@@ -20414,5 +20414,373 @@
     "userNumber": "51906784016",
     "userName": "ronaldgomezsuyon19",
     "botResponse": "Para consultas relacionadas con empleo o reclutamiento, puedes contactar a Recursos Humanos al 963127831. Ellos podrán brindarte la información que necesitas. \n\nGracias por comunicarte con Ememsa."
+  },
+  {
+    "id": "65f627a7-f85f-46a1-b3c8-1e854ea80d6d",
+    "timestamp": "2025-01-30T16:47:07.841Z",
+    "userMessage": "user: undefined",
+    "userNumber": "51998104517",
+    "userName": "Julio",
+    "botResponse": "¡Hola, Julio! Es un placer conocerte. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "ecd05a10-8585-4ea3-a46a-0fc298d92e9a",
+    "timestamp": "2025-01-30T16:47:11.963Z",
+    "userMessage": "user: undefined\nassistant: ¡Hola, Julio! Es un placer conocerte. ¿En qué puedo ayudarte hoy?\nuser: Necesitamos 500",
+    "userNumber": "51998104517",
+    "userName": "Julio",
+    "botResponse": "Para poder ayudarte mejor, ¿podrías especificar qué producto necesitas en 500 unidades? Esto me permitirá ofrecerte la información más adecuada."
+  },
+  {
+    "id": "17b3eca7-be91-4b84-b0b1-e4f74de968db",
+    "timestamp": "2025-01-30T16:47:17.165Z",
+    "userMessage": "user: undefined",
+    "userNumber": "51956014793",
+    "userName": "Fátima Loayza - Brocker de Seguros",
+    "botResponse": "Hola, Fátima. Es un placer saludarte. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "dbbdeda5-bd1f-4e5d-b854-1fe3797e6c54",
+    "timestamp": "2025-01-30T16:47:21.619Z",
+    "userMessage": "user: undefined",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "¡Hola, Rolando! Es un placer saludarte. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "48ec6330-43b0-4eab-99fb-44b088d86dc4",
+    "timestamp": "2025-01-30T16:47:27.286Z",
+    "userMessage": "user: undefined\nassistant: ¡Hola, Rolando! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nuser: undefined",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "Parece que no he podido entender tu mensaje. Si tienes alguna consulta o necesitas información sobre nuestros productos o servicios, por favor házmelo saber. Estoy aquí para ayudarte."
+  },
+  {
+    "id": "26cfd30e-4f45-4b8e-8210-2b8b55472a62",
+    "timestamp": "2025-01-30T16:47:29.236Z",
+    "userMessage": "user: undefined\nassistant: Hola, Fátima. Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nuser: Estimados EMPRESA METAL MECANICA S A EMEMSA, buenos días:\n\nSoy Fátima Loayza, corredora de seguros. Si tienes la necesidad de asegurar:\n✅ SCTR\n✅ Responsabilidad Civil\n✅ CAR (Todo Riesgo Construcción)\n✅ SOAT\n✅ Y otros riesgos asegurables,\n\nCuentas con mi respaldo como asesora profesional con más de 10 años de experiencia en el sector asegurador.\n\n✨ Estoy aquí para ofrecerte soluciones personalizadas que protejan tus proyectos y te brinden tranquilidad.\n\nSaludos cordiales y mucho éxito en tus proyectos. 👷🏼‍♂️💪",
+    "userNumber": "51956014793",
+    "userName": "Fátima Loayza - Brocker de Seguros",
+    "botResponse": "Estimados Fátima, gracias por tu mensaje y por ofrecer tus servicios. Sin embargo, en Ememsa nos especializamos en productos y servicios metalmecánicos. Si necesitas información sobre nuestras líneas de negocio, estaré encantado de ayudarte. \n\nPara consultas específicas, puedes visitar nuestra tienda en línea: https://tienda.ememsa.com. \n\nGracias por comunicarte con Ememsa."
+  },
+  {
+    "id": "a5e948f6-c6ce-4f7f-92da-506d464bd863",
+    "timestamp": "2025-01-30T16:47:30.345Z",
+    "userMessage": "user: undefined\nassistant: ¡Hola, Julio! Es un placer conocerte. ¿En qué puedo ayudarte hoy?\nuser: Necesitamos 500\nassistant: Para poder ayudarte mejor, ¿podrías especificar qué producto necesitas en 500 unidades? Esto me permitirá ofrecerte la información más adecuada.\nuser: Buen día fabrican válvulas de aguja de 1/4",
+    "userNumber": "51998104517",
+    "userName": "Julio",
+    "botResponse": "Ememsa no fabrica válvulas de aguja, pero contamos con una línea de válvulas para GLP que podrían interesarte. Te recomiendo revisar el catálogo de válvulas para más información. Aquí tienes el enlace: [Válvulas para GLP](https://ememsa.com/wp-content/uploads/2018/10/Brochure-Reguladores-GLP-top-Gas.pdf).\n\nSi necesitas asesoría técnica específica, puedes contactar a nuestro especialista aquí: [Asesoría Técnica](https://wa.me/+51967020770?text=Buen%20dia%20requiero%20info).\n\n¿Hay algo más en lo que pueda asistirte?"
+  },
+  {
+    "id": "d9b2718b-d519-4929-9918-4f2e8b93efea",
+    "timestamp": "2025-01-30T16:47:39.142Z",
+    "userMessage": "user: undefined\nassistant: ¡Hola, Rolando! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nuser: undefined\nassistant: Parece que no he podido entender tu mensaje. Si tienes alguna consulta o necesitas información sobre nuestros productos o servicios, por favor házmelo saber. Estoy aquí para ayudarte.\nuser: undefined",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "Entiendo que puede haber un problema con tu mensaje. Si tienes alguna pregunta o necesitas información sobre nuestros productos o servicios, no dudes en escribirme. Estoy aquí para asistirte."
+  },
+  {
+    "id": "5f1bed29-e742-42ef-827f-ecad24f4b44e",
+    "timestamp": "2025-01-30T16:47:45.252Z",
+    "userMessage": "user: undefined\nassistant: ¡Hola, Rolando! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nuser: undefined\nassistant: Parece que no he podido entender tu mensaje. Si tienes alguna consulta o necesitas información sobre nuestros productos o servicios, por favor házmelo saber. Estoy aquí para ayudarte.\nuser: undefined\nassistant: Entiendo que puede haber un problema con tu mensaje. Si tienes alguna pregunta o necesitas información sobre nuestros productos o servicios, no dudes en escribirme. Estoy aquí para asistirte.\nuser: undefined",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "Parece que no estoy recibiendo tu mensaje correctamente. Si tienes alguna consulta sobre nuestros productos o servicios, por favor intenta escribirlo nuevamente. Estoy aquí para ayudarte."
+  },
+  {
+    "id": "02935295-e52a-4d66-a2bc-fce6372cec05",
+    "timestamp": "2025-01-30T16:47:50.305Z",
+    "userMessage": "user: undefined\nassistant: ¡Hola, Rolando! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nuser: undefined\nassistant: Parece que no he podido entender tu mensaje. Si tienes alguna consulta o necesitas información sobre nuestros productos o servicios, por favor házmelo saber. Estoy aquí para ayudarte.\nuser: undefined\nassistant: Entiendo que puede haber un problema con tu mensaje. Si tienes alguna pregunta o necesitas información sobre nuestros productos o servicios, no dudes en escribirme. Estoy aquí para asistirte.\nuser: undefined\nassistant: Parece que no estoy recibiendo tu mensaje correctamente. Si tienes alguna consulta sobre nuestros productos o servicios, por favor intenta escribirlo nuevamente. Estoy aquí para ayudarte.\nuser: Test",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "¡Hola! Parece que tu mensaje ha llegado correctamente. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "cacc5895-549b-43e7-9a08-caf300d028b4",
+    "timestamp": "2025-01-30T16:47:59.980Z",
+    "userMessage": "assistant: ¡Hola, Rolando! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nuser: undefined\nassistant: Parece que no he podido entender tu mensaje. Si tienes alguna consulta o necesitas información sobre nuestros productos o servicios, por favor házmelo saber. Estoy aquí para ayudarte.\nuser: undefined\nassistant: Entiendo que puede haber un problema con tu mensaje. Si tienes alguna pregunta o necesitas información sobre nuestros productos o servicios, no dudes en escribirme. Estoy aquí para asistirte.\nuser: undefined\nassistant: Parece que no estoy recibiendo tu mensaje correctamente. Si tienes alguna consulta sobre nuestros productos o servicios, por favor intenta escribirlo nuevamente. Estoy aquí para ayudarte.\nuser: Test\nassistant: ¡Hola! Parece que tu mensaje ha llegado correctamente. ¿En qué puedo ayudarte hoy?\nuser: Hola",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "¡Hola! Es un placer saludarte. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "36429c60-787b-4be3-a018-a1970a8d630e",
+    "timestamp": "2025-01-30T16:48:48.493Z",
+    "userMessage": "user: undefined",
+    "userNumber": "51986490850",
+    "userName": "Baruc Dios Es El Creador",
+    "botResponse": "¡Hola Baruc! Es un placer saludarte. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "36564d8c-0473-477c-b38b-4633f416672f",
+    "timestamp": "2025-01-30T16:48:53.145Z",
+    "userMessage": "user: undefined\nassistant: ¡Hola Baruc! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nuser: ",
+    "userNumber": "51986490850",
+    "userName": "Baruc Dios Es El Creador",
+    "botResponse": "Parece que no has escrito nada. Si tienes alguna consulta o necesitas información sobre nuestros productos o servicios, estaré encantado de ayudarte."
+  },
+  {
+    "id": "fe82ca1d-db9b-4ed2-8ee7-9dbcfea8fc7f",
+    "timestamp": "2025-01-30T16:49:05.545Z",
+    "userMessage": "user: undefined\nassistant: Hola, Fátima. Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nuser: Estimados EMPRESA METAL MECANICA S A EMEMSA, buenos días:\n\nSoy Fátima Loayza, corredora de seguros. Si tienes la necesidad de asegurar:\n✅ SCTR\n✅ Responsabilidad Civil\n✅ CAR (Todo Riesgo Construcción)\n✅ SOAT\n✅ Y otros riesgos asegurables,\n\nCuentas con mi respaldo como asesora profesional con más de 10 años de experiencia en el sector asegurador.\n\n✨ Estoy aquí para ofrecerte soluciones personalizadas que protejan tus proyectos y te brinden tranquilidad.\n\nSaludos cordiales y mucho éxito en tus proyectos. 👷🏼‍♂️💪\nassistant: Estimados Fátima, gracias por tu mensaje y por ofrecer tus servicios. Sin embargo, en Ememsa nos especializamos en productos y servicios metalmecánicos. Si necesitas información sobre nuestras líneas de negocio, estaré encantado de ayudarte. \n\nPara consultas específicas, puedes visitar nuestra tienda en línea: https://tienda.ememsa.com. \n\nGracias por comunicarte con Ememsa.\nuser: claro que sí, en caso alguna de las empresas a las que asesoro me piden datos, daré los datos de EMEMSA ☺️",
+    "userNumber": "51956014793",
+    "userName": "Fátima Loayza - Brocker de Seguros",
+    "botResponse": "Agradecemos tu disposición, Fátima. Si alguna de las empresas que asesoras requiere información sobre nuestros productos o servicios, estaré aquí para ayudarles. Recuerda que pueden visitar nuestra tienda en línea en https://tienda.ememsa.com para explorar lo que ofrecemos.\n\nGracias por comunicarte con Ememsa y no dudes en contactarnos si necesitas más información. ¡Te deseo mucho éxito en tus gestiones!"
+  },
+  {
+    "id": "559908c6-bb1d-44a3-b170-96dc2ac3145d",
+    "timestamp": "2025-01-30T16:49:09.434Z",
+    "userMessage": "user: undefined\nassistant: ¡Hola Baruc! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nuser: \nassistant: Parece que no has escrito nada. Si tienes alguna consulta o necesitas información sobre nuestros productos o servicios, estaré encantado de ayudarte.\nuser: Muy amable",
+    "userNumber": "51986490850",
+    "userName": "Baruc Dios Es El Creador",
+    "botResponse": "Gracias, Baruc. Estoy aquí para ayudarte. ¿Tienes alguna pregunta específica sobre nuestros productos o servicios en Ememsa?"
+  },
+  {
+    "id": "58d5c40d-5f23-444a-b30b-c11e3306fcc8",
+    "timestamp": "2025-01-30T16:59:26.392Z",
+    "userMessage": "user: Saludos mym martín contreras",
+    "userNumber": "51979125840",
+    "userName": "Martin",
+    "botResponse": "Hola Martín, ¡un gusto saludarte! ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "94f09878-4bc1-4b0d-b9fd-d3405d342c32",
+    "timestamp": "2025-01-30T16:59:58.579Z",
+    "userMessage": "user: Hola",
+    "userNumber": "51996602002",
+    "userName": "Analista Comercial",
+    "botResponse": "¡Hola! ¿Cómo puedo ayudarte hoy?"
+  },
+  {
+    "id": "1e333670-2817-4277-8a36-d006c3bd1666",
+    "timestamp": "2025-01-30T17:00:11.859Z",
+    "userMessage": "user: Saludos mym martín contreras\nassistant: Hola Martín, ¡un gusto saludarte! ¿En qué puedo ayudarte hoy?\nuser: Necesito comunicarme sr.irvin meza podría indicarme su número celular",
+    "userNumber": "51979125840",
+    "userName": "Martin",
+    "botResponse": "Lamentablemente, no puedo proporcionar información de contacto personal. Te recomiendo que consultes nuestra página web o te comuniques a través de los canales oficiales de Ememsa. Si necesitas ayuda con algún producto o servicio, estaré encantado de asistirte. ¡Gracias por tu comprensión!"
+  },
+  {
+    "id": "728749e5-a942-43ba-a561-58d22c003b16",
+    "timestamp": "2025-01-30T17:01:24.720Z",
+    "userMessage": "user: Saludos mym martín contreras\nassistant: Hola Martín, ¡un gusto saludarte! ¿En qué puedo ayudarte hoy?\nuser: Necesito comunicarme sr.irvin meza podría indicarme su número celular\nassistant: Lamentablemente, no puedo proporcionar información de contacto personal. Te recomiendo que consultes nuestra página web o te comuniques a través de los canales oficiales de Ememsa. Si necesitas ayuda con algún producto o servicio, estaré encantado de asistirte. ¡Gracias por tu comprensión!\nuser: Bueno necesito comprar tapones de culata bronce cant.1200 confirma stock",
+    "userNumber": "51979125840",
+    "userName": "Martin",
+    "botResponse": "Para consultar sobre la disponibilidad de tapones de culata de bronce, te recomiendo que te comuniques directamente con nuestro técnico especializado. Puedes hacerlo a través del siguiente enlace: [Contacto Técnico](https://wa.me/+51967020770?text=Buen%20dia%20requiero%20info). \n\nSi deseas, también puedo proporcionarte el catálogo de productos. ¿Te gustaría eso?"
+  },
+  {
+    "id": "133e4f71-a42b-4cbb-9511-0468b0611538",
+    "timestamp": "2025-01-30T17:02:02.185Z",
+    "userMessage": "user: Saludos mym martín contreras\nassistant: Hola Martín, ¡un gusto saludarte! ¿En qué puedo ayudarte hoy?\nuser: Necesito comunicarme sr.irvin meza podría indicarme su número celular\nassistant: Lamentablemente, no puedo proporcionar información de contacto personal. Te recomiendo que consultes nuestra página web o te comuniques a través de los canales oficiales de Ememsa. Si necesitas ayuda con algún producto o servicio, estaré encantado de asistirte. ¡Gracias por tu comprensión!\nuser: Bueno necesito comprar tapones de culata bronce cant.1200 confirma stock\nassistant: Para consultar sobre la disponibilidad de tapones de culata de bronce, te recomiendo que te comuniques directamente con nuestro técnico especializado. Puedes hacerlo a través del siguiente enlace: [Contacto Técnico](https://wa.me/+51967020770?text=Buen%20dia%20requiero%20info). \n\nSi deseas, también puedo proporcionarte el catálogo de productos. ¿Te gustaría eso?\nuser: Bueno necesito comprar tapones de culata bronce cant.1200 confirma stock",
+    "userNumber": "51979125840",
+    "userName": "Martin",
+    "botResponse": "Para confirmar la disponibilidad de tapones de culata de bronce, te sugiero que contactes a nuestro técnico especializado. Puedes hacerlo a través del siguiente enlace: [Contacto Técnico](https://wa.me/+51967020770?text=Buen%20dia%20requiero%20info).\n\nSi necesitas más información sobre otros productos o servicios, no dudes en decírmelo. ¡Estoy aquí para ayudar!"
+  },
+  {
+    "id": "26916b1d-7347-4ac0-a92e-2835dbc8dd22",
+    "timestamp": "2025-01-30T17:02:59.204Z",
+    "userMessage": "user: Saludos mym martín contreras\nassistant: Hola Martín, ¡un gusto saludarte! ¿En qué puedo ayudarte hoy?\nuser: Necesito comunicarme sr.irvin meza podría indicarme su número celular\nassistant: Lamentablemente, no puedo proporcionar información de contacto personal. Te recomiendo que consultes nuestra página web o te comuniques a través de los canales oficiales de Ememsa. Si necesitas ayuda con algún producto o servicio, estaré encantado de asistirte. ¡Gracias por tu comprensión!\nuser: Bueno necesito comprar tapones de culata bronce cant.1200 confirma stock\nassistant: Para consultar sobre la disponibilidad de tapones de culata de bronce, te recomiendo que te comuniques directamente con nuestro técnico especializado. Puedes hacerlo a través del siguiente enlace: [Contacto Técnico](https://wa.me/+51967020770?text=Buen%20dia%20requiero%20info). \n\nSi deseas, también puedo proporcionarte el catálogo de productos. ¿Te gustaría eso?\nuser: Bueno necesito comprar tapones de culata bronce cant.1200 confirma stock\nassistant: Para confirmar la disponibilidad de tapones de culata de bronce, te sugiero que contactes a nuestro técnico especializado. Puedes hacerlo a través del siguiente enlace: [Contacto Técnico](https://wa.me/+51967020770?text=Buen%20dia%20requiero%20info).\n\nSi necesitas más información sobre otros productos o servicios, no dudes en decírmelo. ¡Estoy aquí para ayudar!\nuser: Bueno necesito comprar tapones de culata bronce cant.1200 confirma stock",
+    "userNumber": "51979125840",
+    "userName": "Martin",
+    "botResponse": "Para confirmar la disponibilidad de 1200 tapones de culata de bronce, te recomiendo que contactes a nuestro técnico especializado. Puedes hacerlo a través del siguiente enlace: [Contacto Técnico](https://wa.me/+51967020770?text=Buen%20dia%20requiero%20info).\n\nSi necesitas más información sobre otros productos o servicios, házmelo saber. ¡Estoy aquí para ayudarte!"
+  },
+  {
+    "id": "d1440c6e-7d4d-41cd-8209-0cef27ef3328",
+    "timestamp": "2025-01-30T17:05:13.529Z",
+    "userMessage": "user: Buenas tardes, quisiera comprar suples para bujías, me podría dar el número del vendedor de la zona de Villa Maria del Triunfo.",
+    "userNumber": "51929515770",
+    "userName": "Maribel Peña",
+    "botResponse": "Buenas tardes, Maribel. Lamentablemente, no tengo acceso a información específica de vendedores en zonas. Te recomiendo contactar directamente a nuestro servicio de atención al cliente al número 980292435 para consultas sobre compras o logística.\n\nGracias por comunicarte con Ememsa."
+  },
+  {
+    "id": "c9773f79-4775-436e-9e83-f7a0feb506b4",
+    "timestamp": "2025-01-30T17:05:35.033Z",
+    "userMessage": "user: Buenas tardes, quisiera comprar suples para bujías, me podría dar el número del vendedor de la zona de Villa Maria del Triunfo.\nassistant: Buenas tardes, Maribel. Lamentablemente, no tengo acceso a información específica de vendedores en zonas. Te recomiendo contactar directamente a nuestro servicio de atención al cliente al número 980292435 para consultas sobre compras o logística.\n\nGracias por comunicarte con Ememsa.\nuser: Muchas gracias.",
+    "userNumber": "51929515770",
+    "userName": "Maribel Peña",
+    "botResponse": "De nada, Maribel. Si necesitas más información o asistencia en el futuro, no dudes en contactarme. \n\nGracias por comunicarte con Ememsa."
+  },
+  {
+    "id": "cbee9ee9-382d-485d-85d4-723459a0a7ac",
+    "timestamp": "2025-01-30T17:09:14.854Z",
+    "userMessage": "user: Hola probando",
+    "userNumber": "51996602002",
+    "userName": "Analista Comercial",
+    "botResponse": "¡Hola! Gracias por comunicarte con Ememsa. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "4dce09a3-51f8-4b43-b72b-adaea3800e14",
+    "timestamp": "2025-01-30T17:14:00.315Z",
+    "userMessage": "user: Las de mariposa podrían servir? Son para controlar el flujo de agua",
+    "userNumber": "51998104517",
+    "userName": "Julio",
+    "botResponse": "Hola, Julio. Las válvulas mariposa son una excelente opción para controlar el flujo de agua, ya que permiten un manejo eficiente y preciso del caudal. \n\nEn Ememsa, contamos con válvulas para GLP que también pueden ser útiles en aplicaciones de control de flujo. Te invito a revisar nuestro catálogo de válvulas para GLP en el siguiente enlace: [Válvulas para GLP](https://ememsa.com/wp-content/uploads/2018/10/Brochure-Reguladores-GLP-top-Gas.pdf).\n\nSi necesitas asesoría técnica especializada, puedes contactar a nuestro técnico aquí: [Contacto Técnico](https://wa.me/+51967020770?text=Buen%20dia"
+  },
+  {
+    "id": "6402d6fe-6b39-4554-95bf-a596b733e311",
+    "timestamp": "2025-01-30T17:19:15.646Z",
+    "userMessage": "user: Le saludo",
+    "userNumber": "51946654400",
+    "userName": "Distribuciones Yami",
+    "botResponse": "¡Hola! Es un placer atenderte. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "bf28f60f-5618-4696-b862-5da877fa9bc2",
+    "timestamp": "2025-01-30T21:10:22.611Z",
+    "userMessage": "user: undefined",
+    "userNumber": "51921538608",
+    "userName": "Kevin Anthony Crespo",
+    "botResponse": "¡Hola, Kevin! Es un placer saludarte. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "31768767-b0a5-42ca-b807-466803c10688",
+    "timestamp": "2025-01-30T21:10:23.790Z",
+    "userMessage": "user: undefined\nuser: undefined",
+    "userNumber": "51921538608",
+    "userName": "Kevin Anthony Crespo",
+    "botResponse": "¡Hola Kevin! Es un placer saludarte. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "2fc75c9b-99f2-4ec9-9caf-dcb3e5a8fd24",
+    "timestamp": "2025-01-30T21:10:28.371Z",
+    "userMessage": "user: undefined\nuser: undefined\nassistant: ¡Hola, Kevin! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nassistant: ¡Hola Kevin! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nuser: Tendrán avillandora para cañerías bundy",
+    "userNumber": "51921538608",
+    "userName": "Kevin Anthony Crespo",
+    "botResponse": "Lamentablemente, no contamos con avilladoras para cañerías Bundy en nuestro catálogo. Sin embargo, ofrecemos una variedad de productos relacionados con tuberías y conexiones. Si necesitas información sobre otros productos o servicios, estaré encantado de ayudarte. ¿Te gustaría conocer más sobre alguna otra línea de negocio?"
+  },
+  {
+    "id": "daf467fd-bef3-4173-bc5d-a2ebaf44dd13",
+    "timestamp": "2025-01-30T21:10:32.554Z",
+    "userMessage": "user: undefined",
+    "userNumber": "51996602002",
+    "userName": "Analista Comercial",
+    "botResponse": "¡Hola! Es un placer saludarte. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "cdc215ea-b7a2-43e6-be81-01b75c20c889",
+    "timestamp": "2025-01-30T21:10:46.818Z",
+    "userMessage": "user: undefined",
+    "userNumber": "51959754782",
+    "userName": "Aceros Inoxidable H&S",
+    "botResponse": "¡Hola! Bienvenido a Ememsa. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "12cf30e3-4655-45e9-8a6e-eab18d31f310",
+    "timestamp": "2025-01-30T21:10:49.288Z",
+    "userMessage": "user: undefined",
+    "userNumber": "51976311427",
+    "userName": "Logistica Autonort",
+    "botResponse": "¡Hola! Bienvenido a Ememsa. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "9adc4b32-11b1-478e-9764-1cc311e0e5eb",
+    "timestamp": "2025-01-30T21:10:55.718Z",
+    "userMessage": "user: undefined\nassistant: ¡Hola! Bienvenido a Ememsa. ¿En qué puedo ayudarte hoy?\nuser: Buenos días, le saluda Winston Garcia, asistente de abasteciemiento autonort, quisiera saber si cuenta con el siguiente producto: MANGUERA 1/4\" (6MM) MAX.W.P. 400BAR/5800PS",
+    "userNumber": "51976311427",
+    "userName": "Logistica Autonort",
+    "botResponse": "Buenos días, Winston. En Ememsa ofrecemos una amplia variedad de mangueras y cañerías. Para conocer la disponibilidad del producto específico que mencionas, te recomiendo consultar nuestro catálogo de mangueras automotrices: [Catálogo de Mangueras Automotrices](https://ememsa.com/wp-content/uploads/2024/08/CATALOGO-MANGUERAS-AUTOMOTRICES_0824.pdf).\n\nSi necesitas asesoría técnica o más información sobre este producto, puedes contactar a nuestro técnico especializado aquí: [Contacto Técnico](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar).\n\n¿Hay algo más en lo que pueda ayudarte?"
+  },
+  {
+    "id": "d8b65e70-d010-4209-b192-94dee1c3c375",
+    "timestamp": "2025-01-30T21:11:01.201Z",
+    "userMessage": "user: undefined",
+    "userNumber": "51987113516",
+    "userName": "Stefano",
+    "botResponse": "¡Hola, Stefano! Es un placer saludarte. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "3381a2fc-9e3c-4dfb-a562-cb3371c8e474",
+    "timestamp": "2025-01-30T21:11:04.815Z",
+    "userMessage": "user: undefined\nuser: undefined\nassistant: ¡Hola, Kevin! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nassistant: ¡Hola Kevin! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nuser: Tendrán avillandora para cañerías bundy\nassistant: Lamentablemente, no contamos con avilladoras para cañerías Bundy en nuestro catálogo. Sin embargo, ofrecemos una variedad de productos relacionados con tuberías y conexiones. Si necesitas información sobre otros productos o servicios, estaré encantado de ayudarte. ¿Te gustaría conocer más sobre alguna otra línea de negocio?\nuser: Iuhuuu",
+    "userNumber": "51921538608",
+    "userName": "Kevin Anthony Crespo",
+    "botResponse": "Parece que estás emocionado. ¿En qué puedo ayudarte hoy? Si tienes alguna consulta sobre nuestros productos o servicios, no dudes en decírmelo."
+  },
+  {
+    "id": "74b16182-c165-4b2f-80e5-31bd87bc400a",
+    "timestamp": "2025-01-30T21:11:10.069Z",
+    "userMessage": "user: undefined\nuser: undefined\nassistant: ¡Hola, Kevin! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nassistant: ¡Hola Kevin! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nuser: Tendrán avillandora para cañerías bundy\nassistant: Lamentablemente, no contamos con avilladoras para cañerías Bundy en nuestro catálogo. Sin embargo, ofrecemos una variedad de productos relacionados con tuberías y conexiones. Si necesitas información sobre otros productos o servicios, estaré encantado de ayudarte. ¿Te gustaría conocer más sobre alguna otra línea de negocio?\nuser: Iuhuuu\nassistant: Parece que estás emocionado. ¿En qué puedo ayudarte hoy? Si tienes alguna consulta sobre nuestros productos o servicios, no dudes en decírmelo.\nuser: Buenasss",
+    "userNumber": "51921538608",
+    "userName": "Kevin Anthony Crespo",
+    "botResponse": "¡Buenas! ¿Cómo puedo ayudarte hoy? Si tienes alguna consulta sobre nuestros productos o servicios, estaré encantado de asistirte."
+  },
+  {
+    "id": "d299c893-501d-4888-999c-61050436d41e",
+    "timestamp": "2025-01-30T21:11:10.916Z",
+    "userMessage": "user: undefined\nassistant: ¡Hola, Kevin! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nassistant: ¡Hola Kevin! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nuser: Tendrán avillandora para cañerías bundy\nassistant: Lamentablemente, no contamos con avilladoras para cañerías Bundy en nuestro catálogo. Sin embargo, ofrecemos una variedad de productos relacionados con tuberías y conexiones. Si necesitas información sobre otros productos o servicios, estaré encantado de ayudarte. ¿Te gustaría conocer más sobre alguna otra línea de negocio?\nuser: Iuhuuu\nassistant: Parece que estás emocionado. ¿En qué puedo ayudarte hoy? Si tienes alguna consulta sobre nuestros productos o servicios, no dudes en decírmelo.\nuser: Buenasss\nassistant: ¡Buenas! ¿Cómo puedo ayudarte hoy? Si tienes alguna consulta sobre nuestros productos o servicios, estaré encantado de asistirte.\nuser: Buenas",
+    "userNumber": "51921538608",
+    "userName": "Kevin Anthony Crespo",
+    "botResponse": "¡Buenas! ¿En qué puedo ayudarte hoy? Si tienes alguna consulta sobre nuestros productos o servicios, no dudes en decírmelo."
+  },
+  {
+    "id": "22ed2887-9ca9-408e-bd47-aa7b19ecb544",
+    "timestamp": "2025-01-30T21:11:11.665Z",
+    "userMessage": "assistant: ¡Hola, Kevin! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nassistant: ¡Hola Kevin! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nuser: Tendrán avillandora para cañerías bundy\nassistant: Lamentablemente, no contamos con avilladoras para cañerías Bundy en nuestro catálogo. Sin embargo, ofrecemos una variedad de productos relacionados con tuberías y conexiones. Si necesitas información sobre otros productos o servicios, estaré encantado de ayudarte. ¿Te gustaría conocer más sobre alguna otra línea de negocio?\nuser: Iuhuuu\nassistant: Parece que estás emocionado. ¿En qué puedo ayudarte hoy? Si tienes alguna consulta sobre nuestros productos o servicios, no dudes en decírmelo.\nuser: Buenasss\nassistant: ¡Buenas! ¿Cómo puedo ayudarte hoy? Si tienes alguna consulta sobre nuestros productos o servicios, estaré encantado de asistirte.\nuser: Buenas\nuser: Tardes",
+    "userNumber": "51921538608",
+    "userName": "Kevin Anthony Crespo",
+    "botResponse": "¡Buenas tardes! ¿En qué puedo ayudarte hoy? Si tienes alguna pregunta sobre nuestros productos o servicios, estaré encantado de asistirte."
+  },
+  {
+    "id": "cfd3c390-d843-4b3f-a3fe-b7d0e998e4b0",
+    "timestamp": "2025-01-30T21:11:21.664Z",
+    "userMessage": "user: undefined\nassistant: ¡Hola! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nuser: hola",
+    "userNumber": "51996602002",
+    "userName": "Analista Comercial",
+    "botResponse": "¡Hola! Gracias por comunicarte. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "78ef9c6c-5ae4-4927-83c4-71d4dca5b233",
+    "timestamp": "2025-01-30T21:11:39.072Z",
+    "userMessage": "user: undefined\nassistant: ¡Hola! Bienvenido a Ememsa. ¿En qué puedo ayudarte hoy?\nuser: Buenos días, le saluda Winston Garcia, asistente de abasteciemiento autonort, quisiera saber si cuenta con el siguiente producto: MANGUERA 1/4\" (6MM) MAX.W.P. 400BAR/5800PS\nassistant: Buenos días, Winston. En Ememsa ofrecemos una amplia variedad de mangueras y cañerías. Para conocer la disponibilidad del producto específico que mencionas, te recomiendo consultar nuestro catálogo de mangueras automotrices: [Catálogo de Mangueras Automotrices](https://ememsa.com/wp-content/uploads/2024/08/CATALOGO-MANGUERAS-AUTOMOTRICES_0824.pdf).\n\nSi necesitas asesoría técnica o más información sobre este producto, puedes contactar a nuestro técnico especializado aquí: [Contacto Técnico](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar).\n\n¿Hay algo más en lo que pueda ayudarte?\nuser: Buenas tardes",
+    "userNumber": "51976311427",
+    "userName": "Logistica Autonort",
+    "botResponse": "¡Buenas tardes! ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "4d471618-2e83-4626-9783-4fbc4fac6cb4",
+    "timestamp": "2025-01-30T21:11:40.826Z",
+    "userMessage": "user: undefined\nassistant: ¡Hola! Bienvenido a Ememsa. ¿En qué puedo ayudarte hoy?\nuser: Buenas tardes, para poder trabajar con ustds ?",
+    "userNumber": "51959754782",
+    "userName": "Aceros Inoxidable H&S",
+    "botResponse": "Buenas tardes. Para poder trabajar con nosotros, necesitaría más información sobre el tipo de productos o servicios que le interesan. ¿Está buscando algún producto específico o desea conocer más sobre nuestras líneas de negocio?"
+  },
+  {
+    "id": "003f2bf7-dd71-43b3-b3b7-b0dcb4f66267",
+    "timestamp": "2025-01-30T21:11:57.907Z",
+    "userMessage": "user: undefined\nassistant: ¡Hola, Stefano! Es un placer saludarte. ¿En qué puedo ayudarte hoy?\nuser: Hola por favor quisiera hablar con alguna persona de ventas",
+    "userNumber": "51987113516",
+    "userName": "Stefano",
+    "botResponse": "Para hablar con un técnico especializado en ventas, por favor indícame qué tipo de producto o servicio te interesa. Así podré proporcionarte el enlace correspondiente."
+  },
+  {
+    "id": "132e7c4c-fade-4d89-95c4-e0393ba3ae1b",
+    "timestamp": "2025-01-30T21:12:16.529Z",
+    "userMessage": "user: undefined\nassistant: ¡Hola! Bienvenido a Ememsa. ¿En qué puedo ayudarte hoy?\nuser: Buenas tardes, para poder trabajar con ustds ?\nassistant: Buenas tardes. Para poder trabajar con nosotros, necesitaría más información sobre el tipo de productos o servicios que le interesan. ¿Está buscando algún producto específico o desea conocer más sobre nuestras líneas de negocio?\nuser: Ejes bronce por mayor\nRuc 10772765288",
+    "userNumber": "51959754782",
+    "userName": "Aceros Inoxidable H&S",
+    "botResponse": "En Ememsa ofrecemos barras de latón y bronce dulce, que son resistentes y versátiles. Para obtener información específica sobre precios y disponibilidad de ejes de bronce por mayor, le recomiendo contactar a nuestro técnico especializado. \n\nPuede hacerlo a través del siguiente enlace: [Contacto Técnico](https://wa.me/+51944453817?text=Buen%20dia%20requiero%20info).\n\nSi desea ver nuestro catálogo de productos en bronce, aquí tiene el enlace: [Catálogo de Barras de Latón o Bronce Dulce](https://ememsa.com/laton/).\n\nGracias por su interés en Ememsa."
+  },
+  {
+    "id": "e11e82bd-87da-4385-bcef-e7003af317e9",
+    "timestamp": "2025-01-30T21:12:22.853Z",
+    "userMessage": "user: undefined\nassistant: ¡Hola! Bienvenido a Ememsa. ¿En qué puedo ayudarte hoy?\nuser: Buenos días, le saluda Winston Garcia, asistente de abasteciemiento autonort, quisiera saber si cuenta con el siguiente producto: MANGUERA 1/4\" (6MM) MAX.W.P. 400BAR/5800PS\nassistant: Buenos días, Winston. En Ememsa ofrecemos una amplia variedad de mangueras y cañerías. Para conocer la disponibilidad del producto específico que mencionas, te recomiendo consultar nuestro catálogo de mangueras automotrices: [Catálogo de Mangueras Automotrices](https://ememsa.com/wp-content/uploads/2024/08/CATALOGO-MANGUERAS-AUTOMOTRICES_0824.pdf).\n\nSi necesitas asesoría técnica o más información sobre este producto, puedes contactar a nuestro técnico especializado aquí: [Contacto Técnico](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar).\n\n¿Hay algo más en lo que pueda ayudarte?\nuser: Buenas tardes\nassistant: ¡Buenas tardes! ¿En qué puedo ayudarte hoy?\nuser: Buenas Tardes, quisiera saber si cuentan con : MANGUERA 1/4\" (6MM) MAX.W.P. 400BAR/5800PS",
+    "userNumber": "51976311427",
+    "userName": "Logistica Autonort",
+    "botResponse": "Buenas tardes. En Ememsa ofrecemos diversas mangueras, incluyendo opciones para alta presión. Te invito a consultar nuestro catálogo de mangueras automotrices para verificar la disponibilidad del producto que mencionas: [Catálogo de Mangueras Automotrices](https://ememsa.com/wp-content/uploads/2024/08/CATALOGO-MANGUERAS-AUTOMOTRICES_0824.pdf).\n\nSi necesitas asesoría técnica o más información específica, puedes contactar a nuestro técnico especializado aquí: [Contacto Técnico](https://wa.me/+51949688368?text=Buen%20dia%20quiero%20cotizar).\n\n¿Hay algo más en lo que pueda asistirte?"
+  },
+  {
+    "id": "0bb891bd-d33c-4954-9952-ea8a61e50660",
+    "timestamp": "2025-01-30T21:20:01.145Z",
+    "userMessage": "user: hola",
+    "userNumber": "51996602002",
+    "userName": "Analista Comercial",
+    "botResponse": "¡Hola! Buen día. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "79a4a1a6-24cd-4359-842b-b90831a0c920",
+    "timestamp": "2025-01-30T21:20:10.883Z",
+    "userMessage": "user: hola\nassistant: ¡Hola! Buen día. ¿En qué puedo ayudarte hoy?\nuser: venden pan?",
+    "userNumber": "51996602002",
+    "userName": "Analista Comercial",
+    "botResponse": "Para mayor información, consulta nuestra página web: https://ememsa.com. Gracias por comunicarte con Ememsa."
   }
 ]
