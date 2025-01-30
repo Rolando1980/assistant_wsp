@@ -1,0 +1,50 @@
+diff --git a/node_modules/@bot-whatsapp/provider-baileys/dist/index.cjs b/node_modules/@bot-whatsapp/provider-baileys/dist/index.cjs
+index f29683a..8a47e2d 100644
+--- a/node_modules/@bot-whatsapp/provider-baileys/dist/index.cjs
++++ b/node_modules/@bot-whatsapp/provider-baileys/dist/index.cjs
+@@ -37267,7 +37267,7 @@ const baileyGenerateImage = async (base64, name = 'qr.png') => {
+         file.on('error', reject);
+     });
+     await writeFilePromise();
+-    await bot.utils.cleanImage(PATH_QR);
++    //await bot.utils.cleanImage(PATH_QR);
+ };
+ /**
+  * Validates if the given number is a valid WhatsApp number and not a group ID.
+@@ -37423,29 +37423,29 @@ class BaileysProvider extends bot.ProviderClass {
+                         if (typeof degreesLatitude === 'number' && typeof degreesLongitude === 'number') {
+                             payload = {
+                                 ...payload,
+-                                body: bot.utils.generateRefprovider('_event_location_'),
+-                            };
++                                body: '_event_location_',
++                            }; // Evita el uso de `generateRefprovider`
+                         }
+                     }
+                     //Detectar video
+                     if (messageCtx.message?.videoMessage) {
+-                        payload = { ...payload, body: bot.utils.generateRefprovider('_event_media_') };
++                        payload = { ...payload, body: '_event_media_' }; // Evita el uso de `generateRefprovider`
+                     }
+                     //Detectar Sticker
+                     if (messageCtx.message?.stickerMessage) {
+-                        payload = { ...payload, body: bot.utils.generateRefprovider('_event_media_') };
++                        payload = { ...payload, body: '_event_media_' }; // Evita el uso de `generateRefprovider`
+                     }
+                     //Detectar media
+                     if (messageCtx.message?.imageMessage) {
+-                        payload = { ...payload, body: bot.utils.generateRefprovider('_event_media_') };
++                        payload = { ...payload, body: '_event_media_' }; // Evita el uso de `generateRefprovider`
+                     }
+                     //Detectar file
+                     if (messageCtx.message?.documentMessage) {
+-                        payload = { ...payload, body: bot.utils.generateRefprovider('_event_document_') };
++                        payload = { ...payload, body: '_event_document_' }; // Evita el uso de `generateRefprovider` Parche temporal
+                     }
+                     //Detectar voice note
+                     if (messageCtx.message?.audioMessage) {
+-                        payload = { ...payload, body: bot.utils.generateRefprovider('_event_voice_note_') };
++                        payload = { ...payload, body: '_event_voice_note_' }; // Evita el uso de `generateRefprovider` Parche temporal
+                     }
+                     if (payload.from === 'status@broadcast')
+                         return;

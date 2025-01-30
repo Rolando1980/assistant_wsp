@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "postinstall": "patch-package"
   },
   "keywords": [],
   "author": "",
@@ -19,5 +20,8 @@
     "sharp": "^0.32.6",
     "uuid": "^10.0.0"
   },
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "patch-package": "^8.0.0"
+  }
 }
