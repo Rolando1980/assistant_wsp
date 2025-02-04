@@ -1,7 +1,7 @@
 [
   {
-    "ref": "ans_073791c7-130b-46d5-b7cd-3c09fb82e805",
-    "keyword": "key_b7f78d53-e044-4f2b-a0a7-f11f84b98f13",
+    "ref": "ans_3dd057d7-5cfb-465a-8443-2e4b23f94ac7",
+    "keyword": "key_9bd0bef0-0989-4e60-9dc2-c8d50937810f",
     "answer": "¡Hola! ¿Cómo puedo ayudarte hoy?",
     "options": {
       "media": null,
@@ -15,7 +15,7 @@
       "keyword": {},
       "callback": false
     },
-    "refSerialize": "549aadd9258321b6a8cce4c613f8a8f3",
-    "from": "51988267832"
+    "refSerialize": "4ad34cb56c13e818b4de4ef1499bdcef",
+    "from": "51964909618"
   }
 ]
