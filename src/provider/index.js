@@ -77,6 +77,9 @@ export const startWhatsAppBot = async () => {
         }
     };
 
+    // Forzamos la asignación de databaseClass para que la librería la encuentre
+    firebaseDatabase.databaseClass = firebaseDatabase;
+
     // Logs para verificar la instancia y la existencia del método
     console.log("firebaseDatabase instantiated:", firebaseDatabase);
     console.log("firebaseDatabase.getPrevByNumber exists:", typeof firebaseDatabase.getPrevByNumber === 'function');
