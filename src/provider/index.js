@@ -38,7 +38,6 @@ class FirebaseAdapter {
     }
 }
 
-// 🔽 Función para identificar el tipo de mensaje recibido
 const getMessageType = (messageCtx) => {
     if (messageCtx.message?.audioMessage) return 'audio';
     if (messageCtx.message?.stickerMessage) return 'sticker';
@@ -50,7 +49,6 @@ const getMessageType = (messageCtx) => {
     return 'other';
 };
 
-// 🔽 Función para obtener el historial de conversación de un usuario
 const getConversationHistory = async (userNumber) => {
     try {
         const snapshot = await db.ref(`conversations/${userNumber}`)
@@ -72,7 +70,6 @@ const getConversationHistory = async (userNumber) => {
     }
 };
 
-// 🔽 Función para resumir la conversación en un string
 const summarizeConversation = (history) => {
     return history.map(msg => `${msg.role}: ${msg.content}`).join('\n');
 };
@@ -81,6 +78,10 @@ export const startWhatsAppBot = async () => {
     const { BaileysProvider } = await import('@bot-whatsapp/provider-baileys');
     const adapterProvider = new BaileysProvider();
     const adapterDB = new FirebaseAdapter(); // 🔹 Usamos nuestro adaptador personalizado
+
+    // Logs agregados para verificar la instancia del adaptador
+    console.log("FirebaseAdapter instantiated:", adapterDB);
+    console.log("FirebaseAdapter.getPrevByNumber exists:", typeof adapterDB.getPrevByNumber === 'function');
 
     adapterProvider.on('messages.upsert', async ({ messages, type }) => {
         if (type !== 'notify') return;
@@ -103,7 +104,6 @@ export const startWhatsAppBot = async () => {
         adapterProvider.emit('message', payload);
     });
 
-    // 🔽 Función para manejar mensajes entrantes
     const handleIncomingMessage = async (message) => {
         try {
             const userNumber = message.from;
@@ -152,7 +152,7 @@ export const startWhatsAppBot = async () => {
     createBot({
         flow: createFlow([addKeyword('hi').addAnswer('¡Hola! ¿Cómo puedo ayudarte hoy?')]),
         provider: adapterProvider,
-        database: adapterDB, // 🔹 Usamos nuestro adaptador de Firebase
+        database: adapterDB,
     });
 
     QRPortalWeb();

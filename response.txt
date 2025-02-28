@@ -31494,5 +31494,29 @@
     "userNumber": "51983322629",
     "userName": "Andres",
     "botResponse": "Para conectores y adaptadores de manguera de teflón, ofrecemos una variedad de productos en nuestra línea de accesorios automotrices y artículos ferreteros. Estos incluyen componentes para sistemas de freno, dirección, y más.\n\nTe invito a revisar nuestro catálogo de accesorios automotrices, donde podrás encontrar conectores y adaptadores: [Catálogo aquí](https://ememsa.com/wp-content/uploads/2024/08/CATALOGO-MANGUERAS-AUTOMOTRICES_0824.pdf).\n\nSi necesitas asesoría técnica o más información específica, no dudes en decírmelo."
+  },
+  {
+    "id": "d89b8c49-b460-4246-a263-6d825a3979ba",
+    "timestamp": "2025-02-28T17:22:52.076Z",
+    "userMessage": "user: Hola buenas tardes\nassistant: ¡Buenas tardes, Rolando! ¿En qué puedo ayudarte hoy?\nuser: Que venden ?\nassistant: En Ememsa ofrecemos una variedad de productos y servicios, que incluyen:\n\n- Llaves metálicas marca CV.\n- Accesorios automotriz y artículos ferreteros.\n- Barras de latón o bronce dulce.\n- Tuberías para gas natural.\n- Tuberías de cobre tipo “L”.\n- Tuberías para agua.\n- Válvulas para GLP.\n- Filtros para aire y aceite.\n- Servicios de fabricación, montaje y mantenimiento.\n\nSi necesitas información específica sobre algún producto o servicio, no dudes en decírmelo.\nassistant: Parece que tu mensaje no se ha entendido. ¿Podrías repetir tu consulta o decirme en qué puedo ayudarte? Estoy aquí para asistirte.\nassistant: Lo siento, ha ocurrido un error. Por favor, intenta nuevamente más tarde.\nuser: ?",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "Parece que no he entendido tu consulta. ¿Podrías especificar en qué te gustaría que te ayude? Estoy aquí para asistirte."
+  },
+  {
+    "id": "0d757214-da82-4698-b5de-f29872515e2b",
+    "timestamp": "2025-02-28T17:23:28.247Z",
+    "userMessage": "user: Hola buenas tardes\nassistant: ¡Buenas tardes, Rolando! ¿En qué puedo ayudarte hoy?\nuser: Que venden ?\nassistant: En Ememsa ofrecemos una variedad de productos y servicios, que incluyen:\n\n- Llaves metálicas marca CV.\n- Accesorios automotriz y artículos ferreteros.\n- Barras de latón o bronce dulce.\n- Tuberías para gas natural.\n- Tuberías de cobre tipo “L”.\n- Tuberías para agua.\n- Válvulas para GLP.\n- Filtros para aire y aceite.\n- Servicios de fabricación, montaje y mantenimiento.\n\nSi necesitas información específica sobre algún producto o servicio, no dudes en decírmelo.\nassistant: Parece que tu mensaje no se ha entendido. ¿Podrías repetir tu consulta o decirme en qué puedo ayudarte? Estoy aquí para asistirte.\nassistant: Lo siento, ha ocurrido un error. Por favor, intenta nuevamente más tarde.\nuser: ?\nassistant: Parece que no he entendido tu consulta. ¿Podrías especificar en qué te gustaría que te ayude? Estoy aquí para asistirte.\nuser: Que venden ?",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "En Ememsa ofrecemos una variedad de productos y servicios, que incluyen:\n\n- Llaves metálicas marca CV.\n- Accesorios automotriz y artículos ferreteros.\n- Barras de latón o bronce dulce.\n- Tuberías para gas natural y agua.\n- Tuberías de cobre tipo “L”.\n- Válvulas para GLP.\n- Filtros para aire y aceite.\n- Servicios de fabricación, montaje y mantenimiento.\n\nSi necesitas información sobre un producto específico, no dudes en decírmelo."
+  },
+  {
+    "id": "e2844dd0-aac1-4dfc-a1e7-c8bcccac6b66",
+    "timestamp": "2025-02-28T20:24:53.301Z",
+    "userMessage": "user: Hola buenas tardes\nassistant: ¡Buenas tardes, Rolando! ¿En qué puedo ayudarte hoy?\nuser: Que venden ?\nassistant: En Ememsa ofrecemos una variedad de productos y servicios, que incluyen:\n\n- Llaves metálicas marca CV.\n- Accesorios automotriz y artículos ferreteros.\n- Barras de latón o bronce dulce.\n- Tuberías para gas natural.\n- Tuberías de cobre tipo “L”.\n- Tuberías para agua.\n- Válvulas para GLP.\n- Filtros para aire y aceite.\n- Servicios de fabricación, montaje y mantenimiento.\n\nSi necesitas información específica sobre algún producto o servicio, no dudes en decírmelo.\nassistant: Parece que tu mensaje no se ha entendido. ¿Podrías repetir tu consulta o decirme en qué puedo ayudarte? Estoy aquí para asistirte.\nassistant: Lo siento, ha ocurrido un error. Por favor, intenta nuevamente más tarde.\nuser: ?\nassistant: Parece que no he entendido tu consulta. ¿Podrías especificar en qué te gustaría que te ayude? Estoy aquí para asistirte.\nuser: Que venden ?\nassistant: En Ememsa ofrecemos una variedad de productos y servicios, que incluyen:\n\n- Llaves metálicas marca CV.\n- Accesorios automotriz y artículos ferreteros.\n- Barras de latón o bronce dulce.\n- Tuberías para gas natural y agua.\n- Tuberías de cobre tipo “L”.\n- Válvulas para GLP.\n- Filtros para aire y aceite.\n- Servicios de fabricación, montaje y mantenimiento.\n\nSi necesitas información sobre un producto específico, no dudes en decírmelo.\nuser: Hola",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "¡Hola! ¿Cómo puedo ayudarte hoy?"
   }
 ]
