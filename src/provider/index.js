@@ -5,6 +5,41 @@ import { db } from "../database/firebaseConfig.js";
 
 const { createBot, createFlow, addKeyword } = pkg;
 
+// Clase adaptadora para Firebase
+class FirebaseAdapter {
+  constructor(db) {
+    this.db = db;
+    // Forzamos que la propiedad databaseClass apunte a esta instancia
+    this.databaseClass = this;
+  }
+
+  async getPrevByNumber(number) {
+    try {
+      const snapshot = await this.db.ref(`conversations/${number}`)
+        .orderByChild('timestamp')
+        .limitToLast(1)
+        .once('value');
+      const data = snapshot.val() || {};
+      return Object.values(data)[0]?.message || null;
+    } catch (error) {
+      console.error('Error al obtener la conversación anterior:', error);
+      return null;
+    }
+  }
+
+  async save({ ctx, from, answer }) {
+    try {
+      await this.db.ref(`conversations/${from}`).push({
+        timestamp: new Date().toISOString(),
+        message: ctx.body,
+        response: answer,
+      });
+    } catch (error) {
+      console.error('Error al guardar la conversación:', error);
+    }
+  }
+}
+
 // Función para identificar el tipo de mensaje recibido
 const getMessageType = (messageCtx) => {
   if (messageCtx.message?.audioMessage) return 'audio';
@@ -42,53 +77,18 @@ const summarizeConversation = (history) => {
   return history.map(msg => `${msg.role}: ${msg.content}`).join('\n');
 };
 
-// Función principal para iniciar el bot de WhatsApp
 export const startWhatsAppBot = async () => {
   const { BaileysProvider } = await import('@bot-whatsapp/provider-baileys');
   const adapterProvider = new BaileysProvider();
 
-  // Definir firebaseDatabase como objeto literal con los métodos requeridos
-  const firebaseDatabase = {
-    async getPrevByNumber(number) {
-      try {
-        const snapshot = await db.ref(`conversations/${number}`)
-          .orderByChild('timestamp')
-          .limitToLast(1)
-          .once('value');
-        const data = snapshot.val() || {};
-        return Object.values(data)[0]?.message || null;
-      } catch (error) {
-        console.error('Error al obtener la conversación anterior:', error);
-        return null;
-      }
-    },
-    async save({ ctx, from, answer }) {
-      try {
-        await db.ref(`conversations/${from}`).push({
-          timestamp: new Date().toISOString(),
-          message: ctx.body,
-          response: answer,
-        });
-      } catch (error) {
-        console.error('Error al guardar la conversación:', error);
-      }
-    }
-  };
+  // Creamos la instancia del adaptador con Firebase
+  const firebaseAdapter = new FirebaseAdapter(db);
 
-  // Creamos el bot pasando firebaseDatabase directamente
-  const bot = createBot({
-    flow: createFlow([addKeyword('hi').addAnswer('¡Hola! ¿Cómo puedo ayudarte hoy?')]),
-    provider: adapterProvider,
-    database: firebaseDatabase,
-  });
+  console.log("firebaseAdapter:", firebaseAdapter);
+  console.log("firebaseAdapter.databaseClass:", firebaseAdapter.databaseClass);
+  console.log("Existe getPrevByNumber:", typeof firebaseAdapter.databaseClass.getPrevByNumber === 'function');
 
-  // Forzamos que el bot tenga la propiedad databaseClass
-  bot.databaseClass = firebaseDatabase;
-
-  console.log("Bot creado, databaseClass asignada:", bot.databaseClass);
-  console.log("Existe getPrevByNumber:", typeof bot.databaseClass.getPrevByNumber === 'function');
-
-  // Escucha de eventos de mensajes entrantes
+  // Configuración de recepción de mensajes
   adapterProvider.on('messages.upsert', async ({ messages, type }) => {
     if (type !== 'notify') return;
     const [messageCtx] = messages;
@@ -145,6 +145,13 @@ export const startWhatsAppBot = async () => {
       await adapterProvider.sendText(`${message.from}@s.whatsapp.net`, errorMessage);
     }
   };
+
+  // Creamos el bot pasando la instancia del adaptador
+  createBot({
+    flow: createFlow([addKeyword('hi').addAnswer('¡Hola! ¿Cómo puedo ayudarte hoy?')]),
+    provider: adapterProvider,
+    database: firebaseAdapter,
+  });
 
   QRPortalWeb();
   adapterProvider.on('message', handleIncomingMessage);
