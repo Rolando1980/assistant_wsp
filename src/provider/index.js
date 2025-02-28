@@ -46,7 +46,7 @@ export const startWhatsAppBot = async () => {
   const { BaileysProvider } = await import('@bot-whatsapp/provider-baileys');
   const adapterProvider = new BaileysProvider();
 
-  // Define firebaseAdapter como objeto literal
+  // Define firebaseAdapter como objeto literal con los métodos requeridos
   const firebaseAdapter = {
     async getPrevByNumber(number) {
       try {
@@ -74,14 +74,21 @@ export const startWhatsAppBot = async () => {
     }
   };
 
-  // Creamos un objeto "wrapper" que incluya la propiedad databaseClass
-  const databaseAdapter = {
-    ...firebaseAdapter,
-    databaseClass: firebaseAdapter,
-  };
+  // Creamos el bot y capturamos la instancia
+  const bot = createBot({
+    flow: createFlow([addKeyword('hi').addAnswer('¡Hola! ¿Cómo puedo ayudarte hoy?')]),
+    provider: adapterProvider,
+    database: firebaseAdapter,
+  });
 
-  console.log("databaseAdapter:", databaseAdapter);
-  console.log("Existe getPrevByNumber:", typeof databaseAdapter.databaseClass.getPrevByNumber === 'function');
+  // Forzamos que la instancia tenga la propiedad databaseClass
+  if (!bot.databaseClass) {
+    bot.databaseClass = firebaseAdapter;
+    console.log("Se asignó manualmente bot.databaseClass");
+  }
+
+  console.log("Bot:", bot);
+  console.log("Existe bot.databaseClass.getPrevByNumber:", typeof bot.databaseClass.getPrevByNumber === 'function');
 
   // Configuración de recepción de mensajes entrantes
   adapterProvider.on('messages.upsert', async ({ messages, type }) => {
@@ -140,13 +147,6 @@ export const startWhatsAppBot = async () => {
       await adapterProvider.sendText(`${message.from}@s.whatsapp.net`, errorMessage);
     }
   };
-
-  // Creamos el bot pasando el adaptador "wrapper"
-  createBot({
-    flow: createFlow([addKeyword('hi').addAnswer('¡Hola! ¿Cómo puedo ayudarte hoy?')]),
-    provider: adapterProvider,
-    database: databaseAdapter,
-  });
 
   QRPortalWeb();
   adapterProvider.on('message', handleIncomingMessage);
