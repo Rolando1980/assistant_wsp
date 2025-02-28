@@ -1,5 +1,8 @@
 import admin from "firebase-admin";
-import serviceAccount from "./firebase-credentials.json" assert { type: "json" };
+import fs from "fs";
+
+// Leer las credenciales de Firebase desde el archivo JSON
+const serviceAccount = JSON.parse(fs.readFileSync("C:/Users/Comercial-01/Documents/Rolando/Desarrollos/Ememsa_bot/src/database/firebase-credentials.json", "utf8"));
 
 // Validación básica de credenciales
 if (!serviceAccount || !serviceAccount.project_id) {
