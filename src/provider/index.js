@@ -5,39 +5,7 @@ import { db } from "../database/firebaseConfig.js";
 
 const { createBot, createFlow, addKeyword } = pkg;
 
-// 🔽 Adaptador personalizado para Firebase
-class FirebaseAdapter {
-    constructor() {
-        this.db = db;
-    }
-
-    async getPrevByNumber(number) {
-        try {
-            const snapshot = await this.db.ref(`conversations/${number}`)
-                .orderByChild('timestamp')
-                .limitToLast(1)
-                .once('value');
-            const data = snapshot.val() || {};
-            return Object.values(data)[0]?.message || null;
-        } catch (error) {
-            console.error('Error al obtener la conversación anterior:', error);
-            return null;
-        }
-    }
-
-    async save({ ctx, from, answer }) {
-        try {
-            await this.db.ref(`conversations/${from}`).push({
-                timestamp: new Date().toISOString(),
-                message: ctx.body,
-                response: answer
-            });
-        } catch (error) {
-            console.error('Error al guardar la conversación:', error);
-        }
-    }
-}
-
+// Función para identificar el tipo de mensaje recibido
 const getMessageType = (messageCtx) => {
     if (messageCtx.message?.audioMessage) return 'audio';
     if (messageCtx.message?.stickerMessage) return 'sticker';
@@ -49,6 +17,7 @@ const getMessageType = (messageCtx) => {
     return 'other';
 };
 
+// Función para obtener el historial de conversación de un usuario
 const getConversationHistory = async (userNumber) => {
     try {
         const snapshot = await db.ref(`conversations/${userNumber}`)
@@ -70,19 +39,49 @@ const getConversationHistory = async (userNumber) => {
     }
 };
 
+// Función para resumir la conversación en un string
 const summarizeConversation = (history) => {
     return history.map(msg => `${msg.role}: ${msg.content}`).join('\n');
 };
 
+// Función principal para iniciar el bot de WhatsApp
 export const startWhatsAppBot = async () => {
     const { BaileysProvider } = await import('@bot-whatsapp/provider-baileys');
     const adapterProvider = new BaileysProvider();
-    const adapterDB = new FirebaseAdapter(); // 🔹 Usamos nuestro adaptador personalizado
 
-    // Logs agregados para verificar la instancia del adaptador
-    console.log("FirebaseAdapter instantiated:", adapterDB);
-    console.log("FirebaseAdapter.getPrevByNumber exists:", typeof adapterDB.getPrevByNumber === 'function');
+    // Definir firebaseDatabase como un objeto literal con los métodos requeridos
+    const firebaseDatabase = {
+        async getPrevByNumber(number) {
+            try {
+                const snapshot = await db.ref(`conversations/${number}`)
+                    .orderByChild('timestamp')
+                    .limitToLast(1)
+                    .once('value');
+                const data = snapshot.val() || {};
+                return Object.values(data)[0]?.message || null;
+            } catch (error) {
+                console.error('Error al obtener la conversación anterior:', error);
+                return null;
+            }
+        },
+        async save({ ctx, from, answer }) {
+            try {
+                await db.ref(`conversations/${from}`).push({
+                    timestamp: new Date().toISOString(),
+                    message: ctx.body,
+                    response: answer,
+                });
+            } catch (error) {
+                console.error('Error al guardar la conversación:', error);
+            }
+        }
+    };
 
+    // Logs para verificar la instancia y la existencia del método
+    console.log("firebaseDatabase instantiated:", firebaseDatabase);
+    console.log("firebaseDatabase.getPrevByNumber exists:", typeof firebaseDatabase.getPrevByNumber === 'function');
+
+    // Escucha de eventos de mensajes entrantes
     adapterProvider.on('messages.upsert', async ({ messages, type }) => {
         if (type !== 'notify') return;
         const [messageCtx] = messages;
@@ -104,6 +103,7 @@ export const startWhatsAppBot = async () => {
         adapterProvider.emit('message', payload);
     });
 
+    // Función para manejar los mensajes entrantes
     const handleIncomingMessage = async (message) => {
         try {
             const userNumber = message.from;
@@ -149,10 +149,11 @@ export const startWhatsAppBot = async () => {
         }
     };
 
+    // Crear el bot usando el adaptador de Firebase definido como objeto literal
     createBot({
         flow: createFlow([addKeyword('hi').addAnswer('¡Hola! ¿Cómo puedo ayudarte hoy?')]),
         provider: adapterProvider,
-        database: adapterDB,
+        database: firebaseDatabase,
     });
 
     QRPortalWeb();
