@@ -1,7 +1,7 @@
 import admin from "firebase-admin";
 
 // Cargar las credenciales de Firebase
-import serviceAccount from "./firebase-credentials.json" assert { type: "json" };
+import serviceAccount from "./firebase-credentials.json" with { type: "json" };
 
 // Inicializar Firebase
 admin.initializeApp({
