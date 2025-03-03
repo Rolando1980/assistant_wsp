@@ -31518,5 +31518,157 @@
     "userNumber": "51956326678",
     "userName": "Rolando Martinez",
     "botResponse": "¡Hola! ¿Cómo puedo ayudarte hoy?"
+  },
+  {
+    "id": "0ddf3925-57b3-435f-920b-7fb6e38c1474",
+    "timestamp": "2025-03-03T11:50:30.408Z",
+    "userMessage": "assistant: No hay historial disponible.\nuser: Hola",
+    "userNumber": "51968228086",
+    "userName": "",
+    "botResponse": "¡Hola! Buen día. ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "0bfd3bc3-4970-42f9-8b30-bd3dbbdbd153",
+    "timestamp": "2025-03-03T13:07:09.190Z",
+    "userMessage": "user: Hola buenas tardes\nassistant: ¡Buenas tardes, Rolando! ¿En qué puedo ayudarte hoy?\nuser: Que venden ?\nassistant: En Ememsa ofrecemos una variedad de productos y servicios, que incluyen:\n\n- Llaves metálicas marca CV.\n- Accesorios automotriz y artículos ferreteros.\n- Barras de latón o bronce dulce.\n- Tuberías para gas natural.\n- Tuberías de cobre tipo “L”.\n- Tuberías para agua.\n- Válvulas para GLP.\n- Filtros para aire y aceite.\n- Servicios de fabricación, montaje y mantenimiento.\n\nSi necesitas información específica sobre algún producto o servicio, no dudes en decírmelo.\nassistant: Parece que tu mensaje no se ha entendido. ¿Podrías repetir tu consulta o decirme en qué puedo ayudarte? Estoy aquí para asistirte.\nassistant: Lo siento, ha ocurrido un error. Por favor, intenta nuevamente más tarde.\nuser: ?\nassistant: Parece que no he entendido tu consulta. ¿Podrías especificar en qué te gustaría que te ayude? Estoy aquí para asistirte.\nuser: Que venden ?\nassistant: En Ememsa ofrecemos una variedad de productos y servicios, que incluyen:\n\n- Llaves metálicas marca CV.\n- Accesorios automotriz y artículos ferreteros.\n- Barras de latón o bronce dulce.\n- Tuberías para gas natural y agua.\n- Tuberías de cobre tipo “L”.\n- Válvulas para GLP.\n- Filtros para aire y aceite.\n- Servicios de fabricación, montaje y mantenimiento.\n\nSi necesitas información sobre un producto específico, no dudes en decírmelo.\nuser: Hola\nassistant: ¡Hola! ¿Cómo puedo ayudarte hoy?\nuser: Hola",
+    "userNumber": "51956326678",
+    "userName": "Rolando Martinez",
+    "botResponse": "¡Hola de nuevo! ¿En qué puedo asistirte hoy?"
+  },
+  {
+    "id": "5294cea9-df1c-4285-87b2-fbb59f292ffb",
+    "timestamp": "2025-03-03T13:16:21.476Z",
+    "userMessage": "assistant: No hay historial disponible.\nuser: Buenos dias",
+    "userNumber": "51997167443",
+    "userName": "Kafa",
+    "botResponse": "¡Buenos días, Kafa! ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "29c78a08-61fd-48c7-b389-fe534c081c75",
+    "timestamp": "2025-03-03T13:16:23.285Z",
+    "userMessage": "user: Buenos dias\nassistant: ¡Buenos días, Kafa! ¿En qué puedo ayudarte hoy?\nuser: ",
+    "userNumber": "51997167443",
+    "userName": "Kafa",
+    "botResponse": "Estoy aquí para ayudarte. ¿Tienes alguna consulta sobre nuestros productos o servicios?"
+  },
+  {
+    "id": "2216c535-445a-498f-afa8-6c6eea63a259",
+    "timestamp": "2025-03-03T13:16:58.354Z",
+    "userMessage": "user: Buenos dias\nassistant: ¡Buenos días, Kafa! ¿En qué puedo ayudarte hoy?\nassistant: Estoy aquí para ayudarte. ¿Tienes alguna consulta sobre nuestros productos o servicios?\nuser: _event_media_",
+    "userNumber": "51997167443",
+    "userName": "Kafa",
+    "botResponse": "Soy un bot diseñado exclusivamente para responder mensajes de texto. Por favor, envíame tu consulta en formato de texto y estaré encantado de ayudarte."
+  },
+  {
+    "id": "bc1be5af-29d1-422d-b645-9b6ea5237772",
+    "timestamp": "2025-03-03T13:17:00.597Z",
+    "userMessage": "user: Buenos dias\nassistant: ¡Buenos días, Kafa! ¿En qué puedo ayudarte hoy?\nassistant: Estoy aquí para ayudarte. ¿Tienes alguna consulta sobre nuestros productos o servicios?\nuser: _event_media_\nassistant: Lo siento, ha ocurrido un error. Por favor, intenta nuevamente más tarde.\nuser: _event_media_\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. Por favor, envíame tu consulta en formato de texto y estaré encantado de ayudarte.\nuser: ",
+    "userNumber": "51997167443",
+    "userName": "Kafa",
+    "botResponse": "Parece que no has enviado un mensaje. Si tienes alguna consulta o necesidad sobre nuestros productos o servicios, no dudes en escribirme. Estoy aquí para ayudarte."
+  },
+  {
+    "id": "70c92ba9-30e6-41ef-a58a-a1a0465ecbf6",
+    "timestamp": "2025-03-03T13:17:14.202Z",
+    "userMessage": "user: Buenos dias\nassistant: ¡Buenos días, Kafa! ¿En qué puedo ayudarte hoy?\nassistant: Estoy aquí para ayudarte. ¿Tienes alguna consulta sobre nuestros productos o servicios?\nuser: _event_media_\nassistant: Lo siento, ha ocurrido un error. Por favor, intenta nuevamente más tarde.\nuser: _event_media_\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. Por favor, envíame tu consulta en formato de texto y estaré encantado de ayudarte.\nassistant: Parece que no has enviado un mensaje. Si tienes alguna consulta o necesidad sobre nuestros productos o servicios, no dudes en escribirme. Estoy aquí para ayudarte.\nuser: Estoy en busca de manifol",
+    "userNumber": "51997167443",
+    "userName": "Kafa",
+    "botResponse": "Parece que estás interesado en manifolds. Estos forman parte de nuestra línea de tuberías para agua y gas natural. \n\nTe ofrezco un enlace de contacto con un técnico especializado para que te brinde más información: [Técnico Especializado](https://wa.me/+51914173592?text=Buen%20dia%20requiero%20info). \n\nTambién puedes consultar nuestro catálogo de productos aquí: [Catálogo Tuberías para Agua](https://ememsa.com/wp-content/uploads/2024/01/Catalogo-Rifeng.pdf). \n\nSi necesitas algo más, no dudes en decírmelo."
+  },
+  {
+    "id": "171110a1-84a4-43ab-9933-f35da5404d3e",
+    "timestamp": "2025-03-03T13:17:16.128Z",
+    "userMessage": "user: Buenos dias\nassistant: ¡Buenos días, Kafa! ¿En qué puedo ayudarte hoy?\nassistant: Estoy aquí para ayudarte. ¿Tienes alguna consulta sobre nuestros productos o servicios?\nuser: _event_media_\nassistant: Lo siento, ha ocurrido un error. Por favor, intenta nuevamente más tarde.\nuser: _event_media_\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. Por favor, envíame tu consulta en formato de texto y estaré encantado de ayudarte.\nassistant: Parece que no has enviado un mensaje. Si tienes alguna consulta o necesidad sobre nuestros productos o servicios, no dudes en escribirme. Estoy aquí para ayudarte.\nuser: Estoy en busca de manifol\nassistant: Parece que estás interesado en manifolds. Estos forman parte de nuestra línea de tuberías para agua y gas natural. \n\nTe ofrezco un enlace de contacto con un técnico especializado para que te brinde más información: [Técnico Especializado](https://wa.me/+51914173592?text=Buen%20dia%20requiero%20info). \n\nTambién puedes consultar nuestro catálogo de productos aquí: [Catálogo Tuberías para Agua](https://ememsa.com/wp-content/uploads/2024/01/Catalogo-Rifeng.pdf). \n\nSi necesitas algo más, no dudes en decírmelo.\nuser: ",
+    "userNumber": "51997167443",
+    "userName": "Kafa",
+    "botResponse": "Parece que no has enviado un mensaje. Si tienes alguna consulta o necesitas más información sobre nuestros productos o servicios, por favor házmelo saber. Estoy aquí para ayudarte."
+  },
+  {
+    "id": "d0f026dc-2907-4560-9773-22f8c69f94d7",
+    "timestamp": "2025-03-03T13:17:25.881Z",
+    "userMessage": "user: Buenos dias\nassistant: ¡Buenos días, Kafa! ¿En qué puedo ayudarte hoy?\nassistant: Estoy aquí para ayudarte. ¿Tienes alguna consulta sobre nuestros productos o servicios?\nuser: _event_media_\nassistant: Lo siento, ha ocurrido un error. Por favor, intenta nuevamente más tarde.\nuser: _event_media_\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. Por favor, envíame tu consulta en formato de texto y estaré encantado de ayudarte.\nassistant: Parece que no has enviado un mensaje. Si tienes alguna consulta o necesidad sobre nuestros productos o servicios, no dudes en escribirme. Estoy aquí para ayudarte.\nuser: Estoy en busca de manifol\nassistant: Parece que estás interesado en manifolds. Estos forman parte de nuestra línea de tuberías para agua y gas natural. \n\nTe ofrezco un enlace de contacto con un técnico especializado para que te brinde más información: [Técnico Especializado](https://wa.me/+51914173592?text=Buen%20dia%20requiero%20info). \n\nTambién puedes consultar nuestro catálogo de productos aquí: [Catálogo Tuberías para Agua](https://ememsa.com/wp-content/uploads/2024/01/Catalogo-Rifeng.pdf). \n\nSi necesitas algo más, no dudes en decírmelo.\nassistant: Parece que no has enviado un mensaje. Si tienes alguna consulta o necesitas más información sobre nuestros productos o servicios, por favor házmelo saber. Estoy aquí para ayudarte.\nuser: Según imagen",
+    "userNumber": "51997167443",
+    "userName": "Kafa",
+    "botResponse": "Lo siento, soy un bot diseñado exclusivamente para responder mensajes de texto. Por favor, describe tu consulta o pregunta en formato de texto y estaré encantado de ayudarte."
+  },
+  {
+    "id": "56b5887c-6e68-4e83-ab62-22e8d4541065",
+    "timestamp": "2025-03-03T13:17:27.770Z",
+    "userMessage": "user: Buenos dias\nassistant: ¡Buenos días, Kafa! ¿En qué puedo ayudarte hoy?\nassistant: Estoy aquí para ayudarte. ¿Tienes alguna consulta sobre nuestros productos o servicios?\nuser: _event_media_\nassistant: Lo siento, ha ocurrido un error. Por favor, intenta nuevamente más tarde.\nuser: _event_media_\nassistant: Soy un bot diseñado exclusivamente para responder mensajes de texto. Por favor, envíame tu consulta en formato de texto y estaré encantado de ayudarte.\nassistant: Parece que no has enviado un mensaje. Si tienes alguna consulta o necesidad sobre nuestros productos o servicios, no dudes en escribirme. Estoy aquí para ayudarte.\nuser: Estoy en busca de manifol\nassistant: Parece que estás interesado en manifolds. Estos forman parte de nuestra línea de tuberías para agua y gas natural. \n\nTe ofrezco un enlace de contacto con un técnico especializado para que te brinde más información: [Técnico Especializado](https://wa.me/+51914173592?text=Buen%20dia%20requiero%20info). \n\nTambién puedes consultar nuestro catálogo de productos aquí: [Catálogo Tuberías para Agua](https://ememsa.com/wp-content/uploads/2024/01/Catalogo-Rifeng.pdf). \n\nSi necesitas algo más, no dudes en decírmelo.\nassistant: Parece que no has enviado un mensaje. Si tienes alguna consulta o necesitas más información sobre nuestros productos o servicios, por favor házmelo saber. Estoy aquí para ayudarte.\nuser: Según imagen\nassistant: Lo siento, soy un bot diseñado exclusivamente para responder mensajes de texto. Por favor, describe tu consulta o pregunta en formato de texto y estaré encantado de ayudarte.\nuser: ",
+    "userNumber": "51997167443",
+    "userName": "Kafa",
+    "botResponse": "Parece que no has enviado un mensaje. Si tienes alguna consulta o necesitas información sobre nuestros productos o servicios, no dudes en escribirme. Estoy aquí para ayudarte."
+  },
+  {
+    "id": "e2e5dda5-e35a-450d-a44c-4acc1ea7d212",
+    "timestamp": "2025-03-03T15:38:15.257Z",
+    "userMessage": "assistant: No hay historial disponible.\nuser: Buen día",
+    "userNumber": "51901868208",
+    "userName": "Jhoel",
+    "botResponse": "¡Buen día, Jhoel! ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "0254163e-30c4-4df6-99ed-aa5a827d33cb",
+    "timestamp": "2025-03-03T15:38:34.607Z",
+    "userMessage": "user: Buen día\nassistant: ¡Buen día, Jhoel! ¿En qué puedo ayudarte hoy?\nuser: Tendra disponible cañería de fierro cobrizado de 3/16 y de  3/8",
+    "userNumber": "51901868208",
+    "userName": "Jhoel",
+    "botResponse": "Lamentablemente, no contamos con cañerías de fierro cobrizado. Sin embargo, ofrecemos tuberías de cobre tipo “L” en medidas desde 3/8” a 2”. \n\nSi deseas más información sobre nuestras tuberías de cobre o necesitas asesoría técnica, puedo proporcionarte el contacto correspondiente. ¿Te gustaría eso?"
+  },
+  {
+    "id": "0eef1b34-fa98-4b73-b6b0-3d6e773af4d4",
+    "timestamp": "2025-03-03T16:23:00.108Z",
+    "userMessage": "assistant: No hay historial disponible.\nuser: ¡Buen día! Soy Genesis de Yankenpo, una agencia de marketing digital con 7 años de experiencia en el mercado peruano.\n\nEn Yankenpo, nos especializamos en:\n\nCreación de sitios web\nPosicionamiento web (SEO)\nAdministración de redes sociales\nCreación de fichas de Google\nGestión de Google Ads\nLanding pages\nDiseño de logotipos\nTe adjunto nuestro portafolio para que puedas conocer más sobre nuestros servicios y casos de éxito.\n\nEstamos aquí para ayudarte a multiplicar la facturación de tu negocio, utilizando sistemas efectivos que convierten visitantes en clientes. Por ejemplo, trabajamos con un cliente donde creamos una nueva página web y optimizamos su presencia en buscadores, logrando que apareciera en la primera posición de Google.\n\nEstoy segura de que podemos lograr grandes resultados juntos. Si tienes alguna pregunta o necesitas más información, no dudes en escribirme. Estoy aquí para ayudarte.\n\nQuedo atenta a tu respuesta. 😊\n\nSaludos cordiales,\n\nGenesis Castro.\nYankenpo Agencia de Marketing Digital\n979 404 519\ngcastro@yankenpodigital.com\nhttps://yankenpodigital.com/",
+    "userNumber": "51979404519",
+    "userName": "Genesis Castro Yankenpo Digital",
+    "botResponse": "¡Buen día, Genesis! Gracias por tu mensaje. Soy un asistente de ventas de Ememsa y estoy aquí para ayudarte con cualquier consulta relacionada con nuestros productos o servicios. \n\nSi necesitas información sobre nuestras líneas de negocio, como llaves metálicas, accesorios automotrices, tuberías o cualquier otro producto, no dudes en preguntar. Estoy a tu disposición para asistirte. \n\nSaludos cordiales."
+  },
+  {
+    "id": "da3f9a3c-2313-40c7-ae31-850d32c89e1d",
+    "timestamp": "2025-03-03T20:44:58.658Z",
+    "userMessage": "user: Buenas\nassistant: ¡Buenas! ¿Cómo puedo ayudarte hoy?\nuser: Buenas",
+    "userNumber": "51916134325",
+    "userName": "",
+    "botResponse": "¡Buenas! ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "7ef0272c-2aa8-4523-8c9f-ebb888d47076",
+    "timestamp": "2025-03-03T20:47:41.149Z",
+    "userMessage": "assistant: No hay historial disponible.\nuser: Hola buenas tardes",
+    "userNumber": "51997557178",
+    "userName": "Jymmy Ramos",
+    "botResponse": "¡Buenas tardes, Jymmy! ¿En qué puedo ayudarte hoy?"
+  },
+  {
+    "id": "553bfbe3-12c9-453b-bcdd-4c67ebcf0cc5",
+    "timestamp": "2025-03-03T20:48:10.613Z",
+    "userMessage": "user: Hola buenas tardes\nassistant: ¡Buenas tardes, Jymmy! ¿En qué puedo ayudarte hoy?\nuser: Hola buenas tardes\nassistant: ¡Buenas tardes, Jymmy! ¿En qué puedo ayudarte hoy?\nuser: Quería ver forma de que me hagan llegar mi última boleta del mes de diciembre porfavor",
+    "userNumber": "51997557178",
+    "userName": "Jymmy Ramos",
+    "botResponse": "Para consultar el estado de tu boleta, te recomiendo que contactes a nuestro equipo de Atención al Cliente a través del correo: facturacion@ememsa.pe. Por favor, incluye tu número de RUC y la factura o boleta para que puedan procesar tu solicitud. \n\nSi necesitas ayuda con algo más, no dudes en decírmelo. ¡Gracias!"
+  },
+  {
+    "id": "53807624-e5c2-49ca-b481-cb9e52b7c9d7",
+    "timestamp": "2025-03-03T20:48:25.675Z",
+    "userMessage": "user: Hola buenas tardes\nassistant: ¡Buenas tardes, Jymmy! ¿En qué puedo ayudarte hoy?\nuser: Hola buenas tardes\nassistant: ¡Buenas tardes, Jymmy! ¿En qué puedo ayudarte hoy?\nuser: Quería ver forma de que me hagan llegar mi última boleta del mes de diciembre porfavor\nassistant: Para consultas sobre el estado de tu pedido o la boleta, te recomiendo contactar a nuestro servicio de atención al cliente a través del correo: facturacion@ememsa.pe. Asegúrate de incluir tu número de RUC y el número de factura o boleta para que puedan procesar tu solicitud. \n\nSi necesitas más información sobre nuestros productos o servicios, no dudes en preguntar. ¡Gracias!\nuser: Quería ver forma de que me hagan llegar mi última boleta del mes de diciembre porfavor\nassistant: Para consultar el estado de tu boleta, te recomiendo que contactes a nuestro equipo de Atención al Cliente a través del correo: facturacion@ememsa.pe. Por favor, incluye tu número de RUC y la factura o boleta para que puedan procesar tu solicitud. \n\nSi necesitas ayuda con algo más, no dudes en decírmelo. ¡Gracias!\nuser: Fui ex trabajador",
+    "userNumber": "51997557178",
+    "userName": "Jymmy Ramos",
+    "botResponse": "Si eres un ex trabajador y necesitas información relacionada con Recursos Humanos, te sugiero que contactes al número 963127831. Ellos podrán asistirte con cualquier consulta que tengas. \n\nSi hay algo más en lo que pueda ayudarte, házmelo saber. ¡Gracias!"
+  },
+  {
+    "id": "83d6c66a-11f7-4b4f-ba5e-e5af76290be2",
+    "timestamp": "2025-03-03T21:27:05.313Z",
+    "userMessage": "assistant: No hay historial disponible.\nuser: Buenos dias disculpe quisiera hacerle una cotizacion de unos mantenimientos",
+    "userNumber": "51988355590",
+    "userName": "Milagros Roldan",
+    "botResponse": "¡Buenos días, Milagros! Con gusto te ayudo con la cotización de mantenimientos. Para ofrecerte la mejor asistencia, por favor indícame qué tipo de mantenimiento necesitas: mecánico, eléctrico o algún otro servicio específico. También puedes contactar directamente a nuestro especialista en mantenimiento a través del siguiente enlace: [Mantenimiento mecánico y eléctrico](https://wa.me/+51967020770?text=Buen%20dia%20requiero%20info)."
+  },
+  {
+    "id": "45a70f02-7c5f-4f0e-92c3-2e07123d2e19",
+    "timestamp": "2025-03-03T21:27:27.297Z",
+    "userMessage": "user: Buenos dias disculpe quisiera hacerle una cotizacion de unos mantenimientos\nassistant: ¡Buenos días, Milagros! Con gusto te ayudaré con la cotización de mantenimientos. Para brindarte la información adecuada, ¿podrías especificar qué tipo de mantenimiento necesitas? Si es mecánico o eléctrico, puedo dirigirte al técnico especializado.\nuser: Buenos dias disculpe quisiera hacerle una cotizacion de unos mantenimientos\nassistant: ¡Buenos días, Milagros! Con gusto te ayudo con la cotización de mantenimientos. Para ofrecerte la mejor asistencia, por favor indícame qué tipo de mantenimiento necesitas: mecánico, eléctrico o algún otro servicio específico. También puedes contactar directamente a nuestro especialista en mantenimiento a través del siguiente enlace: [Mantenimiento mecánico y eléctrico](https://wa.me/+51967020770?text=Buen%20dia%20requiero%20info).\nuser: Un mantenimiento preventivo",
+    "userNumber": "51988355590",
+    "userName": "Milagros Roldan",
+    "botResponse": "Gracias por la información, Milagros. Para un mantenimiento preventivo, te recomiendo contactar a nuestro técnico especializado. Puedes hacerlo a través del siguiente enlace: [Mantenimiento mecánico y eléctrico](https://wa.me/+51967020770?text=Buen%20dia%20requiero%20info). Ellos te brindarán toda la información necesaria para tu cotización. Si necesitas más detalles o un catálogo de servicios, házmelo saber."
   }
 ]
