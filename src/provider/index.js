@@ -133,8 +133,10 @@ export const startWhatsAppBot = async () => {
       await db.ref(`conversations/${userNumber}`).push({
         timestamp: new Date().toISOString(),
         userMessage: message.body || '',
+        userName: message.name || 'Desconocido',
         botResponse: fullMessage,
       });
+
       await adapterProvider.sendText(formattedNumber, fullMessage);
     } catch (error) {
       console.error('Error durante el manejo del mensaje:', error);
