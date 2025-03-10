@@ -4,6 +4,7 @@ import axios from 'axios';
 import { v4 as uuidv4 } from 'uuid';
 import fs from 'fs';
 import path from 'path';
+import { json } from 'express';
 
 // Ruta del archivo de instrucciones
 const INSTRUCTION_FILE_PATH = path.resolve('instruction.txt');  
@@ -81,14 +82,19 @@ export const getOpenAIResponse = async (userMessage, userNumber, userName) => {
             let existingData = [];
             try {
                 const fileContent = await fs.promises.readFile('response.txt', 'utf-8');
+                try {
                 existingData = JSON.parse(fileContent);
-
+                } catch (jsonError) {
+                    console.error('Error al parsear JSON del archivo response.txt. Reinicializando el historial.');
+                    existingData = [];
+                }
                 if (!Array.isArray(existingData)) {
                     console.error('El contenido del archivo no es un array válido. Inicializando como un array vacío.');
                     existingData = [];
                 }
             } catch (error) {
                 if (error.code === 'ENOENT') {
+                    // Si el archivo no existe, inicializamos con un array vacío.
                     existingData = [];
                 } else {
                     console.error('Error al leer el archivo:', error.message);
