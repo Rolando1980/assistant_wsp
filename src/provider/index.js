@@ -63,6 +63,10 @@ export const startWhatsAppBot = async () => {
     },
     async save({ ctx, from, answer }) {
       try {
+        if (!ctx || !ctx.body) {
+          throw new Error(`ctx o ctx.body es undefined. Datos: ${JSON.stringify({ ctx, from, answer })}`);
+        }
+
         await db.ref(`conversations/${from}`).push({
           timestamp: new Date().toISOString(),
           message: ctx.body,
@@ -72,6 +76,7 @@ export const startWhatsAppBot = async () => {
         console.error('Error al guardar la conversación:', error);
       }
     }
+
   };
 
   // Creamos el bot y capturamos la instancia
