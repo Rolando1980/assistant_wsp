@@ -61,6 +61,7 @@ export const startWhatsAppBot = async () => {
         return null;
       }
     },
+    
     async save(from, answer, ctx) {
       try {
         const messageBody = ctx?.body || answer || '';
