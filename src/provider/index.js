@@ -3,6 +3,15 @@ import QRPortalWeb from '@bot-whatsapp/portal';
 import { getOpenAIResponse } from '../services/ai.js';
 import { db } from "../database/firebaseConfig.js";
 
+// --- INICIO DE CAMBIOS IMPORTANTES ---
+import path from 'path';
+import { fileURLToPath } from 'url';
+
+// Para obtener __dirname en módulos ES (import/export)
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+// --- FIN DE CAMBIOS IMPORTANTES ---
+
 const { createBot, createFlow, addKeyword } = pkg;
 
 // Función para identificar el tipo de mensaje recibido
@@ -150,6 +159,12 @@ export const startWhatsAppBot = async () => {
     }
   };
 
-  QRPortalWeb();
+  // --- INICIO DE MODIFICACIÓN IMPORTANTE ---
+  QRPortalWeb({
+      port: process.env.PORT || 3000, // Usar el puerto 3000 por defecto
+      root: path.join(__dirname, '..', 'node_modules', '@bot-whatsapp', 'portal', 'dist')
+  });
+  // --- FIN DE MODIFICACIÓN IMPORTANTE ---
+
   adapterProvider.on('message', handleIncomingMessage);
 };
