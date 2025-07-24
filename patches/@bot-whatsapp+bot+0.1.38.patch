@@ -1,0 +1,15 @@
+diff --git a/node_modules/@bot-whatsapp/bot/lib/bundle.bot.cjs b/node_modules/@bot-whatsapp/bot/lib/bundle.bot.cjs
+index 2d0acee..36b2bc0 100644
+--- a/node_modules/@bot-whatsapp/bot/lib/bundle.bot.cjs
++++ b/node_modules/@bot-whatsapp/bot/lib/bundle.bot.cjs
+@@ -1085,7 +1085,9 @@ let CoreClass$1 = class CoreClass extends EventEmitter$1 {
+         if (this.dynamicBlacklist.checkIf(from)) return
+         if (!body) return
+ 
+-        let prevMsg = await this.databaseClass.getPrevByNumber(from);
++        let prevMsg = (this.databaseClass && typeof this.databaseClass.getPrevByNumber === 'function')
++    ? await this.databaseClass.getPrevByNumber(from)
++    : null;
+         const refToContinue = this.flowClass.findBySerialize(prevMsg?.refSerialize);
+ 
+         if (prevMsg?.ref) {

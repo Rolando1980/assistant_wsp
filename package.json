@@ -1,0 +1,28 @@
+{
+  "name": "ememsa_bot",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "postinstall": "patch-package"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@bot-whatsapp/bot": "^0.1.38",
+    "@bot-whatsapp/portal": "^0.1.38",
+    "@bot-whatsapp/provider-baileys": "^0.1.0-alpha.18",
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2",
+    "firebase-admin": "^13.0.2",
+    "openai": "^4.58.2",
+    "sharp": "^0.32.6",
+    "uuid": "^10.0.0"
+  },
+  "description": "",
+  "devDependencies": {
+    "patch-package": "^8.0.0"
+  }
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "ref": "ans_3dd057d7-5cfb-465a-8443-2e4b23f94ac7",
+    "keyword": "key_9bd0bef0-0989-4e60-9dc2-c8d50937810f",
+    "answer": "¡Hola! ¿Cómo puedo ayudarte hoy?",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "4ad34cb56c13e818b4de4ef1499bdcef",
+    "from": "51964909618"
+  }
+]
