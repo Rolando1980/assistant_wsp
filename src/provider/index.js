@@ -70,17 +70,21 @@ export const startWhatsAppBot = async () => {
         return null;
       }
     },
-    async save({ ctx, from, answer }) {
+    
+    async save(from, answer, ctx) {
       try {
+        const messageBody = ctx?.body || answer || '';
+        
         await db.ref(`conversations/${from}`).push({
           timestamp: new Date().toISOString(),
-          message: ctx.body,
+          message: messageBody,
           response: answer,
         });
       } catch (error) {
         console.error('Error al guardar la conversación:', error);
       }
     }
+
   };
 
   // Creamos el bot y capturamos la instancia
